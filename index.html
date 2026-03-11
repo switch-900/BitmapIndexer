@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<!-- Made possible by @bitlodo and @boppleton -->
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bitmap Lookup</title>
+  <style>
+    body {
+      margin: 0;
+      background: black;
+      color: orange;
+      font-family: sans-serif;
+    }
+
+    .center {
+      text-align: center;
+      padding: 20px;
+    }
+
+    #controls {
+      display: inline-flex;
+      gap: 8px;
+      align-items: center;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    #bitmapNumber {
+      margin: 5px;
+      padding: 6px 10px;
+      min-width: 220px;
+    }
+
+    button {
+      background: orange;
+      color: white;
+      border: none;
+      padding: 7px 14px;
+      cursor: pointer;
+    }
+
+    button:disabled {
+      opacity: 0.5;
+      cursor: wait;
+    }
+
+    #result {
+      margin: 16px auto 0;
+      max-width: 1000px;
+      text-align: left;
+      border: 1px solid rgba(255, 165, 0, 0.35);
+      padding: 12px;
+    }
+
+    #result a {
+      color: orange;
+      text-decoration: underline;
+    }
+
+    #visualizer {
+      width: 800px;
+      height: 800px;
+      margin: 20px auto;
+      position: relative;
+      border: 1px solid rgba(255, 165, 0, 0.35);
+    }
+
+    #inscriptionImage {
+      display: block;
+      max-width: 800px;
+      max-height: 800px;
+      width: 100%;
+      height: auto;
+      margin: 12px auto;
+      border: 1px solid rgba(255, 165, 0, 0.35);
+    }
+
+    .muted {
+      color: rgba(255, 165, 0, 0.75);
+      font-size: 0.95em;
+    }
+
+    .row {
+      display: grid;
+      grid-template-columns: 150px 1fr;
+      gap: 10px;
+      margin: 6px 0;
+      align-items: baseline;
+    }
+
+    .label {
+      color: rgba(255, 165, 0, 0.75);
+    }
+
+    .mono {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      word-break: break-all;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="center">
+    <div id="controls">
+      <input type="text" id="bitmapNumber" placeholder="Enter bitmap / block number" />
+      <button id="loadBtn">Load</button>
+    </div>
+
+    <div class="muted" style="margin-top: 10px;">
+      Looks up inscription id from <span class="mono">bitmaps/&lt;start&gt;-&lt;end&gt;.json</span>, loads image from ordinals.com, and renders the Mondrian pattern for that block.
+    </div>
+
+    <div id="result" style="display:none;"></div>
+    <img id="inscriptionImage" alt="Bitmap inscription" style="display:none;" />
+    <div id="visualizer"></div>
+  </div>
+
+  <script>
+    const CHUNK_SIZE = 100000;
+    const MONDRIAN_MODULE_INSCRIPTION_ID = '55551557695dd82a2bda5ec3497684ec7cbb2cc1752ff5101accff1648666c3ai0';
+
+    // Prefer same-origin (GitHub Pages), fall back to raw GitHub.
+    const RAW_GITHUB_BASE = 'https://raw.githubusercontent.com/switch-900/BitmapIndexer/main/';
+
+    const chunkCache = new Map();
+    let mondrianModulePromise = null;
+
+    const $ = (id) => document.getElementById(id);
+
+    function setResult(html) {
+      const el = $('result');
+      el.innerHTML = html;
+      el.style.display = 'block';
+    }
+
+    function clearResult() {
+      $('result').style.display = 'none';
+      $('result').innerHTML = '';
+      $('inscriptionImage').style.display = 'none';
+      $('inscriptionImage').src = '';
+      $('visualizer').innerHTML = '';
+    }
+
+    function parseBitmapNumber(value) {
+      const trimmed = String(value || '').trim();
+      if (!trimmed) return null;
+      const n = Number.parseInt(trimmed, 10);
+      if (!Number.isFinite(n) || n < 0) return null;
+      return n;
+    }
+
+    async function fetchJson(url) {
+      const res = await fetch(url, { cache: 'no-cache' });
+      if (!res.ok) {
+        throw new Error(`HTTP ${res.status} for ${url}`);
+      }
+      return res.json();
+    }
+
+    async function loadChunk(start) {
+      if (chunkCache.has(start)) return chunkCache.get(start);
+
+      const file = `bitmaps/${start}-${start + CHUNK_SIZE - 1}.json`;
+
+      // Try relative path first (GitHub Pages)
+      try {
+        const data = await fetchJson(`./${file}`);
+        chunkCache.set(start, data);
+        return data;
+      } catch (e1) {
+        // Fall back to raw GitHub
+        const data = await fetchJson(`${RAW_GITHUB_BASE}${file}`);
+        chunkCache.set(start, data);
+        return data;
+      }
+    }
+
+    async function getMondrianModule() {
+      if (mondrianModulePromise) return mondrianModulePromise;
+
+      mondrianModulePromise = (async () => {
+        const moduleCode = await fetch(`https://ordinals.com/content/${MONDRIAN_MODULE_INSCRIPTION_ID}`).then(r => r.text());
+        const blobUrl = URL.createObjectURL(new Blob([moduleCode], { type: 'application/javascript' }));
+        const mod = await import(blobUrl);
+        return mod;
+      })();
+
+      return mondrianModulePromise;
+    }
+
+    async function renderMondrian(blockNumber) {
+      const container = $('visualizer');
+      container.innerHTML = '';
+
+      const [block, module] = await Promise.all([
+        fetch(`https://blockchain.info/rawblock/${blockNumber}?cors=true`).then(r => r.json()),
+        getMondrianModule()
+      ]);
+
+      const sizes = block.tx.map(tx => module.getSquareSize(tx.out.reduce((sum, out) => sum + out.value, 0)));
+      const mondrian = new module.MondrianLayout(sizes);
+
+      const scale = Math.min(800 / mondrian.width, 800 / mondrian.height);
+
+      mondrian.slots.forEach((slot, i) => {
+        const div = document.createElement('div');
+        Object.assign(div.style, {
+          position: 'absolute',
+          left: `${slot.position.x * scale}px`,
+          top: `${slot.position.y * scale}px`,
+          width: `${(slot.size - 0.5) * scale}px`,
+          height: `${(slot.size - 0.5) * scale}px`,
+          backgroundColor: 'orange',
+          overflow: 'hidden',
+          fontSize: '10px',
+          color: 'black',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center'
+        });
+
+        div.onmouseover = () => {
+          div.style.backgroundColor = 'red';
+          div.textContent = String(i);
+        };
+        div.onmouseout = () => {
+          div.style.backgroundColor = 'orange';
+          div.textContent = '';
+        };
+
+        container.appendChild(div);
+      });
+    }
+
+    async function load() {
+      clearResult();
+      const btn = $('loadBtn');
+      const input = $('bitmapNumber');
+      const bitmapNumber = parseBitmapNumber(input.value);
+
+      if (bitmapNumber === null) {
+        setResult('<div class="row"><div class="label">Error</div><div>Please enter a valid non-negative number.</div></div>');
+        return;
+      }
+
+      btn.disabled = true;
+      btn.textContent = 'Loading…';
+
+      try {
+        const start = Math.floor(bitmapNumber / CHUNK_SIZE) * CHUNK_SIZE;
+        const idx = bitmapNumber - start;
+
+        const chunk = await loadChunk(start);
+        const inscriptionId = chunk[idx] || null;
+
+        const contentUrl = inscriptionId ? `https://ordinals.com/content/${inscriptionId}` : null;
+        const inscriptionUrl = inscriptionId ? `https://ordinals.com/inscription/${inscriptionId}` : null;
+
+        setResult([
+          `<div class="row"><div class="label">Bitmap</div><div class="mono">${bitmapNumber}</div></div>`,
+          `<div class="row"><div class="label">Chunk</div><div class="mono">${start}-${start + CHUNK_SIZE - 1}.json</div></div>`,
+          `<div class="row"><div class="label">Inscription</div><div class="mono">${inscriptionId ? `<a href="${inscriptionUrl}" target="_blank" rel="noreferrer">${inscriptionId}</a>` : 'null (missing)'}</div></div>`,
+          `<div class="row"><div class="label">Content</div><div class="mono">${contentUrl ? `<a href="${contentUrl}" target="_blank" rel="noreferrer">${contentUrl}</a>` : 'n/a'}</div></div>`,
+        ].join(''));
+
+        if (contentUrl) {
+          const img = $('inscriptionImage');
+          img.style.display = 'block';
+          img.src = contentUrl;
+        }
+
+        await renderMondrian(bitmapNumber);
+      } catch (err) {
+        console.error(err);
+        setResult(`<div class="row"><div class="label">Error</div><div>${String(err && err.message ? err.message : err)}</div></div>`);
+      } finally {
+        btn.disabled = false;
+        btn.textContent = 'Load';
+      }
+    }
+
+    $('loadBtn').addEventListener('click', load);
+    $('bitmapNumber').addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') load();
+    });
+  </script>
+</body>
+
+</html>
