@@ -85,6 +85,7 @@
     <!-- Top bar -->
     <div class="top">
       <h1>Bitmap Lookup</h1>
+      <div id="heights" style="display:flex;gap:14px;font-size:12px;color:var(--dim);margin-bottom:6px;flex-wrap:wrap;"></div>
       <div class="search">
         <input type="number" id="bitmapNumber" placeholder="Block / bitmap number" inputmode="numeric" min="0" step="1" />
         <button id="loadBtn">Load</button>
@@ -284,6 +285,21 @@
 
     $('loadBtn').addEventListener('click', load);
     $('bitmapNumber').addEventListener('keydown', e => { if (e.key === 'Enter') load(); });
+
+    /* ── Height indicators ─────────────────────────────── */
+    async function loadMeta() {
+      try {
+        let meta;
+        try { meta = await fetchJson('./bitmaps/meta.json'); }
+        catch { meta = await fetchJson(`${RAW_GH}bitmaps/meta.json`); }
+        const parts = [];
+        if (meta.ordTip != null) parts.push(`<span>Block height: <b style="color:var(--orange)">${Number(meta.ordTip).toLocaleString()}</b></span>`);
+        if (meta.maxBitmap != null) parts.push(`<span>Indexed to: <b style="color:var(--orange)">${Number(meta.maxBitmap).toLocaleString()}</b></span>`);
+        if (meta.updatedAt) parts.push(`<span>Updated: <b style="color:var(--orange)">${new Date(meta.updatedAt).toLocaleString()}</b></span>`);
+        $('heights').innerHTML = parts.join('<span style="opacity:.4">|</span>');
+      } catch { /* non-fatal */ }
+    }
+    loadMeta();
 
     // Init: on desktop show all panels; focus input
     if (!isMobile()) panels.forEach(p => p.classList.remove('hidden'));
