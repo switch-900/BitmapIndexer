@@ -1,91 +1,79 @@
 <!DOCTYPE html>
 <!-- Made possible by @bitlodo and @boppleton -->
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
   <title>Bitmap Lookup</title>
   <style>
-    :root { color-scheme: dark; --orange: #ffa500; --dim: rgba(255,165,0,.7); --border: rgba(255,165,0,.3); --bg-card: rgba(255,165,0,.03); }
+    :root { color-scheme: dark; --orange: #ffa500; --dim: rgba(255,165,0,.65); --border: rgba(255,165,0,.25); --card: rgba(255,165,0,.03); }
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     html, body { height: 100%; overflow: hidden; }
     body { background: #000; color: var(--orange); font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; line-height: 1.35; }
 
-    /* ── Full-viewport shell ─────────────────────────────────── */
-    .app { display: flex; flex-direction: column; height: 100vh; height: 100dvh; padding: 10px 12px; gap: 8px; max-width: 1100px; margin: 0 auto; }
+    /* ── App: full viewport, no scroll ───────────────────── */
+    .app { display: flex; flex-direction: column; height: 100vh; height: 100dvh; padding: 10px 12px 8px; gap: 6px; max-width: 960px; margin: 0 auto; }
 
-    /* ── Top bar: title + search ─────────────────────────────── */
+    /* ── Top bar ─────────────────────────────────────────── */
     .top { flex: 0 0 auto; }
-    .top h1 { font-size: 17px; letter-spacing: .2px; margin-bottom: 6px; }
-    .search { display: flex; gap: 8px; align-items: stretch; }
+    .top h1 { font-size: 16px; letter-spacing: .2px; }
+    .meta { display: flex; gap: 10px; flex-wrap: wrap; font-size: 11px; color: var(--dim); margin: 4px 0 6px; }
+    .meta b { color: var(--orange); font-weight: 600; }
+    .meta .sep { opacity: .35; }
+    .search { display: flex; gap: 8px; }
     .search input { flex: 1; min-width: 0; padding: 8px 10px; border-radius: 8px; border: 1px solid var(--border); background: rgba(0,0,0,.4); color: var(--orange); font-size: 16px; outline: none; }
     .search input:focus { border-color: var(--orange); }
     .search button { flex: 0 0 auto; background: var(--orange); color: #fff; border: none; padding: 8px 16px; border-radius: 8px; font-weight: 600; cursor: pointer; white-space: nowrap; }
-    .search button:disabled { opacity: .45; cursor: wait; }
+    .search button:disabled { opacity: .4; cursor: wait; }
     .search button.loading::after { content: ''; display: inline-block; width: 10px; height: 10px; margin-left: 8px; border-radius: 50%; border: 2px solid rgba(255,255,255,.5); border-top-color: #fff; animation: spin .7s linear infinite; vertical-align: -1px; }
     @keyframes spin { to { transform: rotate(360deg); } }
-    #status { font-size: 12px; color: var(--dim); margin-top: 4px; min-height: 16px; }
+    #status { font-size: 11px; color: var(--dim); margin-top: 3px; min-height: 14px; }
 
-    /* ── Main area: fills remaining viewport ─────────────────── */
-    .main { flex: 1 1 0; min-height: 0; display: flex; flex-direction: column; gap: 6px; }
+    /* ── Content area: fills remaining viewport ──────────── */
+    .content { flex: 1 1 0; min-height: 0; display: flex; gap: 8px; overflow: hidden; }
 
-    /* Tab bar (mobile) */
-    .tabs { display: flex; gap: 0; flex: 0 0 auto; }
-    .tabs button { flex: 1; background: transparent; color: var(--dim); border: 1px solid var(--border); border-bottom: none; padding: 6px 0; font-size: 13px; cursor: pointer; border-radius: 8px 8px 0 0; }
-    .tabs button.active { background: var(--bg-card); color: var(--orange); font-weight: 600; }
-
-    /* Panels */
-    .panels { flex: 1 1 0; min-height: 0; display: flex; gap: 8px; overflow: hidden; border: 1px solid var(--border); border-radius: 10px; background: var(--bg-card); }
-    .panel { flex: 1 1 0; min-width: 0; min-height: 0; overflow: auto; padding: 10px; display: flex; flex-direction: column; }
-    .panel.hidden { display: none; }
-
-    /* Info panel */
-    .kv { display: grid; grid-template-columns: 100px 1fr; gap: 6px 8px; padding: 6px 0; border-top: 1px solid rgba(255,165,0,.15); font-size: 13px; }
+    /* ── Info column ─────────────────────────────────────── */
+    .info { flex: 0 0 260px; overflow: auto; border: 1px solid var(--border); border-radius: 10px; background: var(--card); padding: 10px; }
+    .kv { display: grid; grid-template-columns: 90px 1fr; gap: 4px 8px; padding: 6px 0; border-top: 1px solid rgba(255,165,0,.12); font-size: 13px; }
     .kv:first-child { border-top: none; padding-top: 0; }
-    .label { color: var(--dim); font-size: 12px; }
+    .label { color: var(--dim); font-size: 11px; }
     .value { min-width: 0; }
-    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Courier New", monospace; word-break: break-word; overflow-wrap: anywhere; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Courier New", monospace; word-break: break-word; overflow-wrap: anywhere; font-size: 12px; }
     a { color: var(--orange); }
     .actions { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 6px; }
-    .pill { padding: 5px 9px; border-radius: 999px; border: 1px solid var(--border); background: rgba(255,165,0,.06); color: var(--orange); font-size: 12px; cursor: pointer; text-decoration: none; }
+    .pill { padding: 4px 9px; border-radius: 999px; border: 1px solid var(--border); background: rgba(255,165,0,.05); color: var(--orange); font-size: 11px; cursor: pointer; text-decoration: none; }
     .pill:active { transform: translateY(1px); }
 
-    /* Image */
-    #inscriptionImage { max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 6px; margin: auto; }
+    /* ── Bitmap (Mondrian) column ────────────────────────── */
+    .bitmap { flex: 1 1 0; min-width: 0; min-height: 0; display: flex; align-items: center; justify-content: center; border: 1px solid var(--border); border-radius: 10px; background: var(--card); overflow: hidden; position: relative; }
+    #visualizer { position: absolute; inset: 0; }
 
-    /* Mondrian */
-    #visualizer { position: relative; width: 100%; aspect-ratio: 1 / 1; max-height: 100%; overflow: hidden; border-radius: 6px; margin: auto; }
+    /* Placeholder */
+    .empty { display: flex; align-items: center; justify-content: center; height: 100%; width: 100%; color: var(--dim); font-size: 13px; text-align: center; padding: 20px; }
 
-    /* Placeholder shown when nothing loaded yet */
-    .empty { display: flex; align-items: center; justify-content: center; height: 100%; color: var(--dim); font-size: 13px; text-align: center; padding: 20px; }
+    /* ── Mobile: stack vertically, tabs ──────────────────── */
+    .tabs { display: none; flex: 0 0 auto; gap: 0; }
+    .tabs button { flex: 1; background: transparent; color: var(--dim); border: 1px solid var(--border); border-bottom: none; padding: 5px 0; font-size: 12px; cursor: pointer; border-radius: 8px 8px 0 0; }
+    .tabs button.active { background: var(--card); color: var(--orange); font-weight: 600; }
 
-    /* ── Desktop: side-by-side 3-column, no tabs ─────────────── */
-    @media (min-width: 760px) {
-      .tabs { display: none; }
-      .panels { flex-direction: row; }
-      .panel { flex: 1 1 0; }
-      .panel.hidden { display: flex; }
-      /* give info panel less room */
-      .panel-info { flex: 0.9; }
-      .panel-image { flex: 1; }
-      .panel-mondrian { flex: 1; }
+    @media (max-width: 639px) {
+      .content { flex-direction: column; }
+      .info { flex: 1 1 0; min-height: 0; }
+      .bitmap { flex: 1 1 0; min-height: 0; }
+      .tabs { display: flex; }
+      .content > .hidden { display: none; }
     }
-
-    /* ── Mobile: tabs control visibility ─────────────────────── */
-    @media (max-width: 759px) {
-      .panels { flex-direction: column; }
-      .panel { flex: 1 1 100%; }
+    @media (min-width: 640px) {
+      .tabs { display: none; }
+      .content > .hidden { display: flex; }
     }
   </style>
 </head>
-
 <body>
   <div class="app">
-    <!-- Top bar -->
     <div class="top">
       <h1>Bitmap Lookup</h1>
-      <div id="heights" style="display:flex;gap:14px;font-size:12px;color:var(--dim);margin-bottom:6px;flex-wrap:wrap;"></div>
+      <div class="meta" id="heights"></div>
       <div class="search">
         <input type="number" id="bitmapNumber" placeholder="Block / bitmap number" inputmode="numeric" min="0" step="1" />
         <button id="loadBtn">Load</button>
@@ -93,74 +81,56 @@
       <div id="status" aria-live="polite"></div>
     </div>
 
-    <!-- Main area -->
-    <div class="main">
-      <!-- Tab bar (mobile only, hidden on desktop via CSS) -->
-      <div class="tabs" id="tabBar">
-        <button class="active" data-panel="info">Info</button>
-        <button data-panel="image">Image</button>
-        <button data-panel="mondrian">Mondrian</button>
-      </div>
+    <div class="tabs" id="tabBar">
+      <button class="active" data-tab="info">Info</button>
+      <button data-tab="bitmap">Bitmap</button>
+    </div>
 
-      <div class="panels">
-        <!-- Info panel -->
-        <div class="panel panel-info" id="panelInfo" data-name="info">
-          <div id="result"><div class="empty">Enter a bitmap number above</div></div>
-        </div>
-        <!-- Image panel -->
-        <div class="panel panel-image hidden" id="panelImage" data-name="image">
-          <div class="empty" id="imagePlaceholder">Image will appear here</div>
-          <img id="inscriptionImage" alt="Bitmap inscription" style="display:none;" />
-        </div>
-        <!-- Mondrian panel -->
-        <div class="panel panel-mondrian hidden" id="panelMondrian" data-name="mondrian">
-          <div class="empty" id="mondrianPlaceholder">Mondrian pattern will appear here</div>
-          <div id="visualizer"></div>
-        </div>
+    <div class="content">
+      <div class="info" id="panelInfo" data-name="info">
+        <div id="result"><div class="empty">Enter a bitmap number above</div></div>
+      </div>
+      <div class="bitmap hidden" id="panelBitmap" data-name="bitmap">
+        <div class="empty" id="vizPlaceholder">Bitmap pattern will appear here</div>
+        <div id="visualizer"></div>
       </div>
     </div>
   </div>
 
   <script>
-    const CHUNK_SIZE = 100000;
+    const CHUNK = 100000;
     const MONDRIAN_ID = '55551557695dd82a2bda5ec3497684ec7cbb2cc1752ff5101accff1648666c3ai0';
     const RAW_GH = 'https://raw.githubusercontent.com/switch-900/BitmapIndexer/main/';
-
     const chunkCache = new Map();
     let modPromise = null;
+    const $ = id => document.getElementById(id);
 
-    const $ = (id) => document.getElementById(id);
-
-    /* ── Tabs (mobile) ─────────────────────────────────────── */
+    /* ── Tabs (mobile) ───────────────────────────────────── */
     const tabBtns = document.querySelectorAll('.tabs button');
-    const panels  = document.querySelectorAll('.panel');
-    const isMobile = () => window.innerWidth < 760;
+    const contentPanels = document.querySelectorAll('.content > *');
+    const isMobile = () => window.innerWidth < 640;
 
     function switchTab(name) {
-      tabBtns.forEach(b => b.classList.toggle('active', b.dataset.panel === name));
-      panels.forEach(p => {
+      tabBtns.forEach(b => b.classList.toggle('active', b.dataset.tab === name));
+      contentPanels.forEach(p => {
         if (isMobile()) p.classList.toggle('hidden', p.dataset.name !== name);
         else p.classList.remove('hidden');
       });
     }
-    tabBtns.forEach(b => b.addEventListener('click', () => switchTab(b.dataset.panel)));
-    window.addEventListener('resize', () => { if (!isMobile()) panels.forEach(p => p.classList.remove('hidden')); });
+    tabBtns.forEach(b => b.addEventListener('click', () => switchTab(b.dataset.tab)));
+    window.addEventListener('resize', () => { if (!isMobile()) contentPanels.forEach(p => p.classList.remove('hidden')); });
 
-    /* ── Helpers ────────────────────────────────────────────── */
+    /* ── Helpers ──────────────────────────────────────────── */
     function setStatus(t) { $('status').textContent = String(t || ''); }
 
     function clearAll() {
       setStatus('');
       $('result').innerHTML = '<div class="empty">Enter a bitmap number above</div>';
-      $('inscriptionImage').style.display = 'none';
-      $('inscriptionImage').src = '';
-      $('imagePlaceholder').style.display = '';
       $('visualizer').innerHTML = '';
-      $('visualizer').style.display = 'none';
-      $('mondrianPlaceholder').style.display = '';
+      $('vizPlaceholder').style.display = '';
     }
 
-    function parseBitmapNumber(v) {
+    function parseNum(v) {
       const m = String(v || '').trim().match(/\d+/);
       if (!m) return null;
       const n = parseInt(m[0], 10);
@@ -175,7 +145,7 @@
 
     async function loadChunk(start) {
       if (chunkCache.has(start)) return chunkCache.get(start);
-      const file = `bitmaps/${start}-${start + CHUNK_SIZE - 1}.json`;
+      const file = `bitmaps/${start}-${start + CHUNK - 1}.json`;
       try { const d = await fetchJson(`./${file}`); chunkCache.set(start, d); return d; }
       catch { const d = await fetchJson(`${RAW_GH}${file}`); chunkCache.set(start, d); return d; }
     }
@@ -189,12 +159,11 @@
       return modPromise;
     }
 
-    /* ── Render Mondrian (fits container) ──────────────────── */
+    /* ── Render Mondrian ─────────────────────────────────── */
     async function renderMondrian(blockNum) {
       const c = $('visualizer');
       c.innerHTML = '';
-      c.style.display = 'block';
-      $('mondrianPlaceholder').style.display = 'none';
+      $('vizPlaceholder').style.display = 'none';
 
       const [block, mod] = await Promise.all([
         fetch(`https://blockchain.info/rawblock/${blockNum}?cors=true`).then(r => r.json()),
@@ -204,16 +173,25 @@
       const sizes = block.tx.map(tx => mod.getSquareSize(tx.out.reduce((s, o) => s + o.value, 0)));
       const mondrian = new mod.MondrianLayout(sizes);
 
-      const rect = c.getBoundingClientRect();
-      const vizSize = Math.max(120, Math.min(rect.width, rect.height) || 400);
-      const scale = Math.min(vizSize / mondrian.width, vizSize / mondrian.height);
+      // Use parent (.bitmap) rect so we fill the panel exactly
+      const parent = c.parentElement;
+      const rect = parent.getBoundingClientRect();
+      const w = Math.max(100, rect.width);
+      const h = Math.max(100, rect.height);
+      const scale = Math.min(w / mondrian.width, h / mondrian.height);
+
+      // Centre the pattern
+      const pw = mondrian.width * scale;
+      const ph = mondrian.height * scale;
+      const ox = Math.max(0, (w - pw) / 2);
+      const oy = Math.max(0, (h - ph) / 2);
 
       mondrian.slots.forEach((slot, i) => {
         const d = document.createElement('div');
         Object.assign(d.style, {
           position: 'absolute',
-          left: `${slot.position.x * scale}px`,
-          top:  `${slot.position.y * scale}px`,
+          left: `${ox + slot.position.x * scale}px`,
+          top:  `${oy + slot.position.y * scale}px`,
           width:  `${(slot.size - .5) * scale}px`,
           height: `${(slot.size - .5) * scale}px`,
           backgroundColor: 'orange',
@@ -226,11 +204,11 @@
       });
     }
 
-    /* ── Main load ─────────────────────────────────────────── */
+    /* ── Main load ───────────────────────────────────────── */
     async function load() {
       clearAll();
       const btn = $('loadBtn');
-      const num = parseBitmapNumber($('bitmapNumber').value);
+      const num = parseNum($('bitmapNumber').value);
       if (num === null) {
         $('result').innerHTML = '<div class="kv"><div class="label">Error</div><div class="value">Enter a valid block number.</div></div>';
         return;
@@ -240,12 +218,10 @@
 
       try {
         setStatus('Fetching bitmap index…');
-        const start = Math.floor(num / CHUNK_SIZE) * CHUNK_SIZE;
+        const start = Math.floor(num / CHUNK) * CHUNK;
         const chunk = await loadChunk(start);
         const id = chunk[num - start] || null;
-
-        const contentUrl = id ? `https://ordinals.com/content/${id}` : null;
-        const inscUrl   = id ? `https://ordinals.com/inscription/${id}` : null;
+        const inscUrl = id ? `https://ordinals.com/inscription/${id}` : null;
 
         $('result').innerHTML = [
           `<div class="kv"><div class="label">Bitmap</div><div class="value mono">${num}</div></div>`,
@@ -260,20 +236,10 @@
           }, { once: true });
         }
 
-        if (contentUrl) {
-          setStatus('Loading inscription image…');
-          const img = $('inscriptionImage');
-          $('imagePlaceholder').style.display = 'none';
-          img.style.display = 'block';
-          img.src = contentUrl;
-        }
-
-        setStatus('Rendering Mondrian pattern…');
+        setStatus('Rendering bitmap pattern…');
         await renderMondrian(num);
         setStatus('');
-
-        // On mobile, auto-switch to Image tab after load
-        if (isMobile() && id) switchTab('image');
+        if (isMobile()) switchTab('bitmap');
       } catch (err) {
         console.error(err);
         $('result').innerHTML = `<div class="kv"><div class="label">Error</div><div class="value">${err?.message || err}</div></div>`;
@@ -286,25 +252,23 @@
     $('loadBtn').addEventListener('click', load);
     $('bitmapNumber').addEventListener('keydown', e => { if (e.key === 'Enter') load(); });
 
-    /* ── Height indicators ─────────────────────────────── */
+    /* ── Meta / height indicators ────────────────────────── */
     async function loadMeta() {
       try {
         let meta;
         try { meta = await fetchJson('./bitmaps/meta.json'); }
         catch { meta = await fetchJson(`${RAW_GH}bitmaps/meta.json`); }
-        const parts = [];
-        if (meta.ordTip != null) parts.push(`<span>Block height: <b style="color:var(--orange)">${Number(meta.ordTip).toLocaleString()}</b></span>`);
-        if (meta.maxBitmap != null) parts.push(`<span>Indexed to: <b style="color:var(--orange)">${Number(meta.maxBitmap).toLocaleString()}</b></span>`);
-        if (meta.updatedAt) parts.push(`<span>Updated: <b style="color:var(--orange)">${new Date(meta.updatedAt).toLocaleString()}</b></span>`);
-        $('heights').innerHTML = parts.join('<span style="opacity:.4">|</span>');
-      } catch { /* non-fatal */ }
+        const p = [];
+        if (meta.ordTip != null) p.push(`<span>Block height: <b>${Number(meta.ordTip).toLocaleString()}</b></span>`);
+        if (meta.maxBitmap != null) p.push(`<span>Indexed to: <b>${Number(meta.maxBitmap).toLocaleString()}</b></span>`);
+        if (meta.updatedAt) p.push(`<span>Updated: <b>${new Date(meta.updatedAt).toLocaleString()}</b></span>`);
+        $('heights').innerHTML = p.join('<span class="sep">|</span>');
+      } catch {}
     }
     loadMeta();
 
-    // Init: on desktop show all panels; focus input
-    if (!isMobile()) panels.forEach(p => p.classList.remove('hidden'));
+    if (!isMobile()) contentPanels.forEach(p => p.classList.remove('hidden'));
     setTimeout(() => { try { $('bitmapNumber').focus(); } catch {} }, 50);
   </script>
 </body>
-
 </html>
