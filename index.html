@@ -279,10 +279,20 @@
         const chunk = await loadChunk(start);
         const id = chunk[num - start] || null;
         const inscUrl = id ? `https://ordinals.com/inscription/${id}` : null;
+        const beyondIndex = !id && lastKnownMaxBitmap !== null && num > lastKnownMaxBitmap;
+
+        let inscriptionHtml;
+        if (id) {
+          inscriptionHtml = `<a href="${inscUrl}" target="_blank">${id}</a>`;
+        } else if (beyondIndex) {
+          inscriptionHtml = `<span style="color:var(--dim)">⏳ Indexing in progress — block ${num.toLocaleString()} has not been scanned yet (indexed to ${lastKnownMaxBitmap.toLocaleString()})</span>`;
+        } else {
+          inscriptionHtml = `<span style="color:var(--dim)">null — not yet inscribed</span>`;
+        }
 
         $('result').innerHTML = [
           `<div class="kv"><div class="label">Bitmap</div><div class="value mono">${num}</div></div>`,
-          `<div class="kv"><div class="label">Inscription</div><div class="value mono">${id ? `<a href="${inscUrl}" target="_blank">${id}</a>` : '<span style="color:var(--dim)">null (not yet inscribed)</span>'}</div></div>`,
+          `<div class="kv"><div class="label">Inscription</div><div class="value mono">${inscriptionHtml}</div></div>`,
           `<div class="actions">${id ? `<button class="pill" id="copyBtn">Copy id</button><a class="pill" href="${inscUrl}" target="_blank">ordinals.com</a>` : ''}<button class="pill" id="savePngBtn">Save PNG</button></div>`
         ].join('');
 
@@ -314,6 +324,7 @@
 
     /* ── Meta / height indicators (auto-refresh every 30s) ── */
     let lastKnownTip = null;
+    let lastKnownMaxBitmap = null;
 
     async function loadMeta() {
       try {
@@ -331,6 +342,7 @@
           chunkCache.clear();
         }
         lastKnownTip = meta.ordTip;
+        lastKnownMaxBitmap = meta.maxBitmap ?? null;
       } catch {}
     }
     loadMeta();
