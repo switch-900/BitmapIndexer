@@ -339,7 +339,7 @@
     $('loadBtn').addEventListener('click', load);
     $('bitmapNumber').addEventListener('keydown', e => { if (e.key === 'Enter') load(); });
 
-    /* ── Download range as JSON ──────────────────────────── */
+    /* ── Download range as gallery JSON (inscription-ready) ── */
     async function downloadRange() {
       const from = parseNum($('dlFrom').value);
       const to   = parseNum($('dlTo').value);
@@ -363,22 +363,40 @@
         dlSt.textContent = `Loading ${needed.length} chunk(s)…`;
         const chunks = await Promise.all(needed.map(s => loadChunk(s)));
 
-        const result = {};
+        // Build gallery items — only inscribed bitmaps
+        const items = [];
         for (let n = from; n <= to; n++) {
           const cs = Math.floor(n / CHUNK) * CHUNK;
           const ci = needed.indexOf(cs);
           const id = chunks[ci][n - cs] || null;
-          result[n] = id;
+          if (id) {
+            items.push({
+              inscriptionId: id,
+              attributes: { title: `${n}.bitmap` }
+            });
+          }
         }
 
-        const blob = new Blob([JSON.stringify(result, null, 2)], { type: 'application/json' });
+        // Gallery-style properties JSON (mirrors ordinals CDDL schema)
+        // attributes (key 1) → title is the bitmap range
+        // items (key 0)      → each inscribed bitmap with its own title
+        const gallery = {
+          attributes: {
+            title: `Bitmaps ${from.toLocaleString()}-${to.toLocaleString()}`
+          },
+          range: { from, to },
+          count: items.length,
+          items
+        };
+
+        const blob = new Blob([JSON.stringify(gallery, null, 2)], { type: 'application/json' });
         const link = document.createElement('a');
-        link.download = `bitmaps-${from}-${to}.json`;
+        link.download = `bitmaps-gallery-${from}-${to}.json`;
         link.href = URL.createObjectURL(blob);
         link.click();
         URL.revokeObjectURL(link.href);
 
-        dlSt.textContent = `Downloaded ${(to - from + 1).toLocaleString()} entries.`;
+        dlSt.textContent = `Downloaded gallery: ${items.length.toLocaleString()} inscribed of ${(to - from + 1).toLocaleString()} in range.`;
       } catch (err) {
         console.error(err);
         dlSt.textContent = `Error: ${err?.message || err}`;
