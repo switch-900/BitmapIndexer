@@ -47,6 +47,8 @@
     /* ── Bitmap (Mondrian) column ────────────────────────── */
     .bitmap { flex: 1 1 0; min-width: 0; min-height: 0; display: flex; align-items: center; justify-content: center; border: 1px solid var(--border); border-radius: 10px; background: var(--card); overflow: hidden; position: relative; }
     #visualizer { position: absolute; inset: 0; }
+    #vizCanvas { display: block; position: absolute; }
+    .viz-tooltip { position: fixed; pointer-events: none; background: rgba(0,0,0,.85); color: var(--orange); font-size: 11px; padding: 3px 7px; border-radius: 4px; border: 1px solid var(--border); white-space: nowrap; z-index: 10; display: none; }
 
     /* Placeholder */
     .empty { display: flex; align-items: center; justify-content: center; height: 100%; width: 100%; color: var(--dim); font-size: 13px; text-align: center; padding: 20px; }
@@ -93,6 +95,7 @@
       <div class="bitmap hidden" id="panelBitmap" data-name="bitmap">
         <div class="empty" id="vizPlaceholder">Bitmap pattern will appear here</div>
         <div id="visualizer"></div>
+        <div class="viz-tooltip" id="vizTooltip"></div>
       </div>
     </div>
   </div>
@@ -159,7 +162,10 @@
       return modPromise;
     }
 
-    /* ── Render Mondrian ─────────────────────────────────── */
+    /* ── Render Mondrian (canvas) ────────────────────────── */
+    // Stores the last rendered layout so we can hit-test on hover and export.
+    let lastLayout = null;   // { slots, scale, ox, oy, pw, ph, canvas, blockNum }
+
     async function renderMondrian(blockNum) {
       const c = $('visualizer');
       c.innerHTML = '';
@@ -186,22 +192,73 @@
       const ox = Math.max(0, (w - pw) / 2);
       const oy = Math.max(0, (h - ph) / 2);
 
-      mondrian.slots.forEach((slot, i) => {
-        const d = document.createElement('div');
-        Object.assign(d.style, {
-          position: 'absolute',
-          left: `${ox + slot.position.x * scale}px`,
-          top:  `${oy + slot.position.y * scale}px`,
-          width:  `${(slot.size - .5) * scale}px`,
-          height: `${(slot.size - .5) * scale}px`,
-          backgroundColor: 'orange',
-          overflow: 'hidden', fontSize: '9px', color: '#000',
-          display: 'flex', alignItems: 'center', justifyContent: 'center'
-        });
-        d.onmouseover = () => { d.style.backgroundColor = 'red'; d.textContent = i; };
-        d.onmouseout  = () => { d.style.backgroundColor = 'orange'; d.textContent = ''; };
-        c.appendChild(d);
+      // ---- Draw to canvas ----
+      const dpr = window.devicePixelRatio || 1;
+      const canvas = document.createElement('canvas');
+      canvas.id = 'vizCanvas';
+      canvas.width  = Math.round(pw * dpr);
+      canvas.height = Math.round(ph * dpr);
+      canvas.style.width  = `${pw}px`;
+      canvas.style.height = `${ph}px`;
+      canvas.style.left   = `${ox}px`;
+      canvas.style.top    = `${oy}px`;
+
+      const ctx = canvas.getContext('2d');
+      ctx.scale(dpr, dpr);
+
+      // Black background
+      ctx.fillStyle = '#000';
+      ctx.fillRect(0, 0, pw, ph);
+
+      // Draw each slot
+      const gap = 0.5;
+      mondrian.slots.forEach(slot => {
+        const sx = slot.position.x * scale;
+        const sy = slot.position.y * scale;
+        const ss = (slot.size - gap) * scale;
+        ctx.fillStyle = 'orange';
+        ctx.fillRect(sx, sy, ss, ss);
       });
+
+      c.appendChild(canvas);
+
+      lastLayout = { slots: mondrian.slots, scale, ox, oy, pw, ph, canvas, blockNum };
+    }
+
+    /* ── Canvas hover tooltip ─────────────────────────────── */
+    const tooltip = $('vizTooltip');
+    $('panelBitmap').addEventListener('mousemove', e => {
+      if (!lastLayout) return;
+      const { slots, scale, canvas } = lastLayout;
+      const cr = canvas.getBoundingClientRect();
+      const mx = e.clientX - cr.left;
+      const my = e.clientY - cr.top;
+      const gap = 0.5;
+      for (let i = 0; i < slots.length; i++) {
+        const s = slots[i];
+        const sx = s.position.x * scale;
+        const sy = s.position.y * scale;
+        const ss = (s.size - gap) * scale;
+        if (mx >= sx && mx <= sx + ss && my >= sy && my <= sy + ss) {
+          tooltip.textContent = `tx #${i}`;
+          tooltip.style.display = 'block';
+          tooltip.style.left = `${e.clientX + 12}px`;
+          tooltip.style.top  = `${e.clientY - 8}px`;
+          return;
+        }
+      }
+      tooltip.style.display = 'none';
+    });
+    $('panelBitmap').addEventListener('mouseleave', () => { tooltip.style.display = 'none'; });
+
+    /* ── Export canvas as PNG ─────────────────────────────── */
+    function saveBitmapPNG() {
+      if (!lastLayout) return;
+      const { canvas, blockNum } = lastLayout;
+      const link = document.createElement('a');
+      link.download = `bitmap-${blockNum}.png`;
+      link.href = canvas.toDataURL('image/png');
+      link.click();
     }
 
     /* ── Main load ───────────────────────────────────────── */
@@ -226,7 +283,7 @@
         $('result').innerHTML = [
           `<div class="kv"><div class="label">Bitmap</div><div class="value mono">${num}</div></div>`,
           `<div class="kv"><div class="label">Inscription</div><div class="value mono">${id ? `<a href="${inscUrl}" target="_blank">${id}</a>` : '<span style="color:var(--dim)">null (not yet inscribed)</span>'}</div></div>`,
-          id ? `<div class="actions"><button class="pill" id="copyBtn">Copy id</button><a class="pill" href="${inscUrl}" target="_blank">ordinals.com</a></div>` : ''
+          `<div class="actions">${id ? `<button class="pill" id="copyBtn">Copy id</button><a class="pill" href="${inscUrl}" target="_blank">ordinals.com</a>` : ''}<button class="pill" id="savePngBtn">Save PNG</button></div>`
         ].join('');
 
         if (id) {
@@ -238,6 +295,9 @@
 
         setStatus('Rendering bitmap pattern…');
         await renderMondrian(num);
+
+        $('savePngBtn')?.addEventListener('click', () => saveBitmapPNG(), { once: true });
+
         setStatus('');
         if (isMobile()) switchTab('bitmap');
       } catch (err) {
