@@ -1,7 +1,7 @@
 {
   "totalRelationTypes": 3,
-  "totalRelations": 5562918,
-  "updatedAt": "2026-03-31T22:36:23.207Z",
+  "totalRelations": 5563252,
+  "updatedAt": "2026-03-31T22:43:31.226Z",
   "relationTypes": [
     {
       "id": "parents",
@@ -22,9 +22,9 @@
     {
       "id": "galleries",
       "relation_type": "gallery",
-      "total_relations": 735697,
-      "distinct_sources": 599,
-      "distinct_targets": 609340,
+      "total_relations": 736031,
+      "distinct_sources": 600,
+      "distinct_targets": 609673,
       "file": "galleries/gallery-of-galleries.json"
     }
   ]
