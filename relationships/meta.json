@@ -1,7 +1,7 @@
 {
-  "totalRelationTypes": 3,
-  "totalRelations": 5563252,
-  "updatedAt": "2026-03-31T22:46:59.222Z",
+  "totalRelationTypes": 4,
+  "totalRelations": 5563336,
+  "updatedAt": "2026-03-31T23:00:04.843Z",
   "relationTypes": [
     {
       "id": "parents",
@@ -26,6 +26,14 @@
       "distinct_sources": 600,
       "distinct_targets": 609673,
       "file": "galleries/gallery-of-galleries.json"
+    },
+    {
+      "id": "reinscriptions",
+      "relation_type": "reinscription",
+      "total_relations": 84,
+      "distinct_sources": 16,
+      "distinct_targets": 84,
+      "file": "relationships/reinscriptions.json"
     }
   ]
 }
