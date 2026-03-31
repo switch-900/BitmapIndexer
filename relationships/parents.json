@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52240,
-  "total_relations": 2460622,
-  "distinct_targets": 2414567,
-  "updatedAt": "2026-03-31T18:51:25.779Z",
+  "total_relations": 2460624,
+  "distinct_targets": 2414569,
+  "updatedAt": "2026-03-31T19:03:37.291Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -3767,7 +3767,7 @@
       "title": "Parent (413 children)",
       "title_source": "content",
       "height": 905348,
-      "relation_count": 413,
+      "relation_count": 414,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -6891,6 +6891,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "c828a612c597dcd782b729e4a58195acf0d35973687b5ca0f391ebbf08f0012bi0",
+      "title": "Parent (101 children)",
+      "title_source": "content",
+      "height": 942400,
+      "relation_count": 104,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "d4de6b44147dcc97e19294d5982d4f16910de833f5ad2771d150e07965013b13i0",
       "title": "<svg viewBox=\"0 0 100 100\" height=\"100%\" width=\"100%\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://www.w3.org/2000/svg\">",
       "title_source": "content",
@@ -6935,14 +6943,6 @@
       "title": "Parent (103 children)",
       "title_source": "content",
       "height": 881751,
-      "relation_count": 103,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "c828a612c597dcd782b729e4a58195acf0d35973687b5ca0f391ebbf08f0012bi0",
-      "title": "Parent (101 children)",
-      "title_source": "content",
-      "height": 942400,
       "relation_count": 103,
       "content_type": "text/plain;charset=utf-8"
     },
