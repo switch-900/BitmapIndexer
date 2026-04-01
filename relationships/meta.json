@@ -1,7 +1,7 @@
 {
   "totalRelationTypes": 4,
-  "totalRelations": 5565589,
-  "updatedAt": "2026-04-01T07:38:21.556Z",
+  "totalRelations": 5563278,
+  "updatedAt": "2026-04-01T07:44:26.550Z",
   "relationTypes": [
     {
       "id": "parents",
@@ -30,9 +30,9 @@
     {
       "id": "reinscriptions",
       "relation_type": "reinscription",
-      "total_relations": 2311,
-      "distinct_sources": 2774,
-      "distinct_targets": 2311,
+      "total_relations": 0,
+      "distinct_sources": 0,
+      "distinct_targets": 0,
       "file": "relationships/reinscriptions.json"
     }
   ]
