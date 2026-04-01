@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 52241,
+  "count": 52242,
   "total_relations": 2460631,
   "distinct_targets": 2414576,
-  "updatedAt": "2026-04-01T06:11:06.735Z",
+  "updatedAt": "2026-04-01T06:57:12.689Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -3567,7 +3567,7 @@
       "title": "Parent (449 children)",
       "title_source": "content",
       "height": 837179,
-      "relation_count": 449,
+      "relation_count": 450,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -3767,7 +3767,7 @@
       "title": "Parent (413 children)",
       "title_source": "content",
       "height": 905348,
-      "relation_count": 414,
+      "relation_count": 415,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -4259,6 +4259,14 @@
       "content_type": "model/gltf-binary"
     },
     {
+      "id": "d23df5d24bacd98ae8eabb049477b8749cd5c37a6bc24cd5cc20d76b2fd6ae8fi0",
+      "title": "Parent (322 children)",
+      "title_source": "content",
+      "height": 906049,
+      "relation_count": 323,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "e4f6f03cfc2052eb38276c554b49d713897c289b68ac10cab4fac5296c8d51d9i0",
       "title": "Parent (323 children)",
       "title_source": "content",
@@ -4271,14 +4279,6 @@
       "title": "Parent (322 children)",
       "title_source": "content",
       "height": 879787,
-      "relation_count": 322,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "d23df5d24bacd98ae8eabb049477b8749cd5c37a6bc24cd5cc20d76b2fd6ae8fi0",
-      "title": "Parent (322 children)",
-      "title_source": "content",
-      "height": 906049,
       "relation_count": 322,
       "content_type": "text/plain;charset=utf-8"
     },
@@ -5011,18 +5011,18 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
-      "id": "756ce45d2864ee643e9bc437dd06d6f3fcaa1f975857778d9e49e3de76a3bb55i0",
-      "title": "Parent (234 children)",
-      "title_source": "content",
-      "height": 928704,
-      "relation_count": 234,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
       "id": "aa09e92c952b4dbaf29534879a637173babc28103f637c73d92db1a215eaf928i0",
       "title": "Parent (234 children)",
       "title_source": "content",
       "height": 906841,
+      "relation_count": 235,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
+      "id": "756ce45d2864ee643e9bc437dd06d6f3fcaa1f975857778d9e49e3de76a3bb55i0",
+      "title": "Parent (234 children)",
+      "title_source": "content",
+      "height": 928704,
       "relation_count": 234,
       "content_type": "text/plain;charset=utf-8"
     },
@@ -6851,6 +6851,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "c828a612c597dcd782b729e4a58195acf0d35973687b5ca0f391ebbf08f0012bi0",
+      "title": "Parent (101 children)",
+      "title_source": "content",
+      "height": 942400,
+      "relation_count": 106,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "d2755b1488c1fedad3d0d4a0a3305dd22a7f93551810448613510e5904fd791ai214",
       "title": "Parent (106 children)",
       "title_source": "content",
@@ -6889,14 +6897,6 @@
       "height": 829421,
       "relation_count": 105,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "c828a612c597dcd782b729e4a58195acf0d35973687b5ca0f391ebbf08f0012bi0",
-      "title": "Parent (101 children)",
-      "title_source": "content",
-      "height": 942400,
-      "relation_count": 104,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "d4de6b44147dcc97e19294d5982d4f16910de833f5ad2771d150e07965013b13i0",
@@ -8675,6 +8675,14 @@
       "content_type": "image/webp"
     },
     {
+      "id": "31f362fe1c9f44802cf2defc2bc07bef08f28151d1582028b82925a6dca90f08i0",
+      "title": "Parent (87 children)",
+      "title_source": "content",
+      "height": 941707,
+      "relation_count": 90,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "5dba16d3387c15641662470c93cc9a2f8486fdcecdafb1b313e91dd981509abdi0",
       "title": "Parent (90 children)",
       "title_source": "content",
@@ -8785,14 +8793,6 @@
       "height": 824538,
       "relation_count": 88,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "31f362fe1c9f44802cf2defc2bc07bef08f28151d1582028b82925a6dca90f08i0",
-      "title": "Parent (87 children)",
-      "title_source": "content",
-      "height": 941707,
-      "relation_count": 88,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "3bc7ff381f87d86641c7e41839e45395f7fc7de8af6ec94b436a012b148832a5i0",
@@ -401169,6 +401169,14 @@
       "height": 895794,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
+    },
+    {
+      "id": "ed840f5dfc45c1191989fb5694474548166486b6ddf05e76699da4fddf721d07i0",
+      "title": "D.A.D. V.0001 — Da AnTiShYhErO DeViCe — CHAOTIC GOODS",
+      "title_source": "content",
+      "height": 943160,
+      "relation_count": 1,
+      "content_type": "text/html"
     },
     {
       "id": "ed86b502780624d0dc52b23cff032682eba987bb28391130abffdee8c4f10732i0",
