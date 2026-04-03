@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52251,
-  "total_relations": 2460784,
-  "distinct_targets": 2414729,
-  "updatedAt": "2026-04-03T08:08:14.990Z",
+  "total_relations": 2460788,
+  "distinct_targets": 2414733,
+  "updatedAt": "2026-04-03T08:13:41.417Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -4719,7 +4719,7 @@
       "title": "Parent (285 children)",
       "title_source": "content",
       "height": 929411,
-      "relation_count": 287,
+      "relation_count": 288,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -5015,7 +5015,7 @@
       "title": "Parent (234 children)",
       "title_source": "content",
       "height": 928704,
-      "relation_count": 236,
+      "relation_count": 237,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -5579,18 +5579,18 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
-      "id": "95b5696807746f890f266ad91c8c2f1fd00baf8b5cbbada0d7a3f2d90b94a1cfi0",
-      "title": "Parent (189 children)",
-      "title_source": "content",
-      "height": 882676,
-      "relation_count": 189,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
       "id": "c20127379c165d7c51808c3ea6f38076aba719a5c87b96fc93dff6ff8ca8a063i0",
       "title": "Parent (188 children)",
       "title_source": "content",
       "height": 837293,
+      "relation_count": 190,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
+      "id": "95b5696807746f890f266ad91c8c2f1fd00baf8b5cbbada0d7a3f2d90b94a1cfi0",
+      "title": "Parent (189 children)",
+      "title_source": "content",
+      "height": 882676,
       "relation_count": 189,
       "content_type": "text/plain;charset=utf-8"
     },
@@ -111819,6 +111819,14 @@
       "content_type": "image/webp"
     },
     {
+      "id": "ec0d0d24b0d6b55b82d1a9be1c5652aeefcda43d732ec2aeec073d45bbfcd54ai0",
+      "title": "Parent (2 children)",
+      "title_source": "content",
+      "height": 943193,
+      "relation_count": 4,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "ec65500c8992c50e031acbad8211e1eb06173d1516b18b099c85cfd939ba344ei0",
       "title": "<!--Tōri no Roji [Dai-Rei] 通りの路地第零 by Lemonhaze-->",
       "title_source": "content",
@@ -132921,14 +132929,6 @@
       "height": 902246,
       "relation_count": 3,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "ec0d0d24b0d6b55b82d1a9be1c5652aeefcda43d732ec2aeec073d45bbfcd54ai0",
-      "title": "Parent (2 children)",
-      "title_source": "content",
-      "height": 943193,
-      "relation_count": 3,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "ec41a079ce03f449f00963678f6ee8665314bafb7a2f6dd51c4458d3ed9768a3i0",
