@@ -5,10 +5,10 @@
     "title": "Gallery of Galleries",
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
-  "count": 607,
-  "total_relations": 737056,
-  "distinct_targets": 610365,
-  "updatedAt": "2026-04-03T15:24:29.746Z",
+  "count": 608,
+  "total_relations": 737389,
+  "distinct_targets": 610698,
+  "updatedAt": "2026-04-03T15:35:40.840Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -4864,6 +4864,14 @@
       "title_source": "content",
       "height": 943509,
       "item_count": 100,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
+      "id": "3dc4623dd9ac1aaaa2cb6172ab3ec8922b085b995cdb7c30012d8d861a2fb3fai0",
+      "title": "Apoptosis #333 by OTO",
+      "title_source": "content",
+      "height": 943521,
+      "item_count": 333,
       "content_type": "text/html;charset=utf-8"
     }
   ]
