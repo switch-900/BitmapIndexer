@@ -5,10 +5,10 @@
     "title": "Delegates",
     "description": "All inscriptions that are used as delegate targets."
   },
-  "count": 14048,
-  "total_relations": 2366609,
-  "distinct_targets": 2366609,
-  "updatedAt": "2026-04-03T00:13:57.574Z",
+  "count": 14049,
+  "total_relations": 2366615,
+  "distinct_targets": 2366615,
+  "updatedAt": "2026-04-03T00:18:59.314Z",
   "items": [
     {
       "id": "eb025023e3e7efb6b1dc1ab2ba21b41fbd7f5afbcc76b92e1fb74887c19858aai0",
@@ -18481,6 +18481,14 @@
       "height": 870331,
       "relation_count": 6,
       "content_type": "image/webp"
+    },
+    {
+      "id": "5252a0717cf8c23055b2558585fb24d4038a6281f7d51be4edadb9e16829d46ci0",
+      "title": "normals",
+      "title_source": "content",
+      "height": 941729,
+      "relation_count": 6,
+      "content_type": "model/gltf+json"
     },
     {
       "id": "53dae63efeeb3e6e47a7eaba82cfc31650f29a604e731e5ae445f2150a5932a2i0",
