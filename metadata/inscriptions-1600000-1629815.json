@@ -1,4 +1,4 @@
-{"generated_at":"2026-04-04T05:07:07.834Z","format":"metadata-dedup-v2","start_index":1600000,"end_index":1629814,"count":29815,"unique_metadata_count":28509,"inscriptions":[
+{"generated_at":"2026-04-04T05:14:11.139Z","format":"metadata-dedup-v2","start_index":1600000,"end_index":1629815,"count":29816,"unique_metadata_count":28510,"inscriptions":[
 {"inscription_id":"4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei54","inscription_number":null,"block_height":931352,"content_type":"text/html;charset=utf-8","metaprotocol":null,"metadata_ref":"b32c718774a7c4b0d32179fb"},
 {"inscription_id":"4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei55","inscription_number":null,"block_height":931352,"content_type":"text/html;charset=utf-8","metaprotocol":null,"metadata_ref":"8b5ae7655601d4ca26bd5ba0"},
 {"inscription_id":"4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei56","inscription_number":null,"block_height":931352,"content_type":"text/html;charset=utf-8","metaprotocol":null,"metadata_ref":"c8b75f0cff33bcea6c332df9"},
@@ -29813,7 +29813,8 @@
 {"inscription_id":"203d96d2350087473e0001189285ca9e8d1ebb497d1075359182cf44f9b59f40i0","inscription_number":null,"block_height":943544,"content_type":null,"metaprotocol":null,"metadata_ref":"c457114993db32703b5cd924"},
 {"inscription_id":"203d96d2350087473e0001189285ca9e8d1ebb497d1075359182cf44f9b59f40i1","inscription_number":null,"block_height":943544,"content_type":null,"metaprotocol":null,"metadata_ref":"211280fcca80e72388b06e0e"},
 {"inscription_id":"2e437dc4c42436500b20f4972505081e0e045cf47189d56c686e5c3035295aefi0","inscription_number":null,"block_height":943544,"content_type":null,"metaprotocol":null,"metadata_ref":"9d41030931da16a66b9b2e93"},
-{"inscription_id":"5131f6b2a35b7c31cbd589a452255af7731239978bac735f772336887e3801b2i0","inscription_number":null,"block_height":943570,"content_type":"image/webp","metaprotocol":null,"metadata_ref":"90bcc61ecc1e22e55c27d1e7"}
+{"inscription_id":"5131f6b2a35b7c31cbd589a452255af7731239978bac735f772336887e3801b2i0","inscription_number":null,"block_height":943570,"content_type":"image/webp","metaprotocol":null,"metadata_ref":"90bcc61ecc1e22e55c27d1e7"},
+{"inscription_id":"c563885d67ed247c4793cf44f942d8c0ecabaec8cad9048e60f1aaf19350999di0","inscription_number":null,"block_height":943590,"content_type":"image/avif","metaprotocol":null,"metadata_ref":"20c18486b8e4490b5d489b8a"}
 ],"metadata_items":[
 {"metadata_ref":"b32c718774a7c4b0d32179fb","count":1,"inscription_ids":["4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei54"],"metadata":{"name":"Exquisite #4474","species":"Chick","body":"Regular Salmon","legs":"Chess Png","head":"Regular Sandia","eyes":"Regular Blue","hat":"Racing Pink"}},
 {"metadata_ref":"8b5ae7655601d4ca26bd5ba0","count":1,"inscription_ids":["4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei55"],"metadata":{"name":"Exquisite #4475","species":"Mate","arms":"Regular Blue","body":"Chess Yellow","legs":"Jupe Blue","belt":"Regular Gold","necklace":"Primary","face":"Regular Blue","eye":"Regular Purple","hair":"Mowhawk","hat":"None","accessory":"Bananbag"}},
@@ -58323,5 +58324,6 @@
 {"metadata_ref":"c457114993db32703b5cd924","count":1,"inscription_ids":["203d96d2350087473e0001189285ca9e8d1ebb497d1075359182cf44f9b59f40i0"],"metadata":{"ID":"159"}},
 {"metadata_ref":"211280fcca80e72388b06e0e","count":1,"inscription_ids":["203d96d2350087473e0001189285ca9e8d1ebb497d1075359182cf44f9b59f40i1"],"metadata":{"ID":"160"}},
 {"metadata_ref":"9d41030931da16a66b9b2e93","count":1,"inscription_ids":["2e437dc4c42436500b20f4972505081e0e045cf47189d56c686e5c3035295aefi0"],"metadata":{"ID":"158"}},
-{"metadata_ref":"90bcc61ecc1e22e55c27d1e7","count":1,"inscription_ids":["5131f6b2a35b7c31cbd589a452255af7731239978bac735f772336887e3801b2i0"],"metadata":{"Year":"2026","Title":"The Connoisseur","Artist":"Ksenia Buridanova","Medium":"Oil on linen"}}
+{"metadata_ref":"90bcc61ecc1e22e55c27d1e7","count":1,"inscription_ids":["5131f6b2a35b7c31cbd589a452255af7731239978bac735f772336887e3801b2i0"],"metadata":{"Year":"2026","Title":"The Connoisseur","Artist":"Ksenia Buridanova","Medium":"Oil on linen"}},
+{"metadata_ref":"20c18486b8e4490b5d489b8a","count":1,"inscription_ids":["c563885d67ed247c4793cf44f942d8c0ecabaec8cad9048e60f1aaf19350999di0"],"metadata":{"quote":"IBA EGUNGUN","source":"EEGUN BY OGBE"}}
 ]}
