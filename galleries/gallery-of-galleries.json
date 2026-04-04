@@ -5,10 +5,10 @@
     "title": "Gallery of Galleries",
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
-  "count": 610,
-  "total_relations": 737600,
+  "count": 611,
+  "total_relations": 737666,
   "distinct_targets": 610798,
-  "updatedAt": "2026-04-04T12:29:43.921Z",
+  "updatedAt": "2026-04-04T12:35:07.167Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -4889,6 +4889,14 @@
       "height": 943590,
       "item_count": 111,
       "content_type": "image/avif"
+    },
+    {
+      "id": "2b3a167017a4c0862c71162213501a1cf8456bb2aaf576ab23f52a8be40383ebi0",
+      "title": "Bitcoin eyes #01",
+      "title_source": "item-title",
+      "height": 943621,
+      "item_count": 66,
+      "content_type": "text/html;charset=utf-8"
     }
   ]
 }
