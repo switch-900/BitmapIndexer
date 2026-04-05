@@ -5,10 +5,10 @@
     "title": "Gallery of Galleries",
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
-  "count": 622,
-  "total_relations": 739788,
+  "count": 623,
+  "total_relations": 739799,
   "distinct_targets": 612853,
-  "updatedAt": "2026-04-05T06:15:29.385Z",
+  "updatedAt": "2026-04-05T06:21:01.315Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -4984,6 +4984,14 @@
       "title_source": "content",
       "height": 943712,
       "item_count": 723,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
+      "id": "1868a56d67f4189e98f99d47c28a433baea4feee71a4b82e608048c322ce8e79i0",
+      "title": "Black #1 / galaxy",
+      "title_source": "item-title",
+      "height": 943731,
+      "item_count": 11,
       "content_type": "text/html;charset=utf-8"
     }
   ]
