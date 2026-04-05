@@ -5,10 +5,10 @@
     "title": "Gallery of Galleries",
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
-  "count": 634,
-  "total_relations": 745517,
-  "distinct_targets": 618120,
-  "updatedAt": "2026-04-05T20:09:35.960Z",
+  "count": 635,
+  "total_relations": 745527,
+  "distinct_targets": 618130,
+  "updatedAt": "2026-04-05T20:19:22.789Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -5080,6 +5080,14 @@
       "title_source": "content",
       "height": 943804,
       "item_count": 50,
+      "content_type": null
+    },
+    {
+      "id": "9738fe7d52ee408fc1bd7a2120a08692b152b2166df3e1971aede0a19a9f874fi0",
+      "title": "Bastille Day Collection #1",
+      "title_source": "item-title",
+      "height": 943819,
+      "item_count": 10,
       "content_type": null
     }
   ]
