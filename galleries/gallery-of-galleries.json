@@ -5,10 +5,10 @@
     "title": "Gallery of Galleries",
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
-  "count": 626,
-  "total_relations": 740294,
-  "distinct_targets": 612897,
-  "updatedAt": "2026-04-05T10:19:51.715Z",
+  "count": 627,
+  "total_relations": 740737,
+  "distinct_targets": 613340,
+  "updatedAt": "2026-04-05T10:32:46.112Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -5013,9 +5013,17 @@
     {
       "id": "45c0c8b6d551ce21ff7f3e42ba7b95e52fa78cb290cfa158c6358bca37162f2fi0",
       "title": "MIMIBITS Poetry #1",
-      "title_source": "item-title",
+      "title_source": "content",
       "height": 943745,
       "item_count": 33,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
+      "id": "5078e3b3be9c438e12396a272d5664ebfa1fa3cac32440d26a67ab94f06a6dfci0",
+      "title": "I0 by OTO",
+      "title_source": "content",
+      "height": 943747,
+      "item_count": 443,
       "content_type": "text/html;charset=utf-8"
     }
   ]
