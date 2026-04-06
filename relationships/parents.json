@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 52273,
-  "total_relations": 2461212,
-  "distinct_targets": 2415157,
-  "updatedAt": "2026-04-06T09:53:28.370Z",
+  "count": 52274,
+  "total_relations": 2461216,
+  "distinct_targets": 2415161,
+  "updatedAt": "2026-04-06T10:18:04.100Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -21219,6 +21219,14 @@
       "content_type": null
     },
     {
+      "id": "2c7d48d8045470bd14b644a31cf9f4374ef89f1ae3b848c9555b9ee79535b5f3i0",
+      "title": "Parent (21 children)",
+      "title_source": "content",
+      "height": 930356,
+      "relation_count": 39,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "2e70ca71908ada180efb3415477b3e4176ec1500daa04bab529eddf0a6c44ef7i10",
       "title": "<html>",
       "title_source": "content",
@@ -21713,14 +21721,6 @@
       "height": 874270,
       "relation_count": 38,
       "content_type": null
-    },
-    {
-      "id": "2c7d48d8045470bd14b644a31cf9f4374ef89f1ae3b848c9555b9ee79535b5f3i0",
-      "title": "Parent (21 children)",
-      "title_source": "content",
-      "height": 930356,
-      "relation_count": 38,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "3ea5471982f35aa854b162f666e3134fe9403e910b7c25e52397da6a9c6d6fe7i1297",
@@ -28387,6 +28387,14 @@
       "content_type": null
     },
     {
+      "id": "b1b0fd99f2444cd662effdbfbf204099e179cd0f2b38d611044dabaf4ee6eb46i0",
+      "title": "Parent (25 children)",
+      "title_source": "content",
+      "height": 883739,
+      "relation_count": 29,
+      "content_type": "image/webp"
+    },
+    {
       "id": "b8746446fd49b2ef233857846f051422b938369f743f9bc682820ef7f7d00aadi1377",
       "title": "Parent (29 children)",
       "title_source": "content",
@@ -29161,14 +29169,6 @@
       "height": 924963,
       "relation_count": 28,
       "content_type": "text/html"
-    },
-    {
-      "id": "b1b0fd99f2444cd662effdbfbf204099e179cd0f2b38d611044dabaf4ee6eb46i0",
-      "title": "Parent (25 children)",
-      "title_source": "content",
-      "height": 883739,
-      "relation_count": 28,
-      "content_type": "image/webp"
     },
     {
       "id": "c3abbb41d34fafd0a9b67701d6d0fe515684e9a90dac0abb2d966fcac86e6014i100",
@@ -84963,6 +84963,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "1cd39cbdbc9f742445c868d94a1faef5cdd0040d396dff4232984168fc2e147di0",
+      "title": "Parent (3 children)",
+      "title_source": "content",
+      "height": 942408,
+      "relation_count": 6,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "1dd189be04cd7f340b42074735a8460dcce1e8bbc9b6da7b6c1b75bafb775af9i0",
       "title": "Parent (6 children)",
       "title_source": "content",
@@ -92385,14 +92393,6 @@
       "height": 898492,
       "relation_count": 5,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "1cd39cbdbc9f742445c868d94a1faef5cdd0040d396dff4232984168fc2e147di0",
-      "title": "Parent (3 children)",
-      "title_source": "content",
-      "height": 942408,
-      "relation_count": 5,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "1e3bd9e47296b82e534dab9c3a7d841662c79599f4345c5eed4c20e4042e2391i0",
@@ -284347,6 +284347,14 @@
       "content_type": "image/svg+xml"
     },
     {
+      "id": "698acfbb5096fc43da0240b85bc52c66cca7dca8098e5febdb867f78e0d15153i0",
+      "title": "Parent (1 children)",
+      "title_source": "unknown",
+      "height": 943895,
+      "relation_count": 1,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "698fad2b3da3f8cd6a69906af3f892af08d7c3f3960a94b977380a382d0c00e9i0",
       "title": "# MYSTICAL CHRONICLES VOLUME XXI - January 21, 2025",
       "title_source": "content",
@@ -318645,7 +318653,7 @@
     {
       "id": "92a02a1ff0a8a24322e704c0edc13ed0c6bf126a6b97b570b860bbff619783bai0",
       "title": "Parent (1 children)",
-      "title_source": "unknown",
+      "title_source": "content",
       "height": 943895,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
