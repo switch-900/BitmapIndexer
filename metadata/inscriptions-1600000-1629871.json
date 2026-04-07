@@ -1,4 +1,4 @@
-{"generated_at":"2026-04-07T00:47:15.695Z","format":"metadata-dedup-v2","start_index":1600000,"end_index":1629870,"count":29871,"unique_metadata_count":28560,"inscriptions":[
+{"generated_at":"2026-04-07T00:55:24.160Z","format":"metadata-dedup-v2","start_index":1600000,"end_index":1629871,"count":29872,"unique_metadata_count":28561,"inscriptions":[
 {"inscription_id":"4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei54","inscription_number":null,"block_height":931352,"content_type":"text/html;charset=utf-8","metaprotocol":null,"metadata_ref":"b32c718774a7c4b0d32179fb"},
 {"inscription_id":"4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei55","inscription_number":null,"block_height":931352,"content_type":"text/html;charset=utf-8","metaprotocol":null,"metadata_ref":"8b5ae7655601d4ca26bd5ba0"},
 {"inscription_id":"4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei56","inscription_number":null,"block_height":931352,"content_type":"text/html;charset=utf-8","metaprotocol":null,"metadata_ref":"c8b75f0cff33bcea6c332df9"},
@@ -29869,7 +29869,8 @@
 {"inscription_id":"7a0bff611ecc6046f641eda28a71d64b9c7afa287392221964f14526dcdabf70i0","inscription_number":null,"block_height":943957,"content_type":"image/webp","metaprotocol":null,"metadata_ref":"d71b36da51488afb0da7e3f0"},
 {"inscription_id":"e765ee590842c566d5ae5c4f6c21ffab1765f679e01e2fb0749c89a135e64039i0","inscription_number":null,"block_height":943958,"content_type":"text/html;charset=utf-8","metaprotocol":null,"metadata_ref":"67d359f289b23f372542336e"},
 {"inscription_id":"95f3b0a9218df63bd985bc536eae036271cd614fa1b63e1b5eeb8ccafd23713di0","inscription_number":null,"block_height":943970,"content_type":"text/html;charset=utf-8","metaprotocol":null,"metadata_ref":"fd3a2bfe1bc5a82ea2aa6b39"},
-{"inscription_id":"580145b0b06889c953c66851f1fe7df2a3e63696c0609ee775f66b161a8b79c8i0","inscription_number":null,"block_height":943970,"content_type":"image/webp","metaprotocol":null,"metadata_ref":"143a84c985766d75e33fd56b"}
+{"inscription_id":"580145b0b06889c953c66851f1fe7df2a3e63696c0609ee775f66b161a8b79c8i0","inscription_number":null,"block_height":943970,"content_type":"image/webp","metaprotocol":null,"metadata_ref":"143a84c985766d75e33fd56b"},
+{"inscription_id":"a17362a2e1835efdd5b220beeea2f174ba1b79b847e78dc3fc7f37f654b9992ai0","inscription_number":null,"block_height":943978,"content_type":"text/html","metaprotocol":null,"metadata_ref":"b1988fe50813527262fd262d"}
 ],"metadata_items":[
 {"metadata_ref":"b32c718774a7c4b0d32179fb","count":1,"inscription_ids":["4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei54"],"metadata":{"name":"Exquisite #4474","species":"Chick","body":"Regular Salmon","legs":"Chess Png","head":"Regular Sandia","eyes":"Regular Blue","hat":"Racing Pink"}},
 {"metadata_ref":"8b5ae7655601d4ca26bd5ba0","count":1,"inscription_ids":["4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei55"],"metadata":{"name":"Exquisite #4475","species":"Mate","arms":"Regular Blue","body":"Chess Yellow","legs":"Jupe Blue","belt":"Regular Gold","necklace":"Primary","face":"Regular Blue","eye":"Regular Purple","hair":"Mowhawk","hat":"None","accessory":"Bananbag"}},
@@ -58430,5 +58431,6 @@
 {"metadata_ref":"d71b36da51488afb0da7e3f0","count":1,"inscription_ids":["7a0bff611ecc6046f641eda28a71d64b9c7afa287392221964f14526dcdabf70i0"],"metadata":{"title":"EMOT♥ES","promise":"This opening does not beg for noise. It invites memory.","belief":"If one gaze lingers, the gate has opened.","mood":"calm, golden, subconscious, true"}},
 {"metadata_ref":"67d359f289b23f372542336e","count":1,"inscription_ids":["e765ee590842c566d5ae5c4f6c21ffab1765f679e01e2fb0749c89a135e64039i0"],"metadata":"bosKA"},
 {"metadata_ref":"fd3a2bfe1bc5a82ea2aa6b39","count":1,"inscription_ids":["95f3b0a9218df63bd985bc536eae036271cd614fa1b63e1b5eeb8ccafd23713di0"],"metadata":"🌀🌊🫯💧❄️💫🧊🟦💙"},
-{"metadata_ref":"143a84c985766d75e33fd56b","count":1,"inscription_ids":["580145b0b06889c953c66851f1fe7df2a3e63696c0609ee775f66b161a8b79c8i0"],"metadata":"bjm'it"}
+{"metadata_ref":"143a84c985766d75e33fd56b","count":1,"inscription_ids":["580145b0b06889c953c66851f1fe7df2a3e63696c0609ee775f66b161a8b79c8i0"],"metadata":"bjm'it"},
+{"metadata_ref":"b1988fe50813527262fd262d","count":1,"inscription_ids":["a17362a2e1835efdd5b220beeea2f174ba1b79b847e78dc3fc7f37f654b9992ai0"],"metadata":{"collection_name":"Galactic Gravity","display_iid":"cb9a2b3a535632d7cd4894ace4ce6def87898422fedf586675f0859115f2dd0ci2","creation_date":"2025-10-17","collection_size":350}}
 ]}

@@ -5,10 +5,10 @@
     "title": "Gallery of Galleries",
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
-  "count": 641,
-  "total_relations": 750778,
-  "distinct_targets": 618349,
-  "updatedAt": "2026-04-07T00:45:23.281Z",
+  "count": 643,
+  "total_relations": 751333,
+  "distinct_targets": 618904,
+  "updatedAt": "2026-04-07T00:53:11.154Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -5136,6 +5136,22 @@
       "title_source": "content",
       "height": 943956,
       "item_count": 4032,
+      "content_type": "text/html"
+    },
+    {
+      "id": "235c2692fc1395d3e00e59ef709071ea1454c81694f8157e75df781f0b1c94c9i0",
+      "title": "DARK ORDINAUT #1",
+      "title_source": "item-title",
+      "height": 943978,
+      "item_count": 205,
+      "content_type": "image/jpeg"
+    },
+    {
+      "id": "a17362a2e1835efdd5b220beeea2f174ba1b79b847e78dc3fc7f37f654b9992ai0",
+      "title": "Galactic Gravity #1",
+      "title_source": "item-title",
+      "height": 943978,
+      "item_count": 350,
       "content_type": "text/html"
     }
   ]
