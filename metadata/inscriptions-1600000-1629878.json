@@ -1,4 +1,4 @@
-{"generated_at":"2026-04-07T17:40:37.483Z","format":"metadata-dedup-v2","start_index":1600000,"end_index":1629877,"count":29878,"unique_metadata_count":28567,"inscriptions":[
+{"generated_at":"2026-04-07T17:53:09.241Z","format":"metadata-dedup-v2","start_index":1600000,"end_index":1629878,"count":29879,"unique_metadata_count":28567,"inscriptions":[
 {"inscription_id":"4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei54","inscription_number":null,"block_height":931352,"content_type":"text/html;charset=utf-8","metaprotocol":null,"metadata_ref":"b32c718774a7c4b0d32179fb"},
 {"inscription_id":"4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei55","inscription_number":null,"block_height":931352,"content_type":"text/html;charset=utf-8","metaprotocol":null,"metadata_ref":"8b5ae7655601d4ca26bd5ba0"},
 {"inscription_id":"4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei56","inscription_number":null,"block_height":931352,"content_type":"text/html;charset=utf-8","metaprotocol":null,"metadata_ref":"c8b75f0cff33bcea6c332df9"},
@@ -29876,7 +29876,8 @@
 {"inscription_id":"f5faaa81752e158c35d9d5364b456f8d5abca08b8e362e0548ec0cf666ddaf99i0","inscription_number":null,"block_height":943984,"content_type":"text/html","metaprotocol":null,"metadata_ref":"67faae112c48768e161071fe"},
 {"inscription_id":"f0bb1379ce042c2200a581c7859d1d87eed9406f98ddda1556e0f506ee603730i0","inscription_number":null,"block_height":943986,"content_type":"image/jpeg","metaprotocol":null,"metadata_ref":"3da7b25c34f8e6392fcf8e3f"},
 {"inscription_id":"dcb3fc46c4deb2b94972955c21fd9fda3cd93108af396559b8e0cbeb58bb16fai0","inscription_number":null,"block_height":943986,"content_type":"image/webp","metaprotocol":null,"metadata_ref":"27ceed229d2b162734a2d5e0"},
-{"inscription_id":"f44279c0e177ca1bd0bf27a1717376933a64287b581ee82b3b40de18147c56bei0","inscription_number":null,"block_height":943988,"content_type":"text/html;charset=utf-8","metaprotocol":null,"metadata_ref":"4090e886837512310cf985fe"}
+{"inscription_id":"f44279c0e177ca1bd0bf27a1717376933a64287b581ee82b3b40de18147c56bei0","inscription_number":null,"block_height":943988,"content_type":"text/html;charset=utf-8","metaprotocol":null,"metadata_ref":"4090e886837512310cf985fe"},
+{"inscription_id":"b4afb9b4901e2510ab23c348f9bb95b353c8b034d06f6f324e5c7512592d56f3i0","inscription_number":null,"block_height":944076,"content_type":null,"metaprotocol":null,"metadata_ref":"7b16ebe63a0280d5e21ee47a"}
 ],"metadata_items":[
 {"metadata_ref":"b32c718774a7c4b0d32179fb","count":1,"inscription_ids":["4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei54"],"metadata":{"name":"Exquisite #4474","species":"Chick","body":"Regular Salmon","legs":"Chess Png","head":"Regular Sandia","eyes":"Regular Blue","hat":"Racing Pink"}},
 {"metadata_ref":"8b5ae7655601d4ca26bd5ba0","count":1,"inscription_ids":["4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei55"],"metadata":{"name":"Exquisite #4475","species":"Mate","arms":"Regular Blue","body":"Chess Yellow","legs":"Jupe Blue","belt":"Regular Gold","necklace":"Primary","face":"Regular Blue","eye":"Regular Purple","hair":"Mowhawk","hat":"None","accessory":"Bananbag"}},
@@ -53296,7 +53297,7 @@
 {"metadata_ref":"d711c7639bf920066d191740","count":1,"inscription_ids":["9c0b27493c9490c6d2387ad20edd9aa8980b585b4d2ad77622b9cda7865e3ad7i2"],"metadata":{"ID":"31"}},
 {"metadata_ref":"2c68877a66df2d671c29aa46","count":1,"inscription_ids":["c9371362311bbb43584b7db50fa666879763b20a47f98404112a39831c8b491ci0"],"metadata":{"ID":"38"}},
 {"metadata_ref":"2b89a95566e1b58e701f5b24","count":1,"inscription_ids":["9ae7468dcc0448f66e0147f2707becdeb003ce7b5cb213501fe4f9a6e6d8373ci0"],"metadata":{"ID":"37"}},
-{"metadata_ref":"7b16ebe63a0280d5e21ee47a","count":1,"inscription_ids":["58c4a7dda5a18412beb917dca4a6df17b5368565dbbc8be0f2bf587c6a6c2364i2"],"metadata":{"ID":"41"}},
+{"metadata_ref":"7b16ebe63a0280d5e21ee47a","count":2,"inscription_ids":["58c4a7dda5a18412beb917dca4a6df17b5368565dbbc8be0f2bf587c6a6c2364i2","b4afb9b4901e2510ab23c348f9bb95b353c8b034d06f6f324e5c7512592d56f3i0"],"metadata":{"ID":"41"}},
 {"metadata_ref":"bbcfc5b48026b31fda534d4d","count":1,"inscription_ids":["58c4a7dda5a18412beb917dca4a6df17b5368565dbbc8be0f2bf587c6a6c2364i3"],"metadata":{"ID":"42"}},
 {"metadata_ref":"c85614cc4030d257a0614988","count":1,"inscription_ids":["58c4a7dda5a18412beb917dca4a6df17b5368565dbbc8be0f2bf587c6a6c2364i4"],"metadata":{"ID":"43"}},
 {"metadata_ref":"56c4e87527dd23823d0f1f5f","count":1,"inscription_ids":["c083caf2ff6ffe3b9a5580a692f16453645dd3f4dddeef8234efb55f90ac4dbfi0"],"metadata":{"ID":"44"}},
