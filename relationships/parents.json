@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52287,
-  "total_relations": 2461387,
-  "distinct_targets": 2415332,
-  "updatedAt": "2026-04-08T07:23:37.147Z",
+  "total_relations": 2461389,
+  "distinct_targets": 2415334,
+  "updatedAt": "2026-04-08T07:30:37.875Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -23827,6 +23827,14 @@
       "content_type": null
     },
     {
+      "id": "126ff468c9afb8ddacc88eb65e4f63874d4cdd7dfa8ecb61912c259973cb241ei0",
+      "title": "Parent (32 children)",
+      "title_source": "content",
+      "height": 937879,
+      "relation_count": 34,
+      "content_type": "text/html"
+    },
+    {
       "id": "24896aca4cf78925503b77b4628cef6abbf515f79427caba9fd41f28dcca7c1fi557",
       "title": "Parent (34 children)",
       "title_source": "content",
@@ -25079,14 +25087,6 @@
       "title": "Centered Bitcoin Block Triggered Mirrored Quadrants",
       "title_source": "content",
       "height": 875287,
-      "relation_count": 32,
-      "content_type": "text/html"
-    },
-    {
-      "id": "126ff468c9afb8ddacc88eb65e4f63874d4cdd7dfa8ecb61912c259973cb241ei0",
-      "title": "Parent (32 children)",
-      "title_source": "content",
-      "height": 937879,
       "relation_count": 32,
       "content_type": "text/html"
     },
