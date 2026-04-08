@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 52288,
-  "total_relations": 2461431,
-  "distinct_targets": 2415376,
-  "updatedAt": "2026-04-08T10:44:50.242Z",
+  "count": 52289,
+  "total_relations": 2461435,
+  "distinct_targets": 2415380,
+  "updatedAt": "2026-04-08T10:52:26.321Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -4727,7 +4727,7 @@
       "title": "Parent (282 children)",
       "title_source": "content",
       "height": 837421,
-      "relation_count": 288,
+      "relation_count": 289,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -116987,6 +116987,14 @@
       "content_type": null
     },
     {
+      "id": "32689e56e4aad18623df12e82dc15307e922e06f43c1e333973496551896d9a2i0",
+      "title": "TAUP",
+      "title_source": "content",
+      "height": 944088,
+      "relation_count": 3,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "32b1b6d0bf61399ac1139362a70d8acb8134693439243add71d7a7c3640221f0i100",
       "title": "<script src=\"/content/71e63e8cb3c8c0e484f5fb0e7a31114c6c5d489b61c3db364e3c47004cb2f274i0\"></script>",
       "title_source": "content",
@@ -144119,14 +144127,6 @@
       "title": "Parent (2 children)",
       "title_source": "content",
       "height": 912683,
-      "relation_count": 2,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "32689e56e4aad18623df12e82dc15307e922e06f43c1e333973496551896d9a2i0",
-      "title": "TAUP",
-      "title_source": "content",
-      "height": 944088,
       "relation_count": 2,
       "content_type": "text/plain;charset=utf-8"
     },
@@ -180463,6 +180463,14 @@
       "title": "233955.bitmap",
       "title_source": "content",
       "height": 795932,
+      "relation_count": 2,
+      "content_type": "text/plain"
+    },
+    {
+      "id": "d3aa3317deb27f326d196a5df648c6c2706d743b936ccc2b92d3d24b0c282e0bi0",
+      "title": "Assets",
+      "title_source": "content",
+      "height": 944131,
       "relation_count": 2,
       "content_type": "text/plain"
     },
