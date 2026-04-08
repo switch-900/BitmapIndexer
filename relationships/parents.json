@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52289,
-  "total_relations": 2461448,
-  "distinct_targets": 2415393,
-  "updatedAt": "2026-04-08T12:14:47.649Z",
+  "total_relations": 2461454,
+  "distinct_targets": 2415399,
+  "updatedAt": "2026-04-08T12:22:34.325Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -3211,20 +3211,20 @@
       "content_type": "image/webp"
     },
     {
+      "id": "da5aeef81bf5a2f0da47869f9661eaa429d10d8a3e95ae37565e6b1587b5bcddi0",
+      "title": "Parent (528 children)",
+      "title_source": "content",
+      "height": 904142,
+      "relation_count": 536,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "174bbec380542eea1c50019866ea1bc6adc1bfb6386f580a145bbe4b3ee3dd7fi0",
       "title": "2024 Christmas Pachinko Tree - orDOS",
       "title_source": "content",
       "height": 876395,
       "relation_count": 535,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "da5aeef81bf5a2f0da47869f9661eaa429d10d8a3e95ae37565e6b1587b5bcddi0",
-      "title": "Parent (528 children)",
-      "title_source": "content",
-      "height": 904142,
-      "relation_count": 535,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "69382b4c06bb2749a998f22516d6dac73da6c49843592986d5616ce4aedf13e9i0",
@@ -3559,7 +3559,7 @@
       "title": "Parent (449 children)",
       "title_source": "content",
       "height": 837179,
-      "relation_count": 455,
+      "relation_count": 456,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -3647,7 +3647,7 @@
       "title": "Parent (413 children)",
       "title_source": "content",
       "height": 905348,
-      "relation_count": 421,
+      "relation_count": 422,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -4227,18 +4227,18 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
-      "id": "738c48d01c1e17d9b3ea47e28441f4687aee61d5e207f19ab35bf5475e3fbabdi0",
-      "title": "Parent (330 children)",
-      "title_source": "content",
-      "height": 875260,
-      "relation_count": 330,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
       "id": "d23df5d24bacd98ae8eabb049477b8749cd5c37a6bc24cd5cc20d76b2fd6ae8fi0",
       "title": "Parent (322 children)",
       "title_source": "content",
       "height": 906049,
+      "relation_count": 331,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
+      "id": "738c48d01c1e17d9b3ea47e28441f4687aee61d5e207f19ab35bf5475e3fbabdi0",
+      "title": "Parent (330 children)",
+      "title_source": "content",
+      "height": 875260,
       "relation_count": 330,
       "content_type": "text/plain;charset=utf-8"
     },
@@ -4711,7 +4711,7 @@
       "title": "Parent (285 children)",
       "title_source": "content",
       "height": 929411,
-      "relation_count": 293,
+      "relation_count": 294,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -9011,6 +9011,14 @@
       "content_type": "image/jpeg"
     },
     {
+      "id": "a5bfc0aad1d2c69b8abd3c7b4112c59a764f002df6c5257f86aa9a0ef408a5a7i0",
+      "title": "Parent (71 children)",
+      "title_source": "content",
+      "height": 906695,
+      "relation_count": 85,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "24896aca4cf78925503b77b4628cef6abbf515f79427caba9fd41f28dcca7c1fi1238",
       "title": "Parent (84 children)",
       "title_source": "content",
@@ -9055,14 +9063,6 @@
       "title": "Parent (84 children)",
       "title_source": "content",
       "height": 883712,
-      "relation_count": 84,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "a5bfc0aad1d2c69b8abd3c7b4112c59a764f002df6c5257f86aa9a0ef408a5a7i0",
-      "title": "Parent (71 children)",
-      "title_source": "content",
-      "height": 906695,
       "relation_count": 84,
       "content_type": "text/plain;charset=utf-8"
     },
