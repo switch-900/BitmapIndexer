@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52289,
-  "total_relations": 2461455,
-  "distinct_targets": 2415400,
-  "updatedAt": "2026-04-08T12:33:00.550Z",
+  "total_relations": 2461456,
+  "distinct_targets": 2415401,
+  "updatedAt": "2026-04-08T12:42:08.142Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -92963,6 +92963,14 @@
       "content_type": "text/plain"
     },
     {
+      "id": "32689e56e4aad18623df12e82dc15307e922e06f43c1e333973496551896d9a2i0",
+      "title": "TAUP",
+      "title_source": "content",
+      "height": 944088,
+      "relation_count": 5,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "326aa766972d00fc22cedb9c18b0b4145f411fc9d4c88e99bb8909fe962a658ei0",
       "title": "Centered Text",
       "title_source": "content",
@@ -102977,14 +102985,6 @@
       "height": 874314,
       "relation_count": 4,
       "content_type": null
-    },
-    {
-      "id": "32689e56e4aad18623df12e82dc15307e922e06f43c1e333973496551896d9a2i0",
-      "title": "TAUP",
-      "title_source": "content",
-      "height": 944088,
-      "relation_count": 4,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "32c9a6b5b8c2439dbcf419eb4fd79577071217ba7c7022fcc06e11f973fc5ea2i0",
