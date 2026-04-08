@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52288,
-  "total_relations": 2461429,
-  "distinct_targets": 2415374,
-  "updatedAt": "2026-04-08T10:38:20.096Z",
+  "total_relations": 2461431,
+  "distinct_targets": 2415376,
+  "updatedAt": "2026-04-08T10:44:50.242Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -4987,6 +4987,14 @@
       "content_type": "text/markdown;charset=utf-8"
     },
     {
+      "id": "aa09e92c952b4dbaf29534879a637173babc28103f637c73d92db1a215eaf928i0",
+      "title": "Parent (234 children)",
+      "title_source": "content",
+      "height": 906841,
+      "relation_count": 240,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "b9726cda955366037c1fb890e594637adf560abce6db769403b9c04c7952d65ei0",
       "title": "Parent (240 children)",
       "title_source": "content",
@@ -4999,14 +5007,6 @@
       "title": "Parent (239 children)",
       "title_source": "content",
       "height": 878738,
-      "relation_count": 239,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "aa09e92c952b4dbaf29534879a637173babc28103f637c73d92db1a215eaf928i0",
-      "title": "Parent (234 children)",
-      "title_source": "content",
-      "height": 906841,
       "relation_count": 239,
       "content_type": "text/plain;charset=utf-8"
     },
@@ -144123,6 +144123,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "32689e56e4aad18623df12e82dc15307e922e06f43c1e333973496551896d9a2i0",
+      "title": "TAUP",
+      "title_source": "content",
+      "height": 944088,
+      "relation_count": 2,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "32f226d2012ed161fd29529f0a096a604573186c6fdb0a2dc41ddc491c67343ci0",
       "title": "Parent (2 children)",
       "title_source": "content",
@@ -231487,14 +231495,6 @@
       "title": "Parent (1 children)",
       "title_source": "content",
       "height": 867545,
-      "relation_count": 1,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "32689e56e4aad18623df12e82dc15307e922e06f43c1e333973496551896d9a2i0",
-      "title": "TAUP",
-      "title_source": "content",
-      "height": 944088,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
     },
