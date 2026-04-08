@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52287,
-  "total_relations": 2461389,
-  "distinct_targets": 2415334,
-  "updatedAt": "2026-04-08T09:29:34.651Z",
+  "total_relations": 2461390,
+  "distinct_targets": 2415335,
+  "updatedAt": "2026-04-08T09:37:56.830Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -92955,6 +92955,14 @@
       "content_type": "text/plain"
     },
     {
+      "id": "326aa766972d00fc22cedb9c18b0b4145f411fc9d4c88e99bb8909fe962a658ei0",
+      "title": "Centered Text",
+      "title_source": "content",
+      "height": 889055,
+      "relation_count": 5,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
       "id": "3270e88cff412497430df1e9500bd041058af1d756e5c45f3dbcbf319a14f445i0",
       "title": "State 1",
       "title_source": "content",
@@ -102953,14 +102961,6 @@
       "height": 874314,
       "relation_count": 4,
       "content_type": null
-    },
-    {
-      "id": "326aa766972d00fc22cedb9c18b0b4145f411fc9d4c88e99bb8909fe962a658ei0",
-      "title": "Centered Text",
-      "title_source": "content",
-      "height": 889055,
-      "relation_count": 4,
-      "content_type": "text/html;charset=utf-8"
     },
     {
       "id": "32c9a6b5b8c2439dbcf419eb4fd79577071217ba7c7022fcc06e11f973fc5ea2i0",
