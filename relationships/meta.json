@@ -1,29 +1,29 @@
 {
   "totalRelationTypes": 4,
-  "totalRelations": 5584474,
-  "updatedAt": "2026-04-10T13:54:24.135Z",
+  "totalRelations": 5584597,
+  "updatedAt": "2026-04-10T14:01:43.467Z",
   "relationTypes": [
     {
       "id": "parents",
       "relation_type": "child",
-      "total_relations": 2461916,
-      "distinct_sources": 52293,
-      "distinct_targets": 2415861,
+      "total_relations": 2461917,
+      "distinct_sources": 52294,
+      "distinct_targets": 2415862,
       "file": "relationships/parents.json"
     },
     {
       "id": "delegates",
       "relation_type": "delegate",
-      "total_relations": 2366684,
-      "distinct_sources": 14064,
-      "distinct_targets": 2366684,
+      "total_relations": 2366685,
+      "distinct_sources": 14065,
+      "distinct_targets": 2366685,
       "file": "relationships/delegates.json"
     },
     {
       "id": "galleries",
       "relation_type": "gallery",
-      "total_relations": 752517,
-      "distinct_sources": 647,
+      "total_relations": 752638,
+      "distinct_sources": 648,
       "distinct_targets": 620088,
       "file": "galleries/gallery-of-galleries.json"
     },
