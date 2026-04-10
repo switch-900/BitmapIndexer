@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52294,
-  "total_relations": 2461918,
-  "distinct_targets": 2415863,
-  "updatedAt": "2026-04-10T14:22:59.296Z",
+  "total_relations": 2461919,
+  "distinct_targets": 2415864,
+  "updatedAt": "2026-04-10T14:30:32.049Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -174595,6 +174595,14 @@
       "content_type": "text/javascript"
     },
     {
+      "id": "b9b3c900435465e7c40a412270678eb4145aa0b0f8516e19fb4354e0a7a64d00i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 944455,
+      "relation_count": 2,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
       "id": "b9d2caafcb6ce295e2c52cc15d531b6b1ffe8c3fab5d778abb0e759893f9a4a4i0",
       "title": "Cursed Goosinal by Goosinals",
       "title_source": "content",
@@ -347377,14 +347385,6 @@
       "height": 795112,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "b9b3c900435465e7c40a412270678eb4145aa0b0f8516e19fb4354e0a7a64d00i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 944455,
-      "relation_count": 1,
-      "content_type": "text/html;charset=utf-8"
     },
     {
       "id": "b9bff0e1715f38f57442ddc2c32af7ebd20ce6fc0b2c7bb42e80d142acd1396ai0",
