@@ -6,9 +6,9 @@
     "description": "All inscriptions that are used as delegate targets."
   },
   "count": 14066,
-  "total_relations": 2366687,
-  "distinct_targets": 2366687,
-  "updatedAt": "2026-04-10T20:07:09.105Z",
+  "total_relations": 2366688,
+  "distinct_targets": 2366688,
+  "updatedAt": "2026-04-10T20:25:06.961Z",
   "items": [
     {
       "id": "eb025023e3e7efb6b1dc1ab2ba21b41fbd7f5afbcc76b92e1fb74887c19858aai0",
@@ -22537,6 +22537,14 @@
       "height": 778073,
       "relation_count": 2,
       "content_type": "image/png"
+    },
+    {
+      "id": "47dc5de82031f0280599ff7716c27cbfa9b72368845252bacb2d25a283abf452i0",
+      "title": "Binary Blueprints",
+      "title_source": "content",
+      "height": 944165,
+      "relation_count": 2,
+      "content_type": "text/html"
     },
     {
       "id": "48fd7f635aa8da1e4c800ceb5a6e77b4ac22f1b530949d53b8b02905232c1fe9i0",
@@ -49353,14 +49361,6 @@
       "height": 824278,
       "relation_count": 1,
       "content_type": "image/webp"
-    },
-    {
-      "id": "47dc5de82031f0280599ff7716c27cbfa9b72368845252bacb2d25a283abf452i0",
-      "title": "Binary Blueprints",
-      "title_source": "content",
-      "height": 944165,
-      "relation_count": 1,
-      "content_type": "text/html"
     },
     {
       "id": "47ddea0d2ab6b494df3a1590a18045561a033d4ec8898c82a6bff24eceef44f8i0",
