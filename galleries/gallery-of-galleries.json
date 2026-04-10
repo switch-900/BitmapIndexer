@@ -5,10 +5,10 @@
     "title": "Gallery of Galleries",
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
-  "count": 651,
+  "count": 653,
   "total_relations": 753773,
   "distinct_targets": 621102,
-  "updatedAt": "2026-04-10T22:03:04.862Z",
+  "updatedAt": "2026-04-10T22:32:35.844Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -5217,6 +5217,22 @@
       "height": 944514,
       "item_count": 777,
       "content_type": "image/avif"
+    },
+    {
+      "id": "6bb933a901fc7c3a2121d7eb32281e101ff5834dc72bcace8f14c384ae291abci0",
+      "title": "OG Blockaxe #1 (Parent)",
+      "title_source": "item-title",
+      "height": 944520,
+      "item_count": 101,
+      "content_type": "image/png"
+    },
+    {
+      "id": "d407a3061296706300834b117ca337e460cd8f2b2d913298c3c2dbcc049d61edi0",
+      "title": "OG Pickaxe #1 (Parent)",
+      "title_source": "item-title",
+      "height": 944520,
+      "item_count": 100,
+      "content_type": "image/png"
     }
   ]
 }
