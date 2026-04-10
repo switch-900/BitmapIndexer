@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52293,
-  "total_relations": 2461914,
-  "distinct_targets": 2415859,
-  "updatedAt": "2026-04-10T12:54:35.039Z",
+  "total_relations": 2461916,
+  "distinct_targets": 2415861,
+  "updatedAt": "2026-04-10T13:03:47.861Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -125619,6 +125619,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "8b7b4fec5a40400cdf15093fbf6dc0fcafc574223bb148f8bdc59c4fea66f4f4i0",
+      "title": "16739.bitmap",
+      "title_source": "content",
+      "height": 794756,
+      "relation_count": 3,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "8bee827b71d465fa8ceec7a38f2c6361d1749f72fbcd6005825467777a6b83e4i0",
       "title": "Parent (3 children)",
       "title_source": "content",
@@ -152011,6 +152019,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "53c98986d28ad4aa5143e28a3533d03d3738000caa17828b4e29759c39a0fe86i6",
+      "title": "<!DOCTYPE html>",
+      "title_source": "content",
+      "height": 893150,
+      "relation_count": 2,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
       "id": "53fb6890539f6682c5b9a129aa947b6e84c7b44a5e394bae009c5b519df10d78i4",
       "title": "<script src=\"/content/cdb13fe07fd8529aa06191903fb9838141fdb147fcdc28adc2e5e1e820d4e678i0\"></script>",
       "title_source": "content",
@@ -165583,14 +165599,6 @@
       "title": "Parent (2 children)",
       "title_source": "content",
       "height": 837103,
-      "relation_count": 2,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "8b7b4fec5a40400cdf15093fbf6dc0fcafc574223bb148f8bdc59c4fea66f4f4i0",
-      "title": "16739.bitmap",
-      "title_source": "content",
-      "height": 794756,
       "relation_count": 2,
       "content_type": "text/plain;charset=utf-8"
     },
@@ -261084,14 +261092,6 @@
     },
     {
       "id": "53c98986d28ad4aa5143e28a3533d03d3738000caa17828b4e29759c39a0fe86i48",
-      "title": "<!DOCTYPE html>",
-      "title_source": "content",
-      "height": 893150,
-      "relation_count": 1,
-      "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "53c98986d28ad4aa5143e28a3533d03d3738000caa17828b4e29759c39a0fe86i6",
       "title": "<!DOCTYPE html>",
       "title_source": "content",
       "height": 893150,
