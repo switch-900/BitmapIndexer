@@ -5,10 +5,10 @@
     "title": "Gallery of Galleries",
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
-  "count": 650,
-  "total_relations": 752996,
-  "distinct_targets": 620325,
-  "updatedAt": "2026-04-10T20:54:11.786Z",
+  "count": 651,
+  "total_relations": 753773,
+  "distinct_targets": 621102,
+  "updatedAt": "2026-04-10T21:13:47.369Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -5209,6 +5209,14 @@
       "height": 944510,
       "item_count": 237,
       "content_type": "image/jpeg"
+    },
+    {
+      "id": "78f66ec3fd6f3f2f4050f06bc017fc066ba659ca11d65e5f722b8f49a8947d4ai0",
+      "title": "O.P.I.U.M #1",
+      "title_source": "item-title",
+      "height": 944514,
+      "item_count": 777,
+      "content_type": "image/avif"
     }
   ]
 }
