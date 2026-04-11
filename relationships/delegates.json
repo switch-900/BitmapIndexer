@@ -6,9 +6,9 @@
     "description": "All inscriptions that are used as delegate targets."
   },
   "count": 14067,
-  "total_relations": 2366689,
-  "distinct_targets": 2366689,
-  "updatedAt": "2026-04-11T06:25:56.907Z",
+  "total_relations": 2366690,
+  "distinct_targets": 2366690,
+  "updatedAt": "2026-04-11T06:42:09.570Z",
   "items": [
     {
       "id": "eb025023e3e7efb6b1dc1ab2ba21b41fbd7f5afbcc76b92e1fb74887c19858aai0",
@@ -22969,6 +22969,14 @@
       "height": 774541,
       "relation_count": 2,
       "content_type": "image/png"
+    },
+    {
+      "id": "759e9bd15e6035f2e39befafb2050c6448fafb9dc5006ec0d286b0f34966dcf3i0",
+      "title": "<script>",
+      "title_source": "content",
+      "height": 845037,
+      "relation_count": 2,
+      "content_type": "text/html;charset=utf-8"
     },
     {
       "id": "75d390691de127f1d87a5359cf9959afb4cd35e0434324f10b6be65f78f41b3di0",
@@ -69017,14 +69025,6 @@
       "height": 820628,
       "relation_count": 1,
       "content_type": "image/webp"
-    },
-    {
-      "id": "759e9bd15e6035f2e39befafb2050c6448fafb9dc5006ec0d286b0f34966dcf3i0",
-      "title": "<script>",
-      "title_source": "content",
-      "height": 845037,
-      "relation_count": 1,
-      "content_type": "text/html;charset=utf-8"
     },
     {
       "id": "75c4d87220ec52619f493e91d315605324edce8428f66070c50fb206819c7830i0",
