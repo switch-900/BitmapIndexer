@@ -5,10 +5,10 @@
     "title": "Gallery of Galleries",
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
-  "count": 659,
-  "total_relations": 754848,
-  "distinct_targets": 621980,
-  "updatedAt": "2026-04-11T17:38:59.690Z",
+  "count": 660,
+  "total_relations": 755029,
+  "distinct_targets": 622161,
+  "updatedAt": "2026-04-11T17:46:22.316Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -5277,10 +5277,18 @@
     {
       "id": "f73d30d6aea0409cecd61c8d0bec01948de02291f81f71c13eb2929ab56acf94i0",
       "title": "Gallery (1 items)",
-      "title_source": "unknown",
+      "title_source": "content",
       "height": 944619,
       "item_count": 1,
       "content_type": null
+    },
+    {
+      "id": "3db8bbee1241485c0d95acac057dba69099add4d37c19ddc7872e3d5d0a47d64i0",
+      "title": "ORDINAL GIRL n1 #1",
+      "title_source": "item-title",
+      "height": 944620,
+      "item_count": 181,
+      "content_type": "image/webp"
     }
   ]
 }
