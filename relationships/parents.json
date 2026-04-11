@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 52300,
-  "total_relations": 2461981,
-  "distinct_targets": 2415926,
-  "updatedAt": "2026-04-11T11:28:07.740Z",
+  "count": 52313,
+  "total_relations": 2461996,
+  "distinct_targets": 2415941,
+  "updatedAt": "2026-04-11T11:34:01.746Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -5619,20 +5619,20 @@
       "content_type": null
     },
     {
+      "id": "1421434104536e30817433c071f25e6347da4e3edcbbd56d70dc98b1b9684ee8i0",
+      "title": "Parent (177 children)",
+      "title_source": "content",
+      "height": 837280,
+      "relation_count": 186,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "e56091a8e0276f8faec19ee909d34bf7151fc2d3eb2219d6cb87e45fab8e6782i0",
       "title": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 420 420\">",
       "title_source": "content",
       "height": 839955,
       "relation_count": 186,
       "content_type": "image/svg+xml"
-    },
-    {
-      "id": "1421434104536e30817433c071f25e6347da4e3edcbbd56d70dc98b1b9684ee8i0",
-      "title": "Parent (177 children)",
-      "title_source": "content",
-      "height": 837280,
-      "relation_count": 185,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "b6f26619bc08dba2fdfcd5dde3372ad30f213aff60480bd870628600277c016fi0",
@@ -8843,6 +8843,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "61e00d15526126637eee336c9068e73bb73539af6cf1d1ca535d10ea1d594aaei0",
+      "title": "Parent (77 children)",
+      "title_source": "content",
+      "height": 921163,
+      "relation_count": 88,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "a5bfc0aad1d2c69b8abd3c7b4112c59a764f002df6c5257f86aa9a0ef408a5a7i0",
       "title": "Parent (71 children)",
       "title_source": "content",
@@ -8881,14 +8889,6 @@
       "height": 874129,
       "relation_count": 87,
       "content_type": null
-    },
-    {
-      "id": "61e00d15526126637eee336c9068e73bb73539af6cf1d1ca535d10ea1d594aaei0",
-      "title": "Parent (77 children)",
-      "title_source": "content",
-      "height": 921163,
-      "relation_count": 87,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "632ef5844f1384ff30ef08d1ac88564f0aebdbaa82c4838271e816a612df969bi0",
@@ -229745,6 +229745,110 @@
       "height": 869670,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
+    },
+    {
+      "id": "2fc6fccffb09178cc2d67c58ceef5908a0c7ec211e14f0fd602722d42d6ab76bi0",
+      "title": "01-base-provider",
+      "title_source": "content",
+      "height": 944507,
+      "relation_count": 1,
+      "content_type": "text/plain"
+    },
+    {
+      "id": "2fc6fccffb09178cc2d67c58ceef5908a0c7ec211e14f0fd602722d42d6ab76bi1",
+      "title": "02-normalizers",
+      "title_source": "content",
+      "height": 944507,
+      "relation_count": 1,
+      "content_type": "text/plain"
+    },
+    {
+      "id": "2fc6fccffb09178cc2d67c58ceef5908a0c7ec211e14f0fd602722d42d6ab76bi10",
+      "title": "11-bitmapwallet-provider",
+      "title_source": "content",
+      "height": 944507,
+      "relation_count": 1,
+      "content_type": "text/plain"
+    },
+    {
+      "id": "2fc6fccffb09178cc2d67c58ceef5908a0c7ec211e14f0fd602722d42d6ab76bi11",
+      "title": "12-wallet-connect",
+      "title_source": "content",
+      "height": 944507,
+      "relation_count": 1,
+      "content_type": "text/plain"
+    },
+    {
+      "id": "2fc6fccffb09178cc2d67c58ceef5908a0c7ec211e14f0fd602722d42d6ab76bi12",
+      "title": "13-wallet-sign-wrapper",
+      "title_source": "content",
+      "height": 944507,
+      "relation_count": 1,
+      "content_type": "text/plain"
+    },
+    {
+      "id": "2fc6fccffb09178cc2d67c58ceef5908a0c7ec211e14f0fd602722d42d6ab76bi2",
+      "title": "03-wallet-connector",
+      "title_source": "content",
+      "height": 944507,
+      "relation_count": 1,
+      "content_type": "text/plain"
+    },
+    {
+      "id": "2fc6fccffb09178cc2d67c58ceef5908a0c7ec211e14f0fd602722d42d6ab76bi3",
+      "title": "04-unisat-provider",
+      "title_source": "content",
+      "height": 944507,
+      "relation_count": 1,
+      "content_type": "text/plain"
+    },
+    {
+      "id": "2fc6fccffb09178cc2d67c58ceef5908a0c7ec211e14f0fd602722d42d6ab76bi4",
+      "title": "05-xverse-provider",
+      "title_source": "content",
+      "height": 944507,
+      "relation_count": 1,
+      "content_type": "text/plain"
+    },
+    {
+      "id": "2fc6fccffb09178cc2d67c58ceef5908a0c7ec211e14f0fd602722d42d6ab76bi5",
+      "title": "06-okx-provider",
+      "title_source": "content",
+      "height": 944507,
+      "relation_count": 1,
+      "content_type": "text/plain"
+    },
+    {
+      "id": "2fc6fccffb09178cc2d67c58ceef5908a0c7ec211e14f0fd602722d42d6ab76bi6",
+      "title": "07-leather-provider",
+      "title_source": "content",
+      "height": 944507,
+      "relation_count": 1,
+      "content_type": "text/plain"
+    },
+    {
+      "id": "2fc6fccffb09178cc2d67c58ceef5908a0c7ec211e14f0fd602722d42d6ab76bi7",
+      "title": "08-phantom-provider",
+      "title_source": "content",
+      "height": 944507,
+      "relation_count": 1,
+      "content_type": "text/plain"
+    },
+    {
+      "id": "2fc6fccffb09178cc2d67c58ceef5908a0c7ec211e14f0fd602722d42d6ab76bi8",
+      "title": "09-wizz-provider",
+      "title_source": "content",
+      "height": 944507,
+      "relation_count": 1,
+      "content_type": "text/plain"
+    },
+    {
+      "id": "2fc6fccffb09178cc2d67c58ceef5908a0c7ec211e14f0fd602722d42d6ab76bi9",
+      "title": "10-oyl-provider",
+      "title_source": "content",
+      "height": 944507,
+      "relation_count": 1,
+      "content_type": "text/plain"
     },
     {
       "id": "2fc8fe8d815152de90c577250c134d4119b8468cdddf226921bcb25b3fae186fi0",
