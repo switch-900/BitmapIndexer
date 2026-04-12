@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52326,
-  "total_relations": 2462400,
-  "distinct_targets": 2416345,
-  "updatedAt": "2026-04-12T01:23:42.150Z",
+  "total_relations": 2462401,
+  "distinct_targets": 2416346,
+  "updatedAt": "2026-04-12T01:30:05.641Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -19347,6 +19347,14 @@
       "content_type": null
     },
     {
+      "id": "b2a0f82c6ca9b04815615b30a535eca9ecdd14574470c38808680c4dc627dca9i0",
+      "title": "Parent (37 children)",
+      "title_source": "content",
+      "height": 928763,
+      "relation_count": 43,
+      "content_type": "image/webp"
+    },
+    {
       "id": "b7c2774e7b97b6586ad4a52efef75f143341bdc9931238caeea241f6eed1fa51i2",
       "title": "ABL by AB",
       "title_source": "content",
@@ -20047,14 +20055,6 @@
       "title": "Parent (42 children)",
       "title_source": "content",
       "height": 833605,
-      "relation_count": 42,
-      "content_type": "image/webp"
-    },
-    {
-      "id": "b2a0f82c6ca9b04815615b30a535eca9ecdd14574470c38808680c4dc627dca9i0",
-      "title": "Parent (37 children)",
-      "title_source": "content",
-      "height": 928763,
       "relation_count": 42,
       "content_type": "image/webp"
     },
