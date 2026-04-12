@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52330,
-  "total_relations": 2462445,
-  "distinct_targets": 2416390,
-  "updatedAt": "2026-04-12T18:31:08.859Z",
+  "total_relations": 2462446,
+  "distinct_targets": 2416391,
+  "updatedAt": "2026-04-12T18:48:59.200Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -128851,6 +128851,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "bf968912d1fb7c9259bb776661c77fcb5f61843afaa5bd86221670a6a537c297i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": null,
+      "relation_count": 3,
+      "content_type": null
+    },
+    {
       "id": "bfdf8fc56a853bc9473e869478cc07fe59998acab3c7be42f2817b55f994b3d1i0",
       "title": "Maksim Hapeyenka",
       "title_source": "content",
@@ -175193,14 +175201,6 @@
       "height": 884200,
       "relation_count": 2,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "bf968912d1fb7c9259bb776661c77fcb5f61843afaa5bd86221670a6a537c297i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": null,
-      "relation_count": 2,
-      "content_type": null
     },
     {
       "id": "bfea811e59d0a4662cebc0e0f95d594476523de92981fc5629794340244d8b99i0",
