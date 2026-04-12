@@ -6,9 +6,9 @@
     "description": "All inscriptions that are used as delegate targets."
   },
   "count": 14069,
-  "total_relations": 2366701,
-  "distinct_targets": 2366701,
-  "updatedAt": "2026-04-12T09:36:32.651Z",
+  "total_relations": 2366702,
+  "distinct_targets": 2366702,
+  "updatedAt": "2026-04-12T09:44:28.662Z",
   "items": [
     {
       "id": "eb025023e3e7efb6b1dc1ab2ba21b41fbd7f5afbcc76b92e1fb74887c19858aai0",
@@ -18099,6 +18099,14 @@
       "content_type": "image/avif"
     },
     {
+      "id": "4bc543cd49496544b6de4cfaf8a4b7564eed582db53c66cc2674545bc49edf27i0",
+      "title": "Delegate (5 inscriptions)",
+      "title_source": "content",
+      "height": 900450,
+      "relation_count": 7,
+      "content_type": "image/avif"
+    },
+    {
       "id": "5af9dec2a02cf3001a5deb8043d4ca685ea7ab3202bc6f4d3225754b65ddcf35i1",
       "title": "Book",
       "title_source": "content",
@@ -18481,14 +18489,6 @@
       "height": 862073,
       "relation_count": 6,
       "content_type": "image/webp"
-    },
-    {
-      "id": "4bc543cd49496544b6de4cfaf8a4b7564eed582db53c66cc2674545bc49edf27i0",
-      "title": "Delegate (5 inscriptions)",
-      "title_source": "content",
-      "height": 900450,
-      "relation_count": 6,
-      "content_type": "image/avif"
     },
     {
       "id": "4e50f08cccf75e67f206c855e8c95e6eebc09f3e7842139b119f354fed7ecc80i0",
