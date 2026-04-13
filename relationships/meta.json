@@ -1,14 +1,14 @@
 {
   "totalRelationTypes": 4,
-  "totalRelations": 5589005,
-  "updatedAt": "2026-04-13T04:21:22.197Z",
+  "totalRelations": 5589006,
+  "updatedAt": "2026-04-13T04:27:35.562Z",
   "relationTypes": [
     {
       "id": "parents",
       "relation_type": "child",
-      "total_relations": 2463177,
-      "distinct_sources": 52333,
-      "distinct_targets": 2417122,
+      "total_relations": 2463178,
+      "distinct_sources": 52334,
+      "distinct_targets": 2417123,
       "file": "relationships/parents.json"
     },
     {
