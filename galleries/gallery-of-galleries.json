@@ -5,10 +5,10 @@
     "title": "Gallery of Galleries",
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
-  "count": 665,
-  "total_relations": 755690,
-  "distinct_targets": 622805,
-  "updatedAt": "2026-04-13T12:05:47.700Z",
+  "count": 666,
+  "total_relations": 755790,
+  "distinct_targets": 622905,
+  "updatedAt": "2026-04-13T12:13:49.534Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -5329,6 +5329,14 @@
       "height": 944778,
       "item_count": 186,
       "content_type": null
+    },
+    {
+      "id": "5a9e084060545ff7b27950f08219cf12863539ae5a7e9ed26d4c16afd25c5dbbi0",
+      "title": "flea #1",
+      "title_source": "item-title",
+      "height": 944891,
+      "item_count": 101,
+      "content_type": "image/webp"
     }
   ]
 }
