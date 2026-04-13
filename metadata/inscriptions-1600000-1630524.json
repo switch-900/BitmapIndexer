@@ -1,4 +1,4 @@
-{"generated_at":"2026-04-13T00:04:02.731Z","format":"metadata-dedup-v2","start_index":1600000,"end_index":1630523,"count":30524,"unique_metadata_count":29117,"inscriptions":[
+{"generated_at":"2026-04-13T00:10:15.712Z","format":"metadata-dedup-v2","start_index":1600000,"end_index":1630524,"count":30525,"unique_metadata_count":29118,"inscriptions":[
 {"inscription_id":"4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei54","inscription_number":null,"block_height":931352,"content_type":"text/html;charset=utf-8","metaprotocol":null,"metadata_ref":"b32c718774a7c4b0d32179fb"},
 {"inscription_id":"4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei55","inscription_number":null,"block_height":931352,"content_type":"text/html;charset=utf-8","metaprotocol":null,"metadata_ref":"8b5ae7655601d4ca26bd5ba0"},
 {"inscription_id":"4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei56","inscription_number":null,"block_height":931352,"content_type":"text/html;charset=utf-8","metaprotocol":null,"metadata_ref":"c8b75f0cff33bcea6c332df9"},
@@ -30522,7 +30522,8 @@
 {"inscription_id":"3ac8a20f04ac6a7148fb2f9cb1fc9d0f699a4f8db72fbed247994809fcce276ai0","inscription_number":null,"block_height":944794,"content_type":null,"metaprotocol":null,"metadata_ref":"767be91a36d11dd24a1ad7ca"},
 {"inscription_id":"3ac8a20f04ac6a7148fb2f9cb1fc9d0f699a4f8db72fbed247994809fcce276ai1","inscription_number":null,"block_height":944794,"content_type":null,"metaprotocol":null,"metadata_ref":"8f476cdc10f0b809ec19cca6"},
 {"inscription_id":"3ac8a20f04ac6a7148fb2f9cb1fc9d0f699a4f8db72fbed247994809fcce276ai2","inscription_number":null,"block_height":944794,"content_type":null,"metaprotocol":null,"metadata_ref":"353aec7ff5d14204ab349900"},
-{"inscription_id":"3ac8a20f04ac6a7148fb2f9cb1fc9d0f699a4f8db72fbed247994809fcce276ai3","inscription_number":null,"block_height":944794,"content_type":null,"metaprotocol":null,"metadata_ref":"eec2d5a211318f320b1b8fe7"}
+{"inscription_id":"3ac8a20f04ac6a7148fb2f9cb1fc9d0f699a4f8db72fbed247994809fcce276ai3","inscription_number":null,"block_height":944794,"content_type":null,"metaprotocol":null,"metadata_ref":"eec2d5a211318f320b1b8fe7"},
+{"inscription_id":"ec46bf978064a1a6367b3eadcdda4555c965dbcd585227b45f2599a935564e1fi0","inscription_number":null,"block_height":944811,"content_type":"text/html;charset=utf-8","metaprotocol":null,"metadata_ref":"820c7e79d9ca2b9e3b1d8b17"}
 ],"metadata_items":[
 {"metadata_ref":"b32c718774a7c4b0d32179fb","count":1,"inscription_ids":["4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei54"],"metadata":{"name":"Exquisite #4474","species":"Chick","body":"Regular Salmon","legs":"Chess Png","head":"Regular Sandia","eyes":"Regular Blue","hat":"Racing Pink"}},
 {"metadata_ref":"8b5ae7655601d4ca26bd5ba0","count":1,"inscription_ids":["4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei55"],"metadata":{"name":"Exquisite #4475","species":"Mate","arms":"Regular Blue","body":"Chess Yellow","legs":"Jupe Blue","belt":"Regular Gold","necklace":"Primary","face":"Regular Blue","eye":"Regular Purple","hair":"Mowhawk","hat":"None","accessory":"Bananbag"}},
@@ -59640,5 +59641,6 @@
 {"metadata_ref":"767be91a36d11dd24a1ad7ca","count":1,"inscription_ids":["3ac8a20f04ac6a7148fb2f9cb1fc9d0f699a4f8db72fbed247994809fcce276ai0"],"metadata":{"chunk_x":0,"chunk_z":0}},
 {"metadata_ref":"8f476cdc10f0b809ec19cca6","count":1,"inscription_ids":["3ac8a20f04ac6a7148fb2f9cb1fc9d0f699a4f8db72fbed247994809fcce276ai1"],"metadata":{"chunk_x":-1,"chunk_z":0}},
 {"metadata_ref":"353aec7ff5d14204ab349900","count":1,"inscription_ids":["3ac8a20f04ac6a7148fb2f9cb1fc9d0f699a4f8db72fbed247994809fcce276ai2"],"metadata":{"chunk_x":0,"chunk_z":1}},
-{"metadata_ref":"eec2d5a211318f320b1b8fe7","count":1,"inscription_ids":["3ac8a20f04ac6a7148fb2f9cb1fc9d0f699a4f8db72fbed247994809fcce276ai3"],"metadata":{"chunk_x":1,"chunk_z":2}}
+{"metadata_ref":"eec2d5a211318f320b1b8fe7","count":1,"inscription_ids":["3ac8a20f04ac6a7148fb2f9cb1fc9d0f699a4f8db72fbed247994809fcce276ai3"],"metadata":{"chunk_x":1,"chunk_z":2}},
+{"metadata_ref":"820c7e79d9ca2b9e3b1d8b17","count":1,"inscription_ids":["ec46bf978064a1a6367b3eadcdda4555c965dbcd585227b45f2599a935564e1fi0"],"metadata":{"Sat":2}}
 ]}
