@@ -1,4 +1,4 @@
-{"generated_at":"2026-04-14T12:04:15.263Z","format":"metadata-dedup-v2","start_index":1600000,"end_index":1631637,"count":31638,"unique_metadata_count":30226,"inscriptions":[
+{"generated_at":"2026-04-14T12:23:53.821Z","format":"metadata-dedup-v2","start_index":1600000,"end_index":1631638,"count":31639,"unique_metadata_count":30227,"inscriptions":[
 {"inscription_id":"4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei54","inscription_number":null,"block_height":931352,"content_type":"text/html;charset=utf-8","metaprotocol":null,"metadata_ref":"b32c718774a7c4b0d32179fb"},
 {"inscription_id":"4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei55","inscription_number":null,"block_height":931352,"content_type":"text/html;charset=utf-8","metaprotocol":null,"metadata_ref":"8b5ae7655601d4ca26bd5ba0"},
 {"inscription_id":"4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei56","inscription_number":null,"block_height":931352,"content_type":"text/html;charset=utf-8","metaprotocol":null,"metadata_ref":"c8b75f0cff33bcea6c332df9"},
@@ -31636,7 +31636,8 @@
 {"inscription_id":"d5db3e449985e5887ec38ae8d59b6b832728551efec2317fcf7f98f8c19c200bi0","inscription_number":null,"block_height":944972,"content_type":"text/html;charset=utf-8","metaprotocol":null,"metadata_ref":"b40f2d974649415af9b1be86"},
 {"inscription_id":"3cb302c0f9534aa61b80d07f7e65a0c6dad7c5d69fca755a16a859ea82edbd3bi0","inscription_number":null,"block_height":944972,"content_type":"image/webp","metaprotocol":null,"metadata_ref":"cc73033cc07d7d724585c63c"},
 {"inscription_id":"14c09fad8368ea720007c4c8b4196d6fe1afe4a40d595141b5a48fd7ebb5b19fi0","inscription_number":null,"block_height":944976,"content_type":"image/webp","metaprotocol":null,"metadata_ref":"1424b8118e5b1477f49d0e53"},
-{"inscription_id":"73fe911b0ac714d1f44c10a11ecc01973d02803c4f35a10d41b004dfb0af73cfi0","inscription_number":null,"block_height":944992,"content_type":"image/webp","metaprotocol":null,"metadata_ref":"e54b9e3875cfbf89ee3e05f4"}
+{"inscription_id":"73fe911b0ac714d1f44c10a11ecc01973d02803c4f35a10d41b004dfb0af73cfi0","inscription_number":null,"block_height":944992,"content_type":"image/webp","metaprotocol":null,"metadata_ref":"e54b9e3875cfbf89ee3e05f4"},
+{"inscription_id":"a279d585622ad0243b254f830d1351b0e8d8b14e98c345a3922f69cacf180b3ci0","inscription_number":null,"block_height":945030,"content_type":"text/html","metaprotocol":null,"metadata_ref":"6a5f587902935c057dd32d56"}
 ],"metadata_items":[
 {"metadata_ref":"b32c718774a7c4b0d32179fb","count":1,"inscription_ids":["4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei54"],"metadata":{"name":"Exquisite #4474","species":"Chick","body":"Regular Salmon","legs":"Chess Png","head":"Regular Sandia","eyes":"Regular Blue","hat":"Racing Pink"}},
 {"metadata_ref":"8b5ae7655601d4ca26bd5ba0","count":1,"inscription_ids":["4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei55"],"metadata":{"name":"Exquisite #4475","species":"Mate","arms":"Regular Blue","body":"Chess Yellow","legs":"Jupe Blue","belt":"Regular Gold","necklace":"Primary","face":"Regular Blue","eye":"Regular Purple","hair":"Mowhawk","hat":"None","accessory":"Bananbag"}},
@@ -61863,5 +61864,6 @@
 {"metadata_ref":"b40f2d974649415af9b1be86","count":1,"inscription_ids":["d5db3e449985e5887ec38ae8d59b6b832728551efec2317fcf7f98f8c19c200bi0"],"metadata":"🩵💚💛🧡❤️"},
 {"metadata_ref":"cc73033cc07d7d724585c63c","count":1,"inscription_ids":["3cb302c0f9534aa61b80d07f7e65a0c6dad7c5d69fca755a16a859ea82edbd3bi0"],"metadata":"💘❤️‍🩹🫀💫❤️‍🔥🏴‍☠️🦜"},
 {"metadata_ref":"1424b8118e5b1477f49d0e53","count":1,"inscription_ids":["14c09fad8368ea720007c4c8b4196d6fe1afe4a40d595141b5a48fd7ebb5b19fi0"],"metadata":"512"},
-{"metadata_ref":"e54b9e3875cfbf89ee3e05f4","count":1,"inscription_ids":["73fe911b0ac714d1f44c10a11ecc01973d02803c4f35a10d41b004dfb0af73cfi0"],"metadata":"🪽"}
+{"metadata_ref":"e54b9e3875cfbf89ee3e05f4","count":1,"inscription_ids":["73fe911b0ac714d1f44c10a11ecc01973d02803c4f35a10d41b004dfb0af73cfi0"],"metadata":"🪽"},
+{"metadata_ref":"6a5f587902935c057dd32d56","count":1,"inscription_ids":["a279d585622ad0243b254f830d1351b0e8d8b14e98c345a3922f69cacf180b3ci0"],"metadata":{"Title":"Memory Loss Parents","Supply":250,"Year":2026,"Artist":"EP","Info":"Memory Loss is a long-form collection of generative, dynamic and conceptual art stored fully on-chain on Bitcoin, that explores the most intimate paradox of the human experience: our memory is what defines us, yet it is destined to corrupt, distort, and ultimately disappear. 250 Inscriptions with P/C Provenance, consecutively inscribed in one transaction on 250 consecutive Sat Block 78"}}
 ]}
