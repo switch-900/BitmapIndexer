@@ -5,10 +5,10 @@
     "title": "Gallery of Galleries",
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
-  "count": 668,
-  "total_relations": 765823,
+  "count": 669,
+  "total_relations": 765923,
   "distinct_targets": 622938,
-  "updatedAt": "2026-04-14T20:48:26.908Z",
+  "updatedAt": "2026-04-14T21:01:50.320Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -5352,6 +5352,14 @@
       "title_source": "content",
       "height": 945039,
       "item_count": 10000,
+      "content_type": "image/png"
+    },
+    {
+      "id": "8c2837b85419cd0590caefa11620b266e925a02a23f96d6f34dba87c62e6e1b9i0",
+      "title": "Ordinal Punk #1",
+      "title_source": "item-title",
+      "height": 945094,
+      "item_count": 100,
       "content_type": "image/png"
     }
   ]
