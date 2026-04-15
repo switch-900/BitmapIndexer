@@ -5,10 +5,10 @@
     "title": "Gallery of Galleries",
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
-  "count": 670,
-  "total_relations": 766257,
-  "distinct_targets": 622938,
-  "updatedAt": "2026-04-15T22:17:05.499Z",
+  "count": 672,
+  "total_relations": 766320,
+  "distinct_targets": 623001,
+  "updatedAt": "2026-04-15T22:33:47.964Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -5369,6 +5369,22 @@
       "height": 945232,
       "item_count": 334,
       "content_type": "image/jpeg"
+    },
+    {
+      "id": "8fa259ac9f97e27aaabe031101e38ae728e51cbe4a54c5fc66ac3b1446c516d5i0",
+      "title": "ESCHER PUNK #1",
+      "title_source": "item-title",
+      "height": 945236,
+      "item_count": 63,
+      "content_type": "image/webp"
+    },
+    {
+      "id": "89d8bfdc528550b34b22741d579645ba7c0899f534c617ed6f18609b280c1bc2i0",
+      "title": "FTW #1",
+      "title_source": "item-title",
+      "height": 945240,
+      "item_count": 2100,
+      "content_type": "image/webp"
     }
   ]
 }
