@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52347,
-  "total_relations": 2463946,
-  "distinct_targets": 2417891,
-  "updatedAt": "2026-04-15T00:40:57.308Z",
+  "total_relations": 2463952,
+  "distinct_targets": 2417897,
+  "updatedAt": "2026-04-15T00:55:59.323Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -3915,6 +3915,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "ad2fd169a4ef938060f20881722e97379e289e42383c025291869d946f8de3d1i0",
+      "title": "Parent (274 children)",
+      "title_source": "content",
+      "height": 889857,
+      "relation_count": 376,
+      "content_type": "image/webp"
+    },
+    {
       "id": "35324546c76d3d6cfb5fc62c69286abfc68b0de262743471e213057273304da6i0",
       "title": "Othala",
       "title_source": "content",
@@ -3945,14 +3953,6 @@
       "height": 836559,
       "relation_count": 375,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "ad2fd169a4ef938060f20881722e97379e289e42383c025291869d946f8de3d1i0",
-      "title": "Parent (274 children)",
-      "title_source": "content",
-      "height": 889857,
-      "relation_count": 370,
-      "content_type": "image/webp"
     },
     {
       "id": "d7be7dd35dd78b0a55c7e0396edddf95f6ec47de0a2db076a7e14070f2cc81b7i113",
