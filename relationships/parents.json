@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52359,
-  "total_relations": 2464147,
-  "distinct_targets": 2418092,
-  "updatedAt": "2026-04-16T19:06:45.715Z",
+  "total_relations": 2464148,
+  "distinct_targets": 2418093,
+  "updatedAt": "2026-04-16T19:47:55.819Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -148099,6 +148099,14 @@
       "content_type": "image/jpeg"
     },
     {
+      "id": "4a86b0dff7aff2add50237cf84f62eaeee9a1894f3d1b96ee2e705394c9662dbi2",
+      "title": "nexus-loader",
+      "title_source": "content",
+      "height": 944645,
+      "relation_count": 2,
+      "content_type": "text/plain"
+    },
+    {
       "id": "4aaab4aef855fcbebef878fc0071d62b7eee3563008871ac26803b4bec7cd2bai1",
       "title": "<script src=\"/content/cdb13fe07fd8529aa06191903fb9838141fdb147fcdc28adc2e5e1e820d4e678i0\"></script>",
       "title_source": "content",
@@ -249925,14 +249933,6 @@
     {
       "id": "4a86b0dff7aff2add50237cf84f62eaeee9a1894f3d1b96ee2e705394c9662dbi1",
       "title": "nexus-core",
-      "title_source": "content",
-      "height": 944645,
-      "relation_count": 1,
-      "content_type": "text/plain"
-    },
-    {
-      "id": "4a86b0dff7aff2add50237cf84f62eaeee9a1894f3d1b96ee2e705394c9662dbi2",
-      "title": "nexus-loader",
       "title_source": "content",
       "height": 944645,
       "relation_count": 1,
