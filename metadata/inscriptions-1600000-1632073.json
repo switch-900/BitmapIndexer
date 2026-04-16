@@ -1,4 +1,4 @@
-{"generated_at":"2026-04-16T03:42:35.377Z","format":"metadata-dedup-v2","start_index":1600000,"end_index":1632072,"count":32073,"unique_metadata_count":30336,"inscriptions":[
+{"generated_at":"2026-04-16T03:50:04.612Z","format":"metadata-dedup-v2","start_index":1600000,"end_index":1632073,"count":32074,"unique_metadata_count":30336,"inscriptions":[
 {"inscription_id":"4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei54","inscription_number":null,"block_height":931352,"content_type":"text/html;charset=utf-8","metaprotocol":null,"metadata_ref":"b32c718774a7c4b0d32179fb"},
 {"inscription_id":"4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei55","inscription_number":null,"block_height":931352,"content_type":"text/html;charset=utf-8","metaprotocol":null,"metadata_ref":"8b5ae7655601d4ca26bd5ba0"},
 {"inscription_id":"4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei56","inscription_number":null,"block_height":931352,"content_type":"text/html;charset=utf-8","metaprotocol":null,"metadata_ref":"c8b75f0cff33bcea6c332df9"},
@@ -32071,7 +32071,8 @@
 {"inscription_id":"997f72e67b33050728d74d659c7b08bd74e2ae38441bfc849d834df3cf8f6690i0","inscription_number":null,"block_height":945263,"content_type":"text/html;charset=utf-8","metaprotocol":null,"metadata_ref":"d73370f6b8d090802d1a0a4d"},
 {"inscription_id":"0e44e5379a96064e7ed69c90f673bc9376e1c89294e34510f08fb6c77fcd86cci0","inscription_number":null,"block_height":945263,"content_type":"image/webp","metaprotocol":null,"metadata_ref":"ed7186c0313884f5dc691db1"},
 {"inscription_id":"0e44e5379a96064e7ed69c90f673bc9376e1c89294e34510f08fb6c77fcd86cci1","inscription_number":null,"block_height":945263,"content_type":"image/webp","metaprotocol":null,"metadata_ref":"f240ef4832d7e59920ce395b"},
-{"inscription_id":"0e44e5379a96064e7ed69c90f673bc9376e1c89294e34510f08fb6c77fcd86cci2","inscription_number":null,"block_height":945263,"content_type":"image/webp","metaprotocol":null,"metadata_ref":"ec560e1f368de5138679c3f8"}
+{"inscription_id":"0e44e5379a96064e7ed69c90f673bc9376e1c89294e34510f08fb6c77fcd86cci2","inscription_number":null,"block_height":945263,"content_type":"image/webp","metaprotocol":null,"metadata_ref":"ec560e1f368de5138679c3f8"},
+{"inscription_id":"92871f33cbc42fcdeba7676ae8bbc0811cbdc8600e745e2ad4588c438c39c076i0","inscription_number":null,"block_height":945267,"content_type":"text/html;charset=utf-8","metaprotocol":null,"metadata_ref":"d73370f6b8d090802d1a0a4d"}
 ],"metadata_items":[
 {"metadata_ref":"b32c718774a7c4b0d32179fb","count":1,"inscription_ids":["4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei54"],"metadata":{"name":"Exquisite #4474","species":"Chick","body":"Regular Salmon","legs":"Chess Png","head":"Regular Sandia","eyes":"Regular Blue","hat":"Racing Pink"}},
 {"metadata_ref":"8b5ae7655601d4ca26bd5ba0","count":1,"inscription_ids":["4201fd4463992935867d265f277d671a6607b76faac39c69d7d77a8ea2ac172ei55"],"metadata":{"name":"Exquisite #4475","species":"Mate","arms":"Regular Blue","body":"Chess Yellow","legs":"Jupe Blue","belt":"Regular Gold","necklace":"Primary","face":"Regular Blue","eye":"Regular Purple","hair":"Mowhawk","hat":"None","accessory":"Bananbag"}},
@@ -62405,7 +62406,7 @@
 {"metadata_ref":"ffdeb2d02471293e347aa495","count":1,"inscription_ids":["6ae0dc86c2e5693a4b4d7b8c0c2bf33789804b78cca665e0d549a888e5d6d7e5i0"],"metadata":{"artist":"Nattsu夏","description":"Proof Of Pizza\n"}},
 {"metadata_ref":"827c6d8634f3567892c2c1bc","count":1,"inscription_ids":["6ae0dc86c2e5693a4b4d7b8c0c2bf33789804b78cca665e0d549a888e5d6d7e5i1"],"metadata":{"artist":"Nattsu夏","description":"Code Is Law\n"}},
 {"metadata_ref":"8e6c12e9c1bdb434bcce50be","count":1,"inscription_ids":["6ae0dc86c2e5693a4b4d7b8c0c2bf33789804b78cca665e0d549a888e5d6d7e5i2"],"metadata":{"artist":"Nattsu夏","description":"Number Go Up\n"}},
-{"metadata_ref":"d73370f6b8d090802d1a0a4d","count":1,"inscription_ids":["997f72e67b33050728d74d659c7b08bd74e2ae38441bfc849d834df3cf8f6690i0"],"metadata":"https://fauxbitcorn.com/"},
+{"metadata_ref":"d73370f6b8d090802d1a0a4d","count":2,"inscription_ids":["997f72e67b33050728d74d659c7b08bd74e2ae38441bfc849d834df3cf8f6690i0","92871f33cbc42fcdeba7676ae8bbc0811cbdc8600e745e2ad4588c438c39c076i0"],"metadata":"https://fauxbitcorn.com/"},
 {"metadata_ref":"ed7186c0313884f5dc691db1","count":1,"inscription_ids":["0e44e5379a96064e7ed69c90f673bc9376e1c89294e34510f08fb6c77fcd86cci0"],"metadata":{"artist":"scara","description":"Total Market Meltdown\n"}},
 {"metadata_ref":"f240ef4832d7e59920ce395b","count":1,"inscription_ids":["0e44e5379a96064e7ed69c90f673bc9376e1c89294e34510f08fb6c77fcd86cci1"],"metadata":{"artist":"scara","description":"All Seeing Market\n"}},
 {"metadata_ref":"ec560e1f368de5138679c3f8","count":1,"inscription_ids":["0e44e5379a96064e7ed69c90f673bc9376e1c89294e34510f08fb6c77fcd86cci2"],"metadata":{"artist":"scara","description":"New ATH Energy\n"}}
