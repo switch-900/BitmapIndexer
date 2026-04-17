@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52361,
-  "total_relations": 2464411,
-  "distinct_targets": 2418356,
-  "updatedAt": "2026-04-16T23:52:01.358Z",
+  "total_relations": 2464413,
+  "distinct_targets": 2418358,
+  "updatedAt": "2026-04-17T02:11:38.663Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -118699,6 +118699,14 @@
       "content_type": "text/plain"
     },
     {
+      "id": "3cb6ff2ec3c7d659009cf1da1889f4372946707993331b4d2a9d5b8d585cd685i0",
+      "title": "Oil paintings by Ksenia Buridanova",
+      "title_source": "content",
+      "height": 926570,
+      "relation_count": 3,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "3d5d026eecc4cadfe475cd43f9108fd986302717bcc0eae12cbaf09a72ddfe79i0",
       "title": "Parent (3 children)",
       "title_source": "content",
@@ -144971,14 +144979,6 @@
       "content_type": "application/json"
     },
     {
-      "id": "3cb6ff2ec3c7d659009cf1da1889f4372946707993331b4d2a9d5b8d585cd685i0",
-      "title": "Oil paintings by Ksenia Buridanova",
-      "title_source": "content",
-      "height": 926570,
-      "relation_count": 2,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
       "id": "3ccfa5fd48a3b15611706bc27378f3a23ea678a6ef45fbd133970691246c5d28i0",
       "title": "795333.bitmap",
       "title_source": "content",
@@ -168796,6 +168796,14 @@
     },
     {
       "id": "9c438d9dc1d92fdaa8c2854b15e30e8a5420c50e173af721f239145e88f06cf3i39",
+      "title": "<!DOCTYPE html>",
+      "title_source": "content",
+      "height": 893156,
+      "relation_count": 2,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
+      "id": "9c438d9dc1d92fdaa8c2854b15e30e8a5420c50e173af721f239145e88f06cf3i47",
       "title": "<!DOCTYPE html>",
       "title_source": "content",
       "height": 893156,
@@ -325004,14 +325012,6 @@
     },
     {
       "id": "9c438d9dc1d92fdaa8c2854b15e30e8a5420c50e173af721f239145e88f06cf3i42",
-      "title": "<!DOCTYPE html>",
-      "title_source": "content",
-      "height": 893156,
-      "relation_count": 1,
-      "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "9c438d9dc1d92fdaa8c2854b15e30e8a5420c50e173af721f239145e88f06cf3i47",
       "title": "<!DOCTYPE html>",
       "title_source": "content",
       "height": 893156,
