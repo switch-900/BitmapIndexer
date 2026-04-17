@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52361,
-  "total_relations": 2464489,
-  "distinct_targets": 2418434,
-  "updatedAt": "2026-04-17T20:04:33.155Z",
+  "total_relations": 2464490,
+  "distinct_targets": 2418435,
+  "updatedAt": "2026-04-17T20:13:28.070Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -93163,6 +93163,14 @@
       "content_type": "image/png"
     },
     {
+      "id": "3cb6ff2ec3c7d659009cf1da1889f4372946707993331b4d2a9d5b8d585cd685i0",
+      "title": "Oil paintings by Ksenia Buridanova",
+      "title_source": "content",
+      "height": 926570,
+      "relation_count": 5,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "3ea5471982f35aa854b162f666e3134fe9403e910b7c25e52397da6a9c6d6fe7i1103",
       "title": "Parent (5 children)",
       "title_source": "content",
@@ -103249,14 +103257,6 @@
       "height": 891888,
       "relation_count": 4,
       "content_type": null
-    },
-    {
-      "id": "3cb6ff2ec3c7d659009cf1da1889f4372946707993331b4d2a9d5b8d585cd685i0",
-      "title": "Oil paintings by Ksenia Buridanova",
-      "title_source": "content",
-      "height": 926570,
-      "relation_count": 4,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "3ddb0b124859714e7c2d2edb8d1be0babee1fdb2a4b5fe2325ca9d6711d434c4i0",
