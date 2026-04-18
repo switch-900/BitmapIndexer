@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52369,
-  "total_relations": 2464512,
-  "distinct_targets": 2418457,
-  "updatedAt": "2026-04-18T07:29:32.273Z",
+  "total_relations": 2464513,
+  "distinct_targets": 2418458,
+  "updatedAt": "2026-04-18T07:36:48.843Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -96979,6 +96979,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "993fc03a9d64f5cdc1ce62ef2fc35f516ff2a12dfc69cfa25bce0f360639d832i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 945573,
+      "relation_count": 5,
+      "content_type": "image/svg+xml"
+    },
+    {
       "id": "9952307f0dc48193479f60d795dba036426d80c9da3a2e6116c09a90539ef4efi1",
       "title": "<script data-id=\"5961\" src=\"/content/eb6367c1b9612f70fc03734ff878cad1cfe08dd76b40b883ab951e9dc112d327i0\"></script>",
       "title_source": "content",
@@ -108513,14 +108521,6 @@
       "height": 890801,
       "relation_count": 4,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "993fc03a9d64f5cdc1ce62ef2fc35f516ff2a12dfc69cfa25bce0f360639d832i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 945573,
-      "relation_count": 4,
-      "content_type": "image/svg+xml"
     },
     {
       "id": "996913393c4eac861423fcfaaa33caaeae02770080873ad13206d2f2f3194d27i0",
@@ -293309,7 +293309,7 @@
     {
       "id": "775d65a216170db5c449e8d52acea276f0db6f17c41a2ab79dcb25ffc1a2757di0",
       "title": "Parent (1 children)",
-      "title_source": "unknown",
+      "title_source": "content",
       "height": 945580,
       "relation_count": 1,
       "content_type": "image/png"
@@ -329341,7 +329341,7 @@
     {
       "id": "a395dd997e4009e50ecd92e81ad3cd39ff3fec8adfeb9344315988c6eb1d3f60i0",
       "title": "Parent (1 children)",
-      "title_source": "unknown",
+      "title_source": "content",
       "height": 945577,
       "relation_count": 1,
       "content_type": "image/png"
