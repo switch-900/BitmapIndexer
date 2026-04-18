@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 52367,
-  "total_relations": 2464507,
-  "distinct_targets": 2418452,
-  "updatedAt": "2026-04-18T07:13:39.510Z",
+  "count": 52369,
+  "total_relations": 2464512,
+  "distinct_targets": 2418457,
+  "updatedAt": "2026-04-18T07:29:32.273Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -3903,7 +3903,7 @@
       "title": "Parent (385 children)",
       "title_source": "content",
       "height": 908687,
-      "relation_count": 385,
+      "relation_count": 386,
       "content_type": "image/avif"
     },
     {
@@ -108515,6 +108515,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "993fc03a9d64f5cdc1ce62ef2fc35f516ff2a12dfc69cfa25bce0f360639d832i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 945573,
+      "relation_count": 4,
+      "content_type": "image/svg+xml"
+    },
+    {
       "id": "996913393c4eac861423fcfaaa33caaeae02770080873ad13206d2f2f3194d27i0",
       "title": "# Satoshi X PFP collection",
       "title_source": "content",
@@ -168521,14 +168529,6 @@
       "height": 864556,
       "relation_count": 2,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "993fc03a9d64f5cdc1ce62ef2fc35f516ff2a12dfc69cfa25bce0f360639d832i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 945573,
-      "relation_count": 2,
-      "content_type": "image/svg+xml"
     },
     {
       "id": "996453f5808133f419e9b1a1c0bcd50a58876588aa95af23268d9b42900f27fai0",
@@ -293307,6 +293307,14 @@
       "content_type": "text/plain"
     },
     {
+      "id": "775d65a216170db5c449e8d52acea276f0db6f17c41a2ab79dcb25ffc1a2757di0",
+      "title": "Parent (1 children)",
+      "title_source": "unknown",
+      "height": 945580,
+      "relation_count": 1,
+      "content_type": "image/png"
+    },
+    {
       "id": "7762062ae3eadff67fd9b8fee1ef478ccdcb484e221cd983240b2f6d1947367ci2",
       "title": "<script blockHeight=\"842248\" txValueCache=\"/content/0683ef0175565df2ba917230b74c4179bc43c15374db79772b8548833169f833i3\" src=\"/content/ea7abc3954589c11c71e74a1935bf3107fbc74209d42a59ac67263c73e9ec187i0",
       "title_source": "content",
@@ -329329,6 +329337,14 @@
       "height": 867639,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
+    },
+    {
+      "id": "a395dd997e4009e50ecd92e81ad3cd39ff3fec8adfeb9344315988c6eb1d3f60i0",
+      "title": "Parent (1 children)",
+      "title_source": "unknown",
+      "height": 945577,
+      "relation_count": 1,
+      "content_type": "image/png"
     },
     {
       "id": "a3a30f3897d121ce31c863cf4a9ef11899923635792baa236206de70a499746ei0",
