@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 52366,
-  "total_relations": 2464505,
-  "distinct_targets": 2418450,
-  "updatedAt": "2026-04-18T06:23:42.696Z",
+  "count": 52367,
+  "total_relations": 2464507,
+  "distinct_targets": 2418452,
+  "updatedAt": "2026-04-18T06:42:00.100Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -168523,6 +168523,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "993fc03a9d64f5cdc1ce62ef2fc35f516ff2a12dfc69cfa25bce0f360639d832i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 945573,
+      "relation_count": 2,
+      "content_type": "image/svg+xml"
+    },
+    {
       "id": "996453f5808133f419e9b1a1c0bcd50a58876588aa95af23268d9b42900f27fai0",
       "title": "<script src=\"/content/b8773bcb42c41526f9ec7b5b8e1db36c956e677291e66c86ae4c829c531520c6i0\"></script>",
       "title_source": "content",
@@ -213697,6 +213705,14 @@
       "height": 877068,
       "relation_count": 1,
       "content_type": "text/html;charset=utf-8"
+    },
+    {
+      "id": "1b612d3e7e7b21b070c91779c2b8331812fa396be4e66152537d694ae5bd84d4i0",
+      "title": "Parent (1 children)",
+      "title_source": "unknown",
+      "height": 945575,
+      "relation_count": 1,
+      "content_type": "image/png"
     },
     {
       "id": "1b62cd61548e9a90dd259e27f813270de862a7941896ca8b9edd7b78babc15cbi0",
@@ -323217,14 +323233,6 @@
       "height": 863053,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "993fc03a9d64f5cdc1ce62ef2fc35f516ff2a12dfc69cfa25bce0f360639d832i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 945573,
-      "relation_count": 1,
-      "content_type": "image/svg+xml"
     },
     {
       "id": "9940e6ff6d5c371f6656126b04b1d6f16283ef3be1d44a586aab14d1413c48d1i0",
