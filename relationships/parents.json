@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52370,
-  "total_relations": 2464519,
-  "distinct_targets": 2418464,
-  "updatedAt": "2026-04-18T08:45:19.548Z",
+  "total_relations": 2464523,
+  "distinct_targets": 2418468,
+  "updatedAt": "2026-04-18T08:51:16.326Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -60851,6 +60851,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "993fc03a9d64f5cdc1ce62ef2fc35f516ff2a12dfc69cfa25bce0f360639d832i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 945573,
+      "relation_count": 10,
+      "content_type": "image/svg+xml"
+    },
+    {
       "id": "9952307f0dc48193479f60d795dba036426d80c9da3a2e6116c09a90539ef4efi2",
       "title": "<script data-id=\"5962\" src=\"/content/eb6367c1b9612f70fc03734ff878cad1cfe08dd76b40b883ab951e9dc112d327i0\"></script>",
       "title_source": "content",
@@ -64977,14 +64985,6 @@
       "height": 874315,
       "relation_count": 9,
       "content_type": null
-    },
-    {
-      "id": "993fc03a9d64f5cdc1ce62ef2fc35f516ff2a12dfc69cfa25bce0f360639d832i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 945573,
-      "relation_count": 9,
-      "content_type": "image/svg+xml"
     },
     {
       "id": "9b758d3c6e8a4fd919d0f1b0a025038bb994884074fe839d979ab25bc5e1056di0",
@@ -111993,6 +111993,14 @@
       "height": 928092,
       "relation_count": 4,
       "content_type": "image/jpeg"
+    },
+    {
+      "id": "e8a7a575d2d3eee45aff333aca9d7453902c1bc918deedffd67642f948303ea9i0",
+      "title": "executeOnLoad(() => {",
+      "title_source": "content",
+      "height": 945126,
+      "relation_count": 4,
+      "content_type": "application/javascript"
     },
     {
       "id": "e921569e6081239fb32493c0e608368f3e7cad37e7ff79beb9f8f1a290aa7a6fi0",
@@ -399241,14 +399249,6 @@
       "height": 905603,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "e8a7a575d2d3eee45aff333aca9d7453902c1bc918deedffd67642f948303ea9i0",
-      "title": "executeOnLoad(() => {",
-      "title_source": "content",
-      "height": 945126,
-      "relation_count": 1,
-      "content_type": "application/javascript"
     },
     {
       "id": "e8a7fd99c8d9157ca5e08fca2b82b4538721a5cc0bc7f811716dacaa70997ae1i0",
