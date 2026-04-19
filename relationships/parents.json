@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52379,
-  "total_relations": 2464704,
-  "distinct_targets": 2418649,
-  "updatedAt": "2026-04-19T02:34:15.386Z",
+  "total_relations": 2464709,
+  "distinct_targets": 2418654,
+  "updatedAt": "2026-04-19T02:42:38.600Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -77491,6 +77491,14 @@
       "content_type": null
     },
     {
+      "id": "0a1afeb6744b91306f6dac0fd4977a5529e3bc8f62cfe93844d69c08984c2e56i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 945130,
+      "relation_count": 7,
+      "content_type": "text/html"
+    },
+    {
       "id": "0a9454d4a58f2054bb5171ecbdc6b14b6febb001b330a18401b88fc25c7f7b1bi0",
       "title": "A THEORY OF ARCHITECTURE ON BITCOIN",
       "title_source": "content",
@@ -84625,14 +84633,6 @@
       "height": 874146,
       "relation_count": 6,
       "content_type": null
-    },
-    {
-      "id": "0a1afeb6744b91306f6dac0fd4977a5529e3bc8f62cfe93844d69c08984c2e56i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 945130,
-      "relation_count": 6,
-      "content_type": "text/html"
     },
     {
       "id": "0ac0eb0aecedfc4556262dc73ba863244635366e563124010098840f5cbb0537i0",
