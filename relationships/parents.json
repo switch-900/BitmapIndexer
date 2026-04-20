@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52392,
-  "total_relations": 2465012,
-  "distinct_targets": 2418957,
-  "updatedAt": "2026-04-20T03:32:39.553Z",
+  "total_relations": 2465014,
+  "distinct_targets": 2418959,
+  "updatedAt": "2026-04-20T03:49:40.067Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -6387,6 +6387,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "0a1afeb6744b91306f6dac0fd4977a5529e3bc8f62cfe93844d69c08984c2e56i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 945130,
+      "relation_count": 125,
+      "content_type": "text/html"
+    },
+    {
       "id": "67e7aa6a2fd661393ccc816ce2858cf8c59fcc5c1e768be844af2460c4f37ba4i604",
       "title": "Parent (125 children)",
       "title_source": "content",
@@ -6401,14 +6409,6 @@
       "height": 882433,
       "relation_count": 125,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "0a1afeb6744b91306f6dac0fd4977a5529e3bc8f62cfe93844d69c08984c2e56i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 945130,
-      "relation_count": 124,
-      "content_type": "text/html"
     },
     {
       "id": "a8952899500adfd3859386ec51e9f3f55fe29cfa4bc16a22232226dabbd2d3b9i0",
@@ -16227,6 +16227,14 @@
       "content_type": null
     },
     {
+      "id": "9ef46887d843431fdd79c0746908572e7352e0d8479292f7f998530c04ae9e49i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 945762,
+      "relation_count": 50,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
       "id": "a703a27d30198bba3e57cb68210e6fe5f06f3c70778f78c72870f51a0f0c153di0",
       "title": "Parent (50 children)",
       "title_source": "content",
@@ -16943,14 +16951,6 @@
       "title": "<!--Uncut Gem (Miami Edition) by Lemonhaze-->",
       "title_source": "content",
       "height": 820196,
-      "relation_count": 49,
-      "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "9ef46887d843431fdd79c0746908572e7352e0d8479292f7f998530c04ae9e49i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 945762,
       "relation_count": 49,
       "content_type": "text/html;charset=utf-8"
     },
