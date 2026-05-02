@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52675,
-  "total_relations": 2474804,
-  "distinct_targets": 2428749,
-  "updatedAt": "2026-05-02T19:35:07.806Z",
+  "total_relations": 2474805,
+  "distinct_targets": 2428750,
+  "updatedAt": "2026-05-02T19:48:36.751Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -165955,6 +165955,14 @@
       "content_type": "image/svg+xml"
     },
     {
+      "id": "869d6f2fe8b95fc9719a21c1aefd538a9ffd7c0bfa4a8a172645ed21161e4bf4i0",
+      "title": "531039.bitmap",
+      "title_source": "content",
+      "height": 795274,
+      "relation_count": 2,
+      "content_type": "text/plain"
+    },
+    {
       "id": "86c69da61d9889d136cffaafa7c1dbcf79c37d8f2a2319b7be586c887692698fi0",
       "title": "<head>",
       "title_source": "content",
@@ -311127,14 +311135,6 @@
       "title": "602754.bitmap",
       "title_source": "content",
       "height": 795292,
-      "relation_count": 1,
-      "content_type": "text/plain"
-    },
-    {
-      "id": "869d6f2fe8b95fc9719a21c1aefd538a9ffd7c0bfa4a8a172645ed21161e4bf4i0",
-      "title": "531039.bitmap",
-      "title_source": "content",
-      "height": 795274,
       "relation_count": 1,
       "content_type": "text/plain"
     },
