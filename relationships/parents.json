@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 52664,
-  "total_relations": 2474783,
-  "distinct_targets": 2428728,
-  "updatedAt": "2026-05-02T14:35:00.382Z",
+  "count": 52666,
+  "total_relations": 2474786,
+  "distinct_targets": 2428731,
+  "updatedAt": "2026-05-02T14:41:36.064Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -14435,6 +14435,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "a826766e5e98645bd7585dd5e764d0ae9dcbf7ec86c95a09d2a3bd3f1a6c9de5i0",
+      "title": "Parent (30 children)",
+      "title_source": "content",
+      "height": 946973,
+      "relation_count": 53,
+      "content_type": "image/svg+xml"
+    },
+    {
       "id": "a845b06546e7aa087f84ea3c7d161c0fafabd407e36cee78a33096b5684cecd3i10",
       "title": "Parent (53 children)",
       "title_source": "content",
@@ -14793,14 +14801,6 @@
       "height": 874261,
       "relation_count": 52,
       "content_type": null
-    },
-    {
-      "id": "a826766e5e98645bd7585dd5e764d0ae9dcbf7ec86c95a09d2a3bd3f1a6c9de5i0",
-      "title": "Parent (30 children)",
-      "title_source": "content",
-      "height": 946973,
-      "relation_count": 52,
-      "content_type": "image/svg+xml"
     },
     {
       "id": "a845b06546e7aa087f84ea3c7d161c0fafabd407e36cee78a33096b5684cecd3i574",
@@ -311755,6 +311755,14 @@
       "content_type": "text/plain"
     },
     {
+      "id": "87ae3538addfa87d7169b50eaea81bc33d455deda5064ab298917a1a09ade853i0",
+      "title": "matrix S4 parent",
+      "title_source": "content",
+      "height": 947586,
+      "relation_count": 1,
+      "content_type": "text/plain"
+    },
+    {
       "id": "87af5c5c5b648c2756cc3242264993099a493253588dfbed3982dde1ac74e8fbi0",
       "title": "Parent (1 children)",
       "title_source": "content",
@@ -361585,6 +361593,14 @@
       "height": 860501,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
+    },
+    {
+      "id": "c7f8007b99764d2479b225d31819b72bfc8d835ef8f216279b162994c506eaafi0",
+      "title": "matrix S3 parent",
+      "title_source": "content",
+      "height": 947586,
+      "relation_count": 1,
+      "content_type": "text/plain"
     },
     {
       "id": "c7f9eee72f496aa4cdf44cd0f870a6f2075f33f9aaba97a9fd0e9f4f2231507ei0",
