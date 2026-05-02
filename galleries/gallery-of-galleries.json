@@ -5,10 +5,10 @@
     "title": "Gallery of Galleries",
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
-  "count": 714,
-  "total_relations": 861429,
-  "distinct_targets": 686867,
-  "updatedAt": "2026-05-02T01:25:22.950Z",
+  "count": 715,
+  "total_relations": 861498,
+  "distinct_targets": 686936,
+  "updatedAt": "2026-05-02T01:34:25.252Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -5717,10 +5717,18 @@
     {
       "id": "519cc002c834f2568692c50ed30224f8750816fd7fafca8c0ba6890c557c4659i0",
       "title": "J.O.E (s2) : The Maniac Unleashed #1",
-      "title_source": "item-title",
+      "title_source": "content",
       "height": 947514,
       "item_count": 222,
       "content_type": "image/png"
+    },
+    {
+      "id": "a6709048c06c409cb2e5f534c9e0c3506980b56df703c22d263fc4c3c422da29i0",
+      "title": "Inscribed Pepe #1",
+      "title_source": "item-title",
+      "height": 947515,
+      "item_count": 69,
+      "content_type": "image/jpeg"
     }
   ]
 }
