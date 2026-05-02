@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52662,
-  "total_relations": 2474728,
-  "distinct_targets": 2428673,
-  "updatedAt": "2026-05-02T06:19:44.144Z",
+  "total_relations": 2474740,
+  "distinct_targets": 2428685,
+  "updatedAt": "2026-05-02T06:25:50.780Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -5523,6 +5523,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "2014983d6ddec031ded1e48e6a6bff8832619a65944508b05b13036291bad8ffi0",
+      "title": "Pop Art Maxi Biz",
+      "title_source": "content",
+      "height": 947092,
+      "relation_count": 201,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "25a0eee17e7e2332013c8c360466b4748f011b6782d1ca4a0698629315bbec1ai0",
       "title": "<!DOCTYPE html>",
       "title_source": "content",
@@ -5681,14 +5689,6 @@
       "height": 901971,
       "relation_count": 192,
       "content_type": null
-    },
-    {
-      "id": "2014983d6ddec031ded1e48e6a6bff8832619a65944508b05b13036291bad8ffi0",
-      "title": "Pop Art Maxi Biz",
-      "title_source": "content",
-      "height": 947092,
-      "relation_count": 191,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "b1c5baa2593b256068635bbc475e0cc439d66c2dcf12e9de6f3aaeaf96ff818bi0",
@@ -21195,6 +21195,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "a826766e5e98645bd7585dd5e764d0ae9dcbf7ec86c95a09d2a3bd3f1a6c9de5i0",
+      "title": "Parent (30 children)",
+      "title_source": "content",
+      "height": 946973,
+      "relation_count": 40,
+      "content_type": "image/svg+xml"
+    },
+    {
       "id": "aa42f22684c435008ec9a27b5c06063ab3c07c82777d3f6d07dd90a324c9fc5ci237",
       "title": "Parent (40 children)",
       "title_source": "content",
@@ -21697,14 +21705,6 @@
       "height": 893460,
       "relation_count": 39,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "a826766e5e98645bd7585dd5e764d0ae9dcbf7ec86c95a09d2a3bd3f1a6c9de5i0",
-      "title": "Parent (30 children)",
-      "title_source": "content",
-      "height": 946973,
-      "relation_count": 39,
-      "content_type": "image/svg+xml"
     },
     {
       "id": "a845b06546e7aa087f84ea3c7d161c0fafabd407e36cee78a33096b5684cecd3i303",
@@ -81011,6 +81011,14 @@
       "content_type": null
     },
     {
+      "id": "8f5dc6ab73c2190ceed60c1b0aa6e28d1dc35488130cf38e68937ef0570533c4i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 942710,
+      "relation_count": 7,
+      "content_type": "image/jpeg"
+    },
+    {
       "id": "907a9c39a2c7741c51f1ee95d4aae6aab83eca34c226ea138a1634cd4ffa1a27i0",
       "title": "👷🫱🟧 bitmap holders data snapshot [block 907882] [experimental, not guaranteed for accuracy, not up-to-date]",
       "title_source": "content",
@@ -88609,14 +88617,6 @@
       "height": 860767,
       "relation_count": 6,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "8f5dc6ab73c2190ceed60c1b0aa6e28d1dc35488130cf38e68937ef0570533c4i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 942710,
-      "relation_count": 6,
-      "content_type": "image/jpeg"
     },
     {
       "id": "8f6163795afc239234999be6667b0d64d6dc1657286a8e25b4f0c7e5dcbae51di2",
