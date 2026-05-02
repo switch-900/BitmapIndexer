@@ -5,10 +5,10 @@
     "title": "Gallery of Galleries",
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
-  "count": 715,
-  "total_relations": 861498,
-  "distinct_targets": 686936,
-  "updatedAt": "2026-05-02T01:34:25.252Z",
+  "count": 716,
+  "total_relations": 861536,
+  "distinct_targets": 686974,
+  "updatedAt": "2026-05-02T01:42:30.906Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -5725,10 +5725,18 @@
     {
       "id": "a6709048c06c409cb2e5f534c9e0c3506980b56df703c22d263fc4c3c422da29i0",
       "title": "Inscribed Pepe #1",
-      "title_source": "item-title",
+      "title_source": "content",
       "height": 947515,
       "item_count": 69,
       "content_type": "image/jpeg"
+    },
+    {
+      "id": "3595b977a7add193fe332ff96f008af39874cb303854c5ce2811009921a15fdei0",
+      "title": "J.O.E #1",
+      "title_source": "item-title",
+      "height": 947516,
+      "item_count": 38,
+      "content_type": "image/png"
     }
   ]
 }
