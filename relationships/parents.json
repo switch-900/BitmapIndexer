@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52662,
-  "total_relations": 2474675,
-  "distinct_targets": 2428620,
-  "updatedAt": "2026-05-02T01:50:30.938Z",
+  "total_relations": 2474687,
+  "distinct_targets": 2428632,
+  "updatedAt": "2026-05-02T01:57:43.252Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -5067,6 +5067,14 @@
       "content_type": "text/markdown;charset=utf-8"
     },
     {
+      "id": "1bf9b4e0d58050d1b5759c75f79ead47dac9a2ec7441bac7e6d501d437f874c5i0",
+      "title": "Parent (33 children)",
+      "title_source": "content",
+      "height": 947101,
+      "relation_count": 240,
+      "content_type": "image/avif"
+    },
+    {
       "id": "b9726cda955366037c1fb890e594637adf560abce6db769403b9c04c7952d65ei0",
       "title": "Parent (240 children)",
       "title_source": "content",
@@ -5081,14 +5089,6 @@
       "height": 837150,
       "relation_count": 240,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "1bf9b4e0d58050d1b5759c75f79ead47dac9a2ec7441bac7e6d501d437f874c5i0",
-      "title": "Parent (33 children)",
-      "title_source": "content",
-      "height": 947101,
-      "relation_count": 239,
-      "content_type": "image/avif"
     },
     {
       "id": "38aa2db6d8288648f226ba4dacf6f6b1fab470df04cf39d111decc4eda6250c5i0",
@@ -5787,6 +5787,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "2014983d6ddec031ded1e48e6a6bff8832619a65944508b05b13036291bad8ffi0",
+      "title": "Pop Art Maxi Biz",
+      "title_source": "content",
+      "height": 947092,
+      "relation_count": 180,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "7b0996edbb2a36fbe2615907447a269b40e3d94705190ece751333b5f11b4e50i0",
       "title": "Parent (180 children)",
       "title_source": "content",
@@ -5888,14 +5896,6 @@
       "title_source": "content",
       "height": 794833,
       "relation_count": 171,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "2014983d6ddec031ded1e48e6a6bff8832619a65944508b05b13036291bad8ffi0",
-      "title": "Pop Art Maxi Biz",
-      "title_source": "content",
-      "height": 947092,
-      "relation_count": 170,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -22147,6 +22147,14 @@
       "content_type": null
     },
     {
+      "id": "a826766e5e98645bd7585dd5e764d0ae9dcbf7ec86c95a09d2a3bd3f1a6c9de5i0",
+      "title": "Parent (30 children)",
+      "title_source": "content",
+      "height": 946973,
+      "relation_count": 38,
+      "content_type": "image/svg+xml"
+    },
+    {
       "id": "a845b06546e7aa087f84ea3c7d161c0fafabd407e36cee78a33096b5684cecd3i582",
       "title": "Parent (38 children)",
       "title_source": "content",
@@ -22617,14 +22625,6 @@
       "height": 868230,
       "relation_count": 37,
       "content_type": null
-    },
-    {
-      "id": "a826766e5e98645bd7585dd5e764d0ae9dcbf7ec86c95a09d2a3bd3f1a6c9de5i0",
-      "title": "Parent (30 children)",
-      "title_source": "content",
-      "height": 946973,
-      "relation_count": 37,
-      "content_type": "image/svg+xml"
     },
     {
       "id": "a87a8ed81799a321ecfe5a14c0652a77d482de718a10f4d8e3f103d29b26fe49i0",
