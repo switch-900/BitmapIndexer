@@ -5,10 +5,10 @@
     "title": "Gallery of Galleries",
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
-  "count": 729,
-  "total_relations": 864528,
-  "distinct_targets": 689298,
-  "updatedAt": "2026-05-03T05:46:57.450Z",
+  "count": 730,
+  "total_relations": 865527,
+  "distinct_targets": 690297,
+  "updatedAt": "2026-05-03T05:57:04.993Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -5837,10 +5837,18 @@
     {
       "id": "5a8f84b1fdbba7310b19e46d02ce8b877507181dca711bcf57fb737bdb094f6di0",
       "title": "The OG J.O.E #1",
-      "title_source": "item-title",
+      "title_source": "content",
       "height": 947671,
       "item_count": 343,
       "content_type": "image/webp"
+    },
+    {
+      "id": "acdd7f3637f9d74b652fff32b4b6c347e52840d9a2273f1dcece515704c29966i0",
+      "title": "INKs #1",
+      "title_source": "item-title",
+      "height": 947672,
+      "item_count": 999,
+      "content_type": "image/jpeg"
     }
   ]
 }
