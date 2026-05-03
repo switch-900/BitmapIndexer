@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52687,
-  "total_relations": 2474986,
-  "distinct_targets": 2428931,
-  "updatedAt": "2026-05-03T14:35:21.918Z",
+  "total_relations": 2474987,
+  "distinct_targets": 2428932,
+  "updatedAt": "2026-05-03T14:47:18.181Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -144675,6 +144675,14 @@
       "content_type": "text/plain"
     },
     {
+      "id": "2fc6fccffb09178cc2d67c58ceef5908a0c7ec211e14f0fd602722d42d6ab76bi4",
+      "title": "05-xverse-provider",
+      "title_source": "content",
+      "height": 944507,
+      "relation_count": 2,
+      "content_type": "text/plain"
+    },
+    {
       "id": "2fc6fccffb09178cc2d67c58ceef5908a0c7ec211e14f0fd602722d42d6ab76bi5",
       "title": "06-okx-provider",
       "title_source": "content",
@@ -231357,14 +231365,6 @@
     {
       "id": "2fc6fccffb09178cc2d67c58ceef5908a0c7ec211e14f0fd602722d42d6ab76bi2",
       "title": "03-wallet-connector",
-      "title_source": "content",
-      "height": 944507,
-      "relation_count": 1,
-      "content_type": "text/plain"
-    },
-    {
-      "id": "2fc6fccffb09178cc2d67c58ceef5908a0c7ec211e14f0fd602722d42d6ab76bi4",
-      "title": "05-xverse-provider",
       "title_source": "content",
       "height": 944507,
       "relation_count": 1,
