@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52691,
-  "total_relations": 2475026,
-  "distinct_targets": 2428971,
-  "updatedAt": "2026-05-03T21:40:12.919Z",
+  "total_relations": 2475027,
+  "distinct_targets": 2428972,
+  "updatedAt": "2026-05-03T21:51:28.361Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -77915,6 +77915,14 @@
       "content_type": null
     },
     {
+      "id": "11e8cfac98162f1fdb786c29b50efb371439bf90a18cdc48dcabf023eb8c6950i1",
+      "title": "Parent (2 children)",
+      "title_source": "content",
+      "height": 947658,
+      "relation_count": 7,
+      "content_type": "image/svg+xml"
+    },
+    {
       "id": "15b52e6a7bb383c65c99009ca54b1347d27ec8be6f0d746c9718bfa793f16e36i0",
       "title": "Michelle Thompson",
       "title_source": "content",
@@ -85105,14 +85113,6 @@
       "height": 874386,
       "relation_count": 6,
       "content_type": null
-    },
-    {
-      "id": "11e8cfac98162f1fdb786c29b50efb371439bf90a18cdc48dcabf023eb8c6950i1",
-      "title": "Parent (2 children)",
-      "title_source": "content",
-      "height": 947658,
-      "relation_count": 6,
-      "content_type": "image/svg+xml"
     },
     {
       "id": "12e580fbfc344a794d8ef2899349e64a8ed859dca9c7a32de397f9153d5f3455i0",
@@ -262933,7 +262933,7 @@
     {
       "id": "53c98986d28ad4aa5143e28a3533d03d3738000caa17828b4e29759c39a0fe86i118",
       "title": "Parent (1 children)",
-      "title_source": "unknown",
+      "title_source": "content",
       "height": 893150,
       "relation_count": 1,
       "content_type": "text/html;charset=utf-8"
