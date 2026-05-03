@@ -5,10 +5,10 @@
     "title": "Gallery of Galleries",
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
-  "count": 740,
-  "total_relations": 871241,
-  "distinct_targets": 694500,
-  "updatedAt": "2026-05-03T15:21:36.493Z",
+  "count": 741,
+  "total_relations": 872340,
+  "distinct_targets": 695599,
+  "updatedAt": "2026-05-03T15:28:57.523Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -5929,6 +5929,14 @@
       "height": 947730,
       "item_count": 1500,
       "content_type": "image/webp"
+    },
+    {
+      "id": "de4544758287999e3d034641058f219e43aedeead407930748da4d7f08df6bb3i0",
+      "title": "Alagory",
+      "title_source": "item-title",
+      "height": 947734,
+      "item_count": 1099,
+      "content_type": "image/png"
     }
   ]
 }
