@@ -5,10 +5,10 @@
     "title": "Gallery of Galleries",
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
-  "count": 733,
-  "total_relations": 867611,
-  "distinct_targets": 692381,
-  "updatedAt": "2026-05-03T13:49:19.515Z",
+  "count": 736,
+  "total_relations": 867910,
+  "distinct_targets": 692680,
+  "updatedAt": "2026-05-03T13:59:26.563Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -5869,10 +5869,34 @@
     {
       "id": "1c2d77e3b8c268ebc3347a026dc5ddccf0a942a044cd2d9837732d1d8ab1794di0",
       "title": "Block 9 (1/9)",
-      "title_source": "item-title",
+      "title_source": "content",
       "height": 947721,
       "item_count": 9,
       "content_type": "image/webp"
+    },
+    {
+      "id": "a1bf1e03d34bf6c712b8e76b23e17c7533d5186b8cd959a1dce3044cd46356fbi0",
+      "title": "The Forgotten Manifesto #1",
+      "title_source": "item-title",
+      "height": 947722,
+      "item_count": 276,
+      "content_type": "image/webp"
+    },
+    {
+      "id": "0d56e8757de074b11fe787a3d92100250ccaff2a1452d58a20dfbb4127847cb2i0",
+      "title": "0range pi×e1 ri0t",
+      "title_source": "item-title",
+      "height": 947723,
+      "item_count": 12,
+      "content_type": null
+    },
+    {
+      "id": "b5302d3933df3617acb2258d568d65a42fd2559350198bf464b99ad8904a8525i0",
+      "title": "Keep the Faith",
+      "title_source": "content",
+      "height": 947723,
+      "item_count": 11,
+      "content_type": "text/html;charset=utf-8"
     }
   ]
 }
