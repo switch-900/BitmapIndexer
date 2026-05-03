@@ -1,14 +1,14 @@
 {
   "totalRelationTypes": 4,
-  "totalRelations": 5709034,
-  "updatedAt": "2026-05-03T03:30:51.404Z",
+  "totalRelations": 5709589,
+  "updatedAt": "2026-05-03T03:37:21.913Z",
   "relationTypes": [
     {
       "id": "parents",
       "relation_type": "child",
-      "total_relations": 2474899,
+      "total_relations": 2474900,
       "distinct_sources": 52678,
-      "distinct_targets": 2428844,
+      "distinct_targets": 2428845,
       "file": "relationships/parents.json"
     },
     {
@@ -22,9 +22,9 @@
     {
       "id": "galleries",
       "relation_type": "gallery",
-      "total_relations": 862520,
-      "distinct_sources": 726,
-      "distinct_targets": 687449,
+      "total_relations": 863074,
+      "distinct_sources": 727,
+      "distinct_targets": 688003,
       "file": "galleries/gallery-of-galleries.json"
     },
     {
