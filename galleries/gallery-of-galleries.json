@@ -5,10 +5,10 @@
     "title": "Gallery of Galleries",
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
-  "count": 742,
-  "total_relations": 873339,
-  "distinct_targets": 696598,
-  "updatedAt": "2026-05-03T18:40:34.132Z",
+  "count": 743,
+  "total_relations": 873639,
+  "distinct_targets": 696898,
+  "updatedAt": "2026-05-03T19:05:17.899Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -5945,6 +5945,14 @@
       "height": 947747,
       "item_count": 999,
       "content_type": "image/webp"
+    },
+    {
+      "id": "24d6710955d75693fe46b2e01c30fd59f5579ab336086af389b436b3eff99e4ei0",
+      "title": "Fragment #1",
+      "title_source": "item-title",
+      "height": 947760,
+      "item_count": 300,
+      "content_type": null
     }
   ]
 }
