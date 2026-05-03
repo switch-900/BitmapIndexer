@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52689,
-  "total_relations": 2475018,
-  "distinct_targets": 2428963,
-  "updatedAt": "2026-05-03T20:14:54.590Z",
+  "total_relations": 2475020,
+  "distinct_targets": 2428965,
+  "updatedAt": "2026-05-03T20:36:16.403Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -2895,7 +2895,7 @@
       "title": "Parent (1 children)",
       "title_source": "content",
       "height": 945130,
-      "relation_count": 669,
+      "relation_count": 670,
       "content_type": "text/html"
     },
     {
@@ -4859,20 +4859,20 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "1bf9b4e0d58050d1b5759c75f79ead47dac9a2ec7441bac7e6d501d437f874c5i0",
+      "title": "Parent (33 children)",
+      "title_source": "content",
+      "height": 947101,
+      "relation_count": 258,
+      "content_type": "image/avif"
+    },
+    {
       "id": "129ffaa02e85dea60fed32b84cd31436ccba1ff5b534fcb0b4efdddd2a0ddd05i0",
       "title": "Parent (257 children)",
       "title_source": "content",
       "height": 796768,
       "relation_count": 257,
       "content_type": "image/png"
-    },
-    {
-      "id": "1bf9b4e0d58050d1b5759c75f79ead47dac9a2ec7441bac7e6d501d437f874c5i0",
-      "title": "Parent (33 children)",
-      "title_source": "content",
-      "height": 947101,
-      "relation_count": 257,
-      "content_type": "image/avif"
     },
     {
       "id": "324be452aaaae1a3d17c20047cd9745e1dc5b606bf9e1a16a84a7c2eac953ccei0",
@@ -76163,6 +76163,14 @@
       "content_type": null
     },
     {
+      "id": "d9d6067c537565a369c092a86f4cb577ec615e0679fe9bff802cdde69a3be6aai0",
+      "title": "Projects",
+      "title_source": "content",
+      "height": 944639,
+      "relation_count": 8,
+      "content_type": "text/plain"
+    },
+    {
       "id": "dc66f98dadcfee9ac0182e87f2fd7e3566fc43f7d69d8b6ef93a3c6c54c353a3i0",
       "title": "<script src=\"/content/cdb13fe07fd8529aa06191903fb9838141fdb147fcdc28adc2e5e1e820d4e678i0\"></script>",
       "title_source": "content",
@@ -82897,14 +82905,6 @@
       "height": 874533,
       "relation_count": 7,
       "content_type": null
-    },
-    {
-      "id": "d9d6067c537565a369c092a86f4cb577ec615e0679fe9bff802cdde69a3be6aai0",
-      "title": "Projects",
-      "title_source": "content",
-      "height": 944639,
-      "relation_count": 7,
-      "content_type": "text/plain"
     },
     {
       "id": "db4f7cfe08bb8fc81e42a8d4ec3b6ec3f9c867aed4433846acd63cca69833daei0",
