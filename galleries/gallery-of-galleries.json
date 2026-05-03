@@ -5,10 +5,10 @@
     "title": "Gallery of Galleries",
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
-  "count": 737,
-  "total_relations": 868210,
-  "distinct_targets": 692969,
-  "updatedAt": "2026-05-03T14:08:24.116Z",
+  "count": 739,
+  "total_relations": 869741,
+  "distinct_targets": 694500,
+  "updatedAt": "2026-05-03T14:21:07.357Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -5901,9 +5901,25 @@
     {
       "id": "353dd9713ad86f1b3c00232875d5e61cd83e6b752b0ecee416c2988023e48e84i0",
       "title": "ACSM (Original)",
-      "title_source": "item-title",
+      "title_source": "content",
       "height": 947724,
       "item_count": 300,
+      "content_type": "image/webp"
+    },
+    {
+      "id": "06bae853a1bc7192711b320137003ac20c9fbca23ae380d9063035da551836b1i0",
+      "title": "ThugBird #117",
+      "title_source": "item-title",
+      "height": 947726,
+      "item_count": 420,
+      "content_type": "application/octet-stream"
+    },
+    {
+      "id": "5d59056d8287ccb0a5168cb3f1fd7caf58bc8806131d28f3a18f57fad759274di0",
+      "title": "Remnants #1",
+      "title_source": "item-title",
+      "height": 947726,
+      "item_count": 1111,
       "content_type": "image/webp"
     }
   ]
