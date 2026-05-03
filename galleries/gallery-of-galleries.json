@@ -5,10 +5,10 @@
     "title": "Gallery of Galleries",
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
-  "count": 741,
-  "total_relations": 872340,
-  "distinct_targets": 695599,
-  "updatedAt": "2026-05-03T16:22:34.270Z",
+  "count": 742,
+  "total_relations": 873339,
+  "distinct_targets": 696598,
+  "updatedAt": "2026-05-03T16:38:20.455Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -5937,6 +5937,14 @@
       "height": 947734,
       "item_count": 1099,
       "content_type": "image/png"
+    },
+    {
+      "id": "457721b16a1312950781a0386bbd75ea51c9b0ea99595924353ccdf8a0cf1072i0",
+      "title": "ENTROPY",
+      "title_source": "item-title",
+      "height": 947747,
+      "item_count": 999,
+      "content_type": "image/webp"
     }
   ]
 }
