@@ -5,10 +5,10 @@
     "title": "Gallery of Galleries",
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
-  "count": 736,
-  "total_relations": 867910,
-  "distinct_targets": 692680,
-  "updatedAt": "2026-05-03T13:59:26.563Z",
+  "count": 737,
+  "total_relations": 868210,
+  "distinct_targets": 692969,
+  "updatedAt": "2026-05-03T14:08:24.116Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -5877,7 +5877,7 @@
     {
       "id": "a1bf1e03d34bf6c712b8e76b23e17c7533d5186b8cd959a1dce3044cd46356fbi0",
       "title": "The Forgotten Manifesto #1",
-      "title_source": "item-title",
+      "title_source": "content",
       "height": 947722,
       "item_count": 276,
       "content_type": "image/webp"
@@ -5885,7 +5885,7 @@
     {
       "id": "0d56e8757de074b11fe787a3d92100250ccaff2a1452d58a20dfbb4127847cb2i0",
       "title": "0range pi×e1 ri0t",
-      "title_source": "item-title",
+      "title_source": "content",
       "height": 947723,
       "item_count": 12,
       "content_type": null
@@ -5897,6 +5897,14 @@
       "height": 947723,
       "item_count": 11,
       "content_type": "text/html;charset=utf-8"
+    },
+    {
+      "id": "353dd9713ad86f1b3c00232875d5e61cd83e6b752b0ecee416c2988023e48e84i0",
+      "title": "ACSM (Original)",
+      "title_source": "item-title",
+      "height": 947724,
+      "item_count": 300,
+      "content_type": "image/webp"
     }
   ]
 }
