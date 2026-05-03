@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 52681,
-  "total_relations": 2474948,
-  "distinct_targets": 2428893,
-  "updatedAt": "2026-05-03T10:59:47.986Z",
+  "count": 52686,
+  "total_relations": 2474956,
+  "distinct_targets": 2428901,
+  "updatedAt": "2026-05-03T11:09:03.570Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -11755,6 +11755,14 @@
       "content_type": null
     },
     {
+      "id": "a826766e5e98645bd7585dd5e764d0ae9dcbf7ec86c95a09d2a3bd3f1a6c9de5i0",
+      "title": "Parent (30 children)",
+      "title_source": "content",
+      "height": 946973,
+      "relation_count": 64,
+      "content_type": "image/svg+xml"
+    },
+    {
       "id": "b8746446fd49b2ef233857846f051422b938369f743f9bc682820ef7f7d00aadi73",
       "title": "Parent (64 children)",
       "title_source": "content",
@@ -11911,14 +11919,6 @@
       "title": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 39 487 282\" version=\"1.1\"><style>#wave-svg-g ellipse:nth-child(1){animation:svg-wave 1s ease 1.2s infinite",
       "title_source": "content",
       "height": 879497,
-      "relation_count": 63,
-      "content_type": "image/svg+xml"
-    },
-    {
-      "id": "a826766e5e98645bd7585dd5e764d0ae9dcbf7ec86c95a09d2a3bd3f1a6c9de5i0",
-      "title": "Parent (30 children)",
-      "title_source": "content",
-      "height": 946973,
       "relation_count": 63,
       "content_type": "image/svg+xml"
     },
@@ -77891,6 +77891,14 @@
       "content_type": null
     },
     {
+      "id": "11e8cfac98162f1fdb786c29b50efb371439bf90a18cdc48dcabf023eb8c6950i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 947658,
+      "relation_count": 7,
+      "content_type": "image/svg+xml"
+    },
+    {
       "id": "15b52e6a7bb383c65c99009ca54b1347d27ec8be6f0d746c9718bfa793f16e36i0",
       "title": "Michelle Thompson",
       "title_source": "content",
@@ -85083,8 +85091,8 @@
       "content_type": null
     },
     {
-      "id": "11e8cfac98162f1fdb786c29b50efb371439bf90a18cdc48dcabf023eb8c6950i0",
-      "title": "Parent (1 children)",
+      "id": "11e8cfac98162f1fdb786c29b50efb371439bf90a18cdc48dcabf023eb8c6950i1",
+      "title": "Parent (2 children)",
       "title_source": "content",
       "height": 947658,
       "relation_count": 6,
@@ -92649,14 +92657,6 @@
       "height": 874386,
       "relation_count": 5,
       "content_type": null
-    },
-    {
-      "id": "11e8cfac98162f1fdb786c29b50efb371439bf90a18cdc48dcabf023eb8c6950i1",
-      "title": "Parent (2 children)",
-      "title_source": "content",
-      "height": 947658,
-      "relation_count": 5,
-      "content_type": "image/svg+xml"
     },
     {
       "id": "137dced35c2ee9d7256ec7fed65c0e9e2bc9633bee1b4fb420faa9df51ff9ef2i6",
@@ -238425,6 +238425,14 @@
       "height": 795901,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
+    },
+    {
+      "id": "3c2c742723ed8f9f134b31d4d2c30ef9127371707832e6dbeff70a27e27448b6i4",
+      "title": "Parent (1 children)",
+      "title_source": "unknown",
+      "height": 944588,
+      "relation_count": 1,
+      "content_type": "application/javascript"
     },
     {
       "id": "3c31c4f4340ca3e9e7c5c9a467ae790ac1ed71765cc13d17fa46f63baccecb09i0",
@@ -400099,6 +400107,30 @@
       "content_type": "image/png"
     },
     {
+      "id": "e69f63110f7ae9a8af6014b310f63d6c70fb02e1d358e413e0d5ee89c2ab57e3i0",
+      "title": "Parent (1 children)",
+      "title_source": "unknown",
+      "height": 945819,
+      "relation_count": 1,
+      "content_type": "application/javascript"
+    },
+    {
+      "id": "e69f63110f7ae9a8af6014b310f63d6c70fb02e1d358e413e0d5ee89c2ab57e3i1",
+      "title": "Parent (1 children)",
+      "title_source": "unknown",
+      "height": 945819,
+      "relation_count": 1,
+      "content_type": "application/javascript"
+    },
+    {
+      "id": "e69f63110f7ae9a8af6014b310f63d6c70fb02e1d358e413e0d5ee89c2ab57e3i2",
+      "title": "Parent (1 children)",
+      "title_source": "unknown",
+      "height": 945819,
+      "relation_count": 1,
+      "content_type": "application/javascript"
+    },
+    {
       "id": "e6a41d32d8e1ca03b29e1898100ec41b5d7a5b9d0b56210917f17a3c412cff6ai0",
       "title": "Parent (1 children)",
       "title_source": "content",
@@ -417857,6 +417889,14 @@
       "height": 795184,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
+    },
+    {
+      "id": "fcdf0318182397890c9bf44bf3ac18bd90fae00c9e5f36895fa41485e1ed1c87i0",
+      "title": "Parent (1 children)",
+      "title_source": "unknown",
+      "height": 947697,
+      "relation_count": 1,
+      "content_type": "image/avif"
     },
     {
       "id": "fce07580a97bb5314e8dbdcdba2e618a44573db53545bb69d8922249de036d42i0",
