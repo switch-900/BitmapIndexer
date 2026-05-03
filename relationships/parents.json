@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52687,
-  "total_relations": 2474995,
-  "distinct_targets": 2428940,
-  "updatedAt": "2026-05-03T15:37:05.845Z",
+  "total_relations": 2474999,
+  "distinct_targets": 2428944,
+  "updatedAt": "2026-05-03T15:45:40.841Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -3939,20 +3939,20 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "d2224e958723bc0aede461b4785ad2df93d91aa5d0bf2a05c1926dad714c5559i0",
+      "title": "Parent (369 children)",
+      "title_source": "content",
+      "height": 940554,
+      "relation_count": 386,
+      "content_type": "image/avif"
+    },
+    {
       "id": "f0257e09f6d457d9fce349539c66bac49e01cf40752faf8c1d4d390d52d38107i0",
       "title": "Parent (369 children)",
       "title_source": "content",
       "height": 874289,
       "relation_count": 386,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "d2224e958723bc0aede461b4785ad2df93d91aa5d0bf2a05c1926dad714c5559i0",
-      "title": "Parent (369 children)",
-      "title_source": "content",
-      "height": 940554,
-      "relation_count": 385,
-      "content_type": "image/avif"
     },
     {
       "id": "45455455c2e2067a3f64060194ffe80f80e88c40728e18e14a60cb2e10be2a1bi0",
@@ -4867,6 +4867,14 @@
       "content_type": "image/png"
     },
     {
+      "id": "1bf9b4e0d58050d1b5759c75f79ead47dac9a2ec7441bac7e6d501d437f874c5i0",
+      "title": "Parent (33 children)",
+      "title_source": "content",
+      "height": 947101,
+      "relation_count": 257,
+      "content_type": "image/avif"
+    },
+    {
       "id": "324be452aaaae1a3d17c20047cd9745e1dc5b606bf9e1a16a84a7c2eac953ccei0",
       "title": "Parent (257 children)",
       "title_source": "content",
@@ -4889,14 +4897,6 @@
       "height": 902441,
       "relation_count": 256,
       "content_type": "text/html"
-    },
-    {
-      "id": "1bf9b4e0d58050d1b5759c75f79ead47dac9a2ec7441bac7e6d501d437f874c5i0",
-      "title": "Parent (33 children)",
-      "title_source": "content",
-      "height": 947101,
-      "relation_count": 256,
-      "content_type": "image/avif"
     },
     {
       "id": "3540ae8d5a7e5ed97f2f6452d0933b1351e5d5e7b9b04bccb291e14111b0b101i0",
@@ -9411,6 +9411,14 @@
       "content_type": null
     },
     {
+      "id": "a826766e5e98645bd7585dd5e764d0ae9dcbf7ec86c95a09d2a3bd3f1a6c9de5i0",
+      "title": "Parent (30 children)",
+      "title_source": "content",
+      "height": 946973,
+      "relation_count": 80,
+      "content_type": "image/svg+xml"
+    },
+    {
       "id": "cb181a802c23553167961032a8adb827622f2923239a9d9440a83dab9ded3768i0",
       "title": "Parent (80 children)",
       "title_source": "content",
@@ -9513,14 +9521,6 @@
       "height": 837418,
       "relation_count": 79,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "a826766e5e98645bd7585dd5e764d0ae9dcbf7ec86c95a09d2a3bd3f1a6c9de5i0",
-      "title": "Parent (30 children)",
-      "title_source": "content",
-      "height": 946973,
-      "relation_count": 79,
-      "content_type": "image/svg+xml"
     },
     {
       "id": "c4b9eb8ac602e65d30e539d0ccdb6072ca4691e2c43d440afe2b442a66f9f7b9i200",
@@ -160619,6 +160619,14 @@
       "content_type": "image/png"
     },
     {
+      "id": "694a3ca718c3302bf42fe5c9a17b55b81f3b9d60dfe5fb0552742afa1a9f76cdi0",
+      "title": "Hey",
+      "title_source": "content",
+      "height": 946890,
+      "relation_count": 2,
+      "content_type": "text/plain"
+    },
+    {
       "id": "69544fe1a8749ae8f3977fea284cdc1950ea88d561a0f325a5330bd28db5ef31i0",
       "title": "604332.bitmap",
       "title_source": "content",
@@ -286537,14 +286545,6 @@
       "height": 866710,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "694a3ca718c3302bf42fe5c9a17b55b81f3b9d60dfe5fb0552742afa1a9f76cdi0",
-      "title": "Hey",
-      "title_source": "content",
-      "height": 946890,
-      "relation_count": 1,
-      "content_type": "text/plain"
     },
     {
       "id": "6950a8086d22d0e49514e63cba3d926e6ddbdd1e532097fc69f158d0c4e69f43i0",
