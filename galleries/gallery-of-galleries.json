@@ -5,10 +5,10 @@
     "title": "Gallery of Galleries",
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
-  "count": 773,
-  "total_relations": 916501,
-  "distinct_targets": 716276,
-  "updatedAt": "2026-05-13T15:49:13.543Z",
+  "count": 782,
+  "total_relations": 922238,
+  "distinct_targets": 721987,
+  "updatedAt": "2026-05-13T15:56:48.836Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -6141,7 +6141,7 @@
     {
       "id": "8b471bfbfb9a7eb9981a4451c14e1f091727f265d8bebd24ae3cc55ac3ffea2ci0",
       "title": "Blood Moon #1",
-      "title_source": "item-title",
+      "title_source": "content",
       "height": 948451,
       "item_count": 33,
       "content_type": "image/jpeg"
@@ -6149,7 +6149,7 @@
     {
       "id": "284b05c005ffdf65e15cba56e977be5b0e9e8fe6a661fbdae43c41d877e064c5i0",
       "title": "Bitcoin Lemming #1",
-      "title_source": "item-title",
+      "title_source": "content",
       "height": 948462,
       "item_count": 275,
       "content_type": "image/webp"
@@ -6157,7 +6157,7 @@
     {
       "id": "4033e0ff4030030807e39e79eca05a8a3b9166c64d98f7f8abf58a2c23fe44a6i0",
       "title": "test01",
-      "title_source": "item-title",
+      "title_source": "content",
       "height": 948542,
       "item_count": 2,
       "content_type": null
@@ -6165,7 +6165,7 @@
     {
       "id": "52bb90c60b0c4cb1518dfd797381429e21777cf22001b8916d5d29f2d501747bi0",
       "title": "41287.bitmap",
-      "title_source": "item-title",
+      "title_source": "content",
       "height": 948722,
       "item_count": 798,
       "content_type": "image/webp"
@@ -6173,7 +6173,7 @@
     {
       "id": "53bb821884ebf674bbe646173de5a29607932541b73271d0058d362142e551b3i0",
       "title": "187.bitmap",
-      "title_source": "item-title",
+      "title_source": "content",
       "height": 948726,
       "item_count": 1279,
       "content_type": "image/webp"
@@ -6181,7 +6181,7 @@
     {
       "id": "54bb94b28c03ec91c83366ab5a5b82fd082a930b8382911b4cbe4a648544f40ai0",
       "title": "29188.bitmap",
-      "title_source": "item-title",
+      "title_source": "content",
       "height": 948729,
       "item_count": 1695,
       "content_type": "image/webp"
@@ -6189,9 +6189,81 @@
     {
       "id": "77775e67fa7b257e126add77e12fedb48e32f885c9f3e03ab64aea2c5ebf6041i0",
       "title": "52704.bitmap",
-      "title_source": "item-title",
+      "title_source": "content",
       "height": 948733,
       "item_count": 45,
+      "content_type": "image/webp"
+    },
+    {
+      "id": "192deef5d9fdac6d64261f36c9e8a325ab18bdf15f7c29b0f8394f555858bc09i0",
+      "title": "Banknotes Whitepaper",
+      "title_source": "content",
+      "height": 948805,
+      "item_count": 18,
+      "content_type": "text/html"
+    },
+    {
+      "id": "e5f11a0941dce5b3bbb218af35a7944467f86f1c12dc4109e304c8f10a034c1ai0",
+      "title": "Sons of Satoshi #1",
+      "title_source": "item-title",
+      "height": 948831,
+      "item_count": 100,
+      "content_type": "image/avif"
+    },
+    {
+      "id": "5555ecd52e738e5a32a926a25c83e6fb3c0536a9b5eb8e80c03b18e8ef08d70fi0",
+      "title": "49929.bitmap",
+      "title_source": "item-title",
+      "height": 948875,
+      "item_count": 160,
+      "content_type": "image/webp"
+    },
+    {
+      "id": "a12da1dee07f5eff777c7467b11fd065be9e85efff42b27d95a7a319d205da45i0",
+      "title": "counterfeit identities",
+      "title_source": "content",
+      "height": 948958,
+      "item_count": 111,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "id": "999bbd123e327789d9b0991a73bb76385b7d9f3d99828576d6b2b0cb8c3cdfdei0",
+      "title": "100.bitmap",
+      "title_source": "item-title",
+      "height": 948960,
+      "item_count": 900,
+      "content_type": "image/webp"
+    },
+    {
+      "id": "19838feb7a408848c041194d68a0a74dae363cdaa65cae0f458a438c2950343ei0",
+      "title": "Banknotes Whitepaper",
+      "title_source": "content",
+      "height": 948989,
+      "item_count": 75,
+      "content_type": "text/html"
+    },
+    {
+      "id": "add88bbd3b236ff2081fedac8a3e21466d7257492d60d82e6c176c0f5579f83fi0",
+      "title": "Useless Runestone Analyzer #1",
+      "title_source": "item-title",
+      "height": 949070,
+      "item_count": 385,
+      "content_type": "image/avif"
+    },
+    {
+      "id": "eaffd379e645c2c60aca993bc798fad3575f6d113e3c058e6a9e0f5f5e57a202i0",
+      "title": "Tears of the Maxi Princess",
+      "title_source": "item-title",
+      "height": 949127,
+      "item_count": 49,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "id": "ee1b12a56f52f650a65cca8f454f435809c0cb26a31a53935a1dfd16a2f6fc39i0",
+      "title": "The Greatest #1",
+      "title_source": "item-title",
+      "height": 949198,
+      "item_count": 122,
       "content_type": "image/webp"
     }
   ]

@@ -1,38 +1,38 @@
 {
   "totalRelationTypes": 4,
-  "totalRelations": 5766800,
-  "updatedAt": "2026-05-13T15:50:48.292Z",
+  "totalRelations": 5773581,
+  "updatedAt": "2026-05-13T15:57:47.174Z",
   "relationTypes": [
     {
       "id": "parents",
       "relation_type": "child",
-      "total_relations": 2477603,
-      "distinct_sources": 52861,
-      "distinct_targets": 2431548,
+      "total_relations": 2478590,
+      "distinct_sources": 52901,
+      "distinct_targets": 2432535,
       "file": "relationships/parents.json"
     },
     {
       "id": "delegates",
       "relation_type": "delegate",
-      "total_relations": 2369338,
-      "distinct_sources": 14138,
-      "distinct_targets": 2369338,
+      "total_relations": 2369394,
+      "distinct_sources": 14142,
+      "distinct_targets": 2369394,
       "file": "relationships/delegates.json"
     },
     {
       "id": "galleries",
       "relation_type": "gallery",
-      "total_relations": 916501,
-      "distinct_sources": 769,
-      "distinct_targets": 716276,
+      "total_relations": 922238,
+      "distinct_sources": 782,
+      "distinct_targets": 721987,
       "file": "galleries/gallery-of-galleries.json"
     },
     {
       "id": "reinscriptions",
       "relation_type": "reinscription",
-      "total_relations": 3358,
-      "distinct_sources": 599,
-      "distinct_targets": 3358,
+      "total_relations": 3359,
+      "distinct_sources": 600,
+      "distinct_targets": 3359,
       "file": "relationships/reinscriptions.json"
     }
   ]
