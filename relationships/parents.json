@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 52917,
-  "total_relations": 2478816,
-  "distinct_targets": 2432761,
-  "updatedAt": "2026-05-14T07:02:57.417Z",
+  "count": 52918,
+  "total_relations": 2478818,
+  "distinct_targets": 2432763,
+  "updatedAt": "2026-05-14T07:24:01.325Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -63027,6 +63027,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "048859a9dba70b8fdb69c8148d86d86ddf28be2b13189ff729259ff2e6ba76b1i0",
+      "title": "Parent (8 children)",
+      "title_source": "content",
+      "height": 949302,
+      "relation_count": 9,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "08440898cbf38c3217c3701d0bca804d3343d40423085606d8087ac01ada1bd9i1",
       "title": "Parent (9 children)",
       "title_source": "content",
@@ -67153,14 +67161,6 @@
       "height": 890719,
       "relation_count": 8,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "048859a9dba70b8fdb69c8148d86d86ddf28be2b13189ff729259ff2e6ba76b1i0",
-      "title": "Parent (8 children)",
-      "title_source": "unknown",
-      "height": 949302,
-      "relation_count": 8,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "05c2084b2eb86a479ed6590e9001a8d62ba79baaf305d602c5dfbfa4f2334474i0",
@@ -277254,6 +277254,14 @@
       "id": "605b2653c5d068d8ca5e9ff2c602df528f66b9fa8f94a9bd09db69a0b86eed1ei538",
       "title": "<script n0k=5714 src=\"/content/a4b2603e05c6fedba2a16eecf6cf4e6cbdd06a0862bbb41a4ffbe76bdc2a118ei0\"></script>",
       "title_source": "content",
+      "height": 837942,
+      "relation_count": 1,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
+      "id": "605b2653c5d068d8ca5e9ff2c602df528f66b9fa8f94a9bd09db69a0b86eed1ei539",
+      "title": "Parent (1 children)",
+      "title_source": "unknown",
       "height": 837942,
       "relation_count": 1,
       "content_type": "text/html;charset=utf-8"
