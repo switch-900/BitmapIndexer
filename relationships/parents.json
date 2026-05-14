@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52926,
-  "total_relations": 2478984,
-  "distinct_targets": 2432929,
-  "updatedAt": "2026-05-14T17:55:49.324Z",
+  "total_relations": 2478986,
+  "distinct_targets": 2432931,
+  "updatedAt": "2026-05-14T18:02:15.748Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -2647,7 +2647,7 @@
       "title": "Parent (1 children)",
       "title_source": "content",
       "height": 945130,
-      "relation_count": 878,
+      "relation_count": 879,
       "content_type": "text/html"
     },
     {
@@ -8491,6 +8491,14 @@
       "content_type": "image/gif"
     },
     {
+      "id": "048859a9dba70b8fdb69c8148d86d86ddf28be2b13189ff729259ff2e6ba76b1i0",
+      "title": "Parent (8 children)",
+      "title_source": "content",
+      "height": 949302,
+      "relation_count": 99,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "1337a8078940a31cfd1712423623ec9165d2614260224aff468268490c45fcb9i0",
       "title": "1337 Chonks",
       "title_source": "content",
@@ -8569,14 +8577,6 @@
       "height": 884353,
       "relation_count": 99,
       "content_type": "text/html"
-    },
-    {
-      "id": "048859a9dba70b8fdb69c8148d86d86ddf28be2b13189ff729259ff2e6ba76b1i0",
-      "title": "Parent (8 children)",
-      "title_source": "content",
-      "height": 949302,
-      "relation_count": 98,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "1deaf2385298b791a674737c3eac0632c624b5e2107d8d1f9f7f816b253ab573i0",
@@ -319573,7 +319573,7 @@
     {
       "id": "8f21a7ba62c9fc15ef3e972a3c8418b110011d80ee49c20fe4d77bac6c677783i0",
       "title": "Parent (1 children)",
-      "title_source": "unknown",
+      "title_source": "content",
       "height": 949399,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
