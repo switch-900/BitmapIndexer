@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52923,
-  "total_relations": 2478961,
-  "distinct_targets": 2432906,
-  "updatedAt": "2026-05-14T16:47:38.553Z",
+  "total_relations": 2478969,
+  "distinct_targets": 2432914,
+  "updatedAt": "2026-05-14T17:06:41.379Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -8531,6 +8531,14 @@
       "content_type": "image/webp"
     },
     {
+      "id": "c0a5ab71426072cc31c5d2f3823ed62c7588aa126d0e42ec8447f5f1764fefafi0",
+      "title": "Parent (4 children)",
+      "title_source": "content",
+      "height": 948702,
+      "relation_count": 99,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "c290bc7854b12835bf772ebf74061a66b345f68c99150aa3cc315f0a2839a478i0",
       "title": "The Asprey Bugatti Egg Collection",
       "title_source": "content",
@@ -8585,14 +8593,6 @@
       "height": 943553,
       "relation_count": 98,
       "content_type": "image/webp"
-    },
-    {
-      "id": "c0a5ab71426072cc31c5d2f3823ed62c7588aa126d0e42ec8447f5f1764fefafi0",
-      "title": "Parent (4 children)",
-      "title_source": "content",
-      "height": 948702,
-      "relation_count": 98,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "cd1355d1ae7b0e53b7e288515648e7093312ee0f4121ffe5206146fae9d5267bi0",
@@ -8792,6 +8792,14 @@
       "title_source": "content",
       "height": 888088,
       "relation_count": 94,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
+      "id": "048859a9dba70b8fdb69c8148d86d86ddf28be2b13189ff729259ff2e6ba76b1i0",
+      "title": "Parent (8 children)",
+      "title_source": "content",
+      "height": 949302,
+      "relation_count": 93,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -9193,14 +9201,6 @@
       "height": 885185,
       "relation_count": 86,
       "content_type": "image/jpeg"
-    },
-    {
-      "id": "048859a9dba70b8fdb69c8148d86d86ddf28be2b13189ff729259ff2e6ba76b1i0",
-      "title": "Parent (8 children)",
-      "title_source": "content",
-      "height": 949302,
-      "relation_count": 86,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "09bb948507aff02fff4cf0fd63d55668cc5cf09d551f32e548228d01a941f897i495",
