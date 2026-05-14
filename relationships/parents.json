@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52921,
-  "total_relations": 2478876,
-  "distinct_targets": 2432821,
-  "updatedAt": "2026-05-14T15:10:04.679Z",
+  "total_relations": 2478889,
+  "distinct_targets": 2432834,
+  "updatedAt": "2026-05-14T15:16:45.971Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -8811,6 +8811,14 @@
       "content_type": "image/gif"
     },
     {
+      "id": "c0a5ab71426072cc31c5d2f3823ed62c7588aa126d0e42ec8447f5f1764fefafi0",
+      "title": "Parent (4 children)",
+      "title_source": "content",
+      "height": 948702,
+      "relation_count": 93,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "e0d49a8f5a9fe12022add33d2bdee4634fa6db957957063d6f0b85c11f4d7232i1074",
       "title": "Parent (93 children)",
       "title_source": "content",
@@ -8833,14 +8841,6 @@
       "height": 816513,
       "relation_count": 92,
       "content_type": "image/webp"
-    },
-    {
-      "id": "c0a5ab71426072cc31c5d2f3823ed62c7588aa126d0e42ec8447f5f1764fefafi0",
-      "title": "Parent (4 children)",
-      "title_source": "content",
-      "height": 948702,
-      "relation_count": 92,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "d5e1b87eae4b7bb2b7b10c69b1cd7361c9372555bfa7b99d6683d49bf3034192i483",
@@ -21011,6 +21011,14 @@
       "content_type": null
     },
     {
+      "id": "048859a9dba70b8fdb69c8148d86d86ddf28be2b13189ff729259ff2e6ba76b1i0",
+      "title": "Parent (8 children)",
+      "title_source": "content",
+      "height": 949302,
+      "relation_count": 40,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "04ae1b587a14cd8479d3e3b9e061261b941744eb89eb740108b6e3506dc46ae5i0",
       "title": "Pixel Pythons - Parent",
       "title_source": "content",
@@ -28953,14 +28961,6 @@
       "height": 874281,
       "relation_count": 28,
       "content_type": null
-    },
-    {
-      "id": "048859a9dba70b8fdb69c8148d86d86ddf28be2b13189ff729259ff2e6ba76b1i0",
-      "title": "Parent (8 children)",
-      "title_source": "content",
-      "height": 949302,
-      "relation_count": 28,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "06a61cb829581b5ac9a08af89cdcc1dcda7e043186568c95ed3792f78c33065ai0",
