@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 52920,
-  "total_relations": 2478841,
-  "distinct_targets": 2432786,
-  "updatedAt": "2026-05-14T12:25:46.305Z",
+  "count": 52921,
+  "total_relations": 2478843,
+  "distinct_targets": 2432788,
+  "updatedAt": "2026-05-14T12:31:00.798Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -157355,6 +157355,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "605b2653c5d068d8ca5e9ff2c602df528f66b9fa8f94a9bd09db69a0b86eed1ei539",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 837942,
+      "relation_count": 2,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
       "id": "605b2653c5d068d8ca5e9ff2c602df528f66b9fa8f94a9bd09db69a0b86eed1ei549",
       "title": "<script n0k=5725 src=\"/content/a4b2603e05c6fedba2a16eecf6cf4e6cbdd06a0862bbb41a4ffbe76bdc2a118ei0\"></script>",
       "title_source": "content",
@@ -277267,14 +277275,6 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
-      "id": "605b2653c5d068d8ca5e9ff2c602df528f66b9fa8f94a9bd09db69a0b86eed1ei539",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 837942,
-      "relation_count": 1,
-      "content_type": "text/html;charset=utf-8"
-    },
-    {
       "id": "605b2653c5d068d8ca5e9ff2c602df528f66b9fa8f94a9bd09db69a0b86eed1ei540",
       "title": "<script n0k=5716 src=\"/content/a4b2603e05c6fedba2a16eecf6cf4e6cbdd06a0862bbb41a4ffbe76bdc2a118ei0\"></script>",
       "title_source": "content",
@@ -284590,6 +284590,14 @@
       "id": "67229547d00024fe27e8722c275ec879b7796ddab96354687ad3d64e9314f5b3i350",
       "title": "<script n0k=7201 src=\"/content/a4b2603e05c6fedba2a16eecf6cf4e6cbdd06a0862bbb41a4ffbe76bdc2a118ei0\"></script>",
       "title_source": "content",
+      "height": 838206,
+      "relation_count": 1,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
+      "id": "67229547d00024fe27e8722c275ec879b7796ddab96354687ad3d64e9314f5b3i352",
+      "title": "Parent (1 children)",
+      "title_source": "unknown",
       "height": 838206,
       "relation_count": 1,
       "content_type": "text/html;charset=utf-8"
