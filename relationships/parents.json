@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52939,
-  "total_relations": 2479109,
-  "distinct_targets": 2433054,
-  "updatedAt": "2026-05-15T12:26:30.836Z",
+  "total_relations": 2479112,
+  "distinct_targets": 2433057,
+  "updatedAt": "2026-05-15T12:31:26.019Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -3615,7 +3615,7 @@
       "title": "Parent (413 children)",
       "title_source": "content",
       "height": 905348,
-      "relation_count": 457,
+      "relation_count": 458,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -6315,6 +6315,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "cb04b13412ed9513a5866d2da49b6eff5792e97e8311063eb37786c6fb33b767i0",
+      "title": "Parent (41 children)",
+      "title_source": "content",
+      "height": 940999,
+      "relation_count": 139,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "ed8819d17dbd6ab0d934b24d1e6dadd6bcd7b91866a9a235a081576421c68022i1",
       "title": "Parent (139 children)",
       "title_source": "content",
@@ -6327,14 +6335,6 @@
       "title": "nifty.sats",
       "title_source": "content",
       "height": 784067,
-      "relation_count": 138,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "cb04b13412ed9513a5866d2da49b6eff5792e97e8311063eb37786c6fb33b767i0",
-      "title": "Parent (41 children)",
-      "title_source": "content",
-      "height": 940999,
       "relation_count": 138,
       "content_type": "text/plain;charset=utf-8"
     },
@@ -6659,6 +6659,14 @@
       "content_type": null
     },
     {
+      "id": "c0a5ab71426072cc31c5d2f3823ed62c7588aa126d0e42ec8447f5f1764fefafi0",
+      "title": "Parent (4 children)",
+      "title_source": "content",
+      "height": 948702,
+      "relation_count": 120,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "c37575216ee65ca6f8089936e63ecbdde8b839c2e89569daa3805af74a458edbi0",
       "title": "Wunjo",
       "title_source": "content",
@@ -6697,14 +6705,6 @@
       "height": 941596,
       "relation_count": 119,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "c0a5ab71426072cc31c5d2f3823ed62c7588aa126d0e42ec8447f5f1764fefafi0",
-      "title": "Parent (4 children)",
-      "title_source": "content",
-      "height": 948702,
-      "relation_count": 119,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "6686ac99b7da802024299da0d6ea507a37b703b5053be7672cf4555b2b4ecdaei0",
