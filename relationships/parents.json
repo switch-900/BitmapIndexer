@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 52944,
-  "total_relations": 2479173,
-  "distinct_targets": 2433118,
-  "updatedAt": "2026-05-15T22:30:33.528Z",
+  "count": 52945,
+  "total_relations": 2479175,
+  "distinct_targets": 2433120,
+  "updatedAt": "2026-05-15T22:36:19.147Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -75371,6 +75371,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "b5988789ee848304bea5dbe0fe2f465db7c14262653965f583750227f49ed209i0",
+      "title": "881852.bitmap",
+      "title_source": "content",
+      "height": 881852,
+      "relation_count": 8,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "b6e6208f88b5048c3d50e265a157c0689d33bdcb0354860ea3879f5fe712be6ei0",
       "title": "<script src=\"/content/cdb13fe07fd8529aa06191903fb9838141fdb147fcdc28adc2e5e1e820d4e678i0\"></script>",
       "title_source": "content",
@@ -82145,14 +82153,6 @@
       "height": 890715,
       "relation_count": 7,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "b5988789ee848304bea5dbe0fe2f465db7c14262653965f583750227f49ed209i0",
-      "title": "881852.bitmap",
-      "title_source": "content",
-      "height": 881852,
-      "relation_count": 7,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "b603f7d299ca6905ed24b0641191b5ea79d484bba3003b77fb7e10765ae750d8i0",
@@ -242775,6 +242775,14 @@
       "title": "Parent (1 children)",
       "title_source": "content",
       "height": 837111,
+      "relation_count": 1,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
+      "id": "3fad72d50456147737dee24896af3ecc6241c7e78856dd45ddc78e317d9c5f64i0",
+      "title": "\"Do not mistreat or oppress a foreigner, for you were foreigners in Egypt.\"",
+      "title_source": "content",
+      "height": 948085,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
     },
