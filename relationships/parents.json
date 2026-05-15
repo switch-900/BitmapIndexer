@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 52945,
+  "count": 52946,
   "total_relations": 2479175,
   "distinct_targets": 2433120,
-  "updatedAt": "2026-05-15T23:06:17.706Z",
+  "updatedAt": "2026-05-15T23:48:46.626Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -2543,7 +2543,7 @@
       "title": "Parent (877 children)",
       "title_source": "content",
       "height": 814730,
-      "relation_count": 919,
+      "relation_count": 920,
       "content_type": "image/png"
     },
     {
@@ -8867,6 +8867,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "124e3cd445f134c489dd50f94cc232a41138277a3f8ed70f0deea7cff3a58d95i0",
+      "title": "Parent (16 children)",
+      "title_source": "content",
+      "height": 941148,
+      "relation_count": 91,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "14e8172c188cde90f56b1254d1c201e464f441a5d9148d6f88e5b33b309ad7f8i0",
       "title": "Parent (91 children)",
       "title_source": "content",
@@ -9401,14 +9409,6 @@
       "height": 874533,
       "relation_count": 83,
       "content_type": null
-    },
-    {
-      "id": "124e3cd445f134c489dd50f94cc232a41138277a3f8ed70f0deea7cff3a58d95i0",
-      "title": "Parent (16 children)",
-      "title_source": "content",
-      "height": 941148,
-      "relation_count": 82,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "196d27f0a6b37214cb32612295c99fd5630f9ac7c39517f2682eaa29442db0cbi0",
@@ -65763,6 +65763,14 @@
       "content_type": "image/png"
     },
     {
+      "id": "b5988789ee848304bea5dbe0fe2f465db7c14262653965f583750227f49ed209i0",
+      "title": "881852.bitmap",
+      "title_source": "content",
+      "height": 881852,
+      "relation_count": 9,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "b8746446fd49b2ef233857846f051422b938369f743f9bc682820ef7f7d00aadi1176",
       "title": "Parent (9 children)",
       "title_source": "content",
@@ -75369,14 +75377,6 @@
       "height": 890715,
       "relation_count": 8,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "b5988789ee848304bea5dbe0fe2f465db7c14262653965f583750227f49ed209i0",
-      "title": "881852.bitmap",
-      "title_source": "content",
-      "height": 881852,
-      "relation_count": 8,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "b6e6208f88b5048c3d50e265a157c0689d33bdcb0354860ea3879f5fe712be6ei0",
@@ -103145,6 +103145,14 @@
       "height": 904648,
       "relation_count": 4,
       "content_type": "image/webp"
+    },
+    {
+      "id": "232b414118f9916d72aed06110beb857774ca9632c48c62f208cecb9755d4630i0",
+      "title": "Switch-900",
+      "title_source": "content",
+      "height": 949577,
+      "relation_count": 4,
+      "content_type": "application/json"
     },
     {
       "id": "243590d6d8f09db7ab570d47684165c876a04956a57be42dfa0966e3e890c235i0",
