@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 52934,
-  "total_relations": 2479036,
-  "distinct_targets": 2432981,
-  "updatedAt": "2026-05-15T05:22:23.903Z",
+  "count": 52935,
+  "total_relations": 2479038,
+  "distinct_targets": 2432983,
+  "updatedAt": "2026-05-15T05:46:09.032Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -2563,6 +2563,14 @@
       "content_type": "text/markdown;charset=utf-8"
     },
     {
+      "id": "0a1afeb6744b91306f6dac0fd4977a5529e3bc8f62cfe93844d69c08984c2e56i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 945130,
+      "relation_count": 900,
+      "content_type": "text/html"
+    },
+    {
       "id": "0d47a9f8b362b391ea5469f003d15b7f45d41e5abd195e027a6e225c1aa14074i3",
       "title": "Book",
       "title_source": "content",
@@ -2585,14 +2593,6 @@
       "height": 922892,
       "relation_count": 900,
       "content_type": "image/webp"
-    },
-    {
-      "id": "0a1afeb6744b91306f6dac0fd4977a5529e3bc8f62cfe93844d69c08984c2e56i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 945130,
-      "relation_count": 899,
-      "content_type": "text/html"
     },
     {
       "id": "88888005c930943f3b540334d2fd8da2a5d387fa8ed57ec08b30b2a63bb1e888i2",
@@ -300007,6 +300007,14 @@
       "title": "407840.bitmap",
       "title_source": "content",
       "height": 796227,
+      "relation_count": 1,
+      "content_type": "text/plain"
+    },
+    {
+      "id": "7a93840c38a4e19e57da7a1abd125b7e8bf017349d5a2f65cb0872dbfc5ffa87i0",
+      "title": "artifact proof hierarchical-burn PTOCCASETEST",
+      "title_source": "content",
+      "height": 949469,
       "relation_count": 1,
       "content_type": "text/plain"
     },
