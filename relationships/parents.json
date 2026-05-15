@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52938,
-  "total_relations": 2479055,
-  "distinct_targets": 2433000,
-  "updatedAt": "2026-05-15T08:46:28.465Z",
+  "total_relations": 2479057,
+  "distinct_targets": 2433002,
+  "updatedAt": "2026-05-15T08:52:23.652Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -6923,6 +6923,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "c0a5ab71426072cc31c5d2f3823ed62c7588aa126d0e42ec8447f5f1764fefafi0",
+      "title": "Parent (4 children)",
+      "title_source": "content",
+      "height": 948702,
+      "relation_count": 110,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "cbc9fcf9373cbae36f4868d73a0ad78bbdc58af7c813e6319163e101a8cac8adi89",
       "title": "Parent (110 children)",
       "title_source": "content",
@@ -6967,14 +6975,6 @@
       "title": "Parent (109 children)",
       "title_source": "content",
       "height": 910449,
-      "relation_count": 109,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "c0a5ab71426072cc31c5d2f3823ed62c7588aa126d0e42ec8447f5f1764fefafi0",
-      "title": "Parent (4 children)",
-      "title_source": "content",
-      "height": 948702,
       "relation_count": 109,
       "content_type": "text/plain;charset=utf-8"
     },
@@ -110179,6 +110179,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "b5988789ee848304bea5dbe0fe2f465db7c14262653965f583750227f49ed209i0",
+      "title": "881852.bitmap",
+      "title_source": "content",
+      "height": 881852,
+      "relation_count": 4,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "b5e7bb1d74ac2aaf7a7c803f01bc7d6ea15e8900e384da864553f8fc83cb479ai0",
       "title": "thecolorblocks.art",
       "title_source": "content",
@@ -129369,14 +129377,6 @@
       "height": 813556,
       "relation_count": 3,
       "content_type": "text/markdown;charset=utf-8"
-    },
-    {
-      "id": "b5988789ee848304bea5dbe0fe2f465db7c14262653965f583750227f49ed209i0",
-      "title": "881852.bitmap",
-      "title_source": "content",
-      "height": 881852,
-      "relation_count": 3,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "b5baf1d34d2c4487932f825e254e6ade41ba909b1b6f472eaae6fff212852fddi0",
