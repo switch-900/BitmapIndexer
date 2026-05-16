@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52953,
-  "total_relations": 2479348,
-  "distinct_targets": 2433293,
-  "updatedAt": "2026-05-16T20:32:13.771Z",
+  "total_relations": 2479349,
+  "distinct_targets": 2433294,
+  "updatedAt": "2026-05-16T20:53:10.442Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -170835,6 +170835,14 @@
       "content_type": null
     },
     {
+      "id": "a0460a5f15433631489b7b27e26a2202e737d57325d4e9651c5023951d34afb8i69",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 948207,
+      "relation_count": 2,
+      "content_type": null
+    },
+    {
       "id": "a04f2c9b4dca6a85b3b9ddc8d18f4cce3af51b0271962f83225e86722bba8593i0",
       "title": "'goose-pfp-638526' by Dmitri Cherniak",
       "title_source": "content",
@@ -331156,14 +331164,6 @@
     },
     {
       "id": "a0460a5f15433631489b7b27e26a2202e737d57325d4e9651c5023951d34afb8i623",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 948207,
-      "relation_count": 1,
-      "content_type": null
-    },
-    {
-      "id": "a0460a5f15433631489b7b27e26a2202e737d57325d4e9651c5023951d34afb8i69",
       "title": "Parent (1 children)",
       "title_source": "content",
       "height": 948207,
