@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52953,
-  "total_relations": 2479366,
-  "distinct_targets": 2433311,
-  "updatedAt": "2026-05-16T21:49:33.505Z",
+  "total_relations": 2479369,
+  "distinct_targets": 2433314,
+  "updatedAt": "2026-05-16T21:57:09.985Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -5099,6 +5099,14 @@
       "content_type": "image/svg+xml"
     },
     {
+      "id": "b1c5baa2593b256068635bbc475e0cc439d66c2dcf12e9de6f3aaeaf96ff818bi0",
+      "title": "Parent (160 children)",
+      "title_source": "content",
+      "height": 773205,
+      "relation_count": 241,
+      "content_type": "image/jpeg"
+    },
+    {
       "id": "ecbbed32e598ffefee51884f81b5d21c57d3cfe3f4d6a643415fd126b3129996i0",
       "title": "YOU CANNOT CENSOR THIS! ORDINALS ARE IMMUTABLE! BITCOIN IS A FILE SYSTEM!",
       "title_source": "content",
@@ -5145,14 +5153,6 @@
       "height": 837482,
       "relation_count": 238,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "b1c5baa2593b256068635bbc475e0cc439d66c2dcf12e9de6f3aaeaf96ff818bi0",
-      "title": "Parent (160 children)",
-      "title_source": "content",
-      "height": 773205,
-      "relation_count": 238,
-      "content_type": "image/jpeg"
     },
     {
       "id": "d0153022fd0a35170708f9ddfb77529320cb9e662f5f0be3c1f0f3b7befbf749i0",
