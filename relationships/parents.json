@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52948,
-  "total_relations": 2479211,
-  "distinct_targets": 2433156,
-  "updatedAt": "2026-05-16T04:22:53.355Z",
+  "total_relations": 2479214,
+  "distinct_targets": 2433159,
+  "updatedAt": "2026-05-16T04:36:56.747Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -5587,6 +5587,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "b1c5baa2593b256068635bbc475e0cc439d66c2dcf12e9de6f3aaeaf96ff818bi0",
+      "title": "Parent (160 children)",
+      "title_source": "content",
+      "height": 773205,
+      "relation_count": 202,
+      "content_type": "image/jpeg"
+    },
+    {
       "id": "2014983d6ddec031ded1e48e6a6bff8832619a65944508b05b13036291bad8ffi0",
       "title": "Pop Art Maxi Biz",
       "title_source": "content",
@@ -5697,14 +5705,6 @@
       "height": 863347,
       "relation_count": 200,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "b1c5baa2593b256068635bbc475e0cc439d66c2dcf12e9de6f3aaeaf96ff818bi0",
-      "title": "Parent (160 children)",
-      "title_source": "content",
-      "height": 773205,
-      "relation_count": 199,
-      "content_type": "image/jpeg"
     },
     {
       "id": "dd212b6f275abc10f4598ee74013d6fe7cd4529381ff669dfe7f821270b70a30i0",
@@ -170237,7 +170237,7 @@
     {
       "id": "9c252f2af53c542cb1a869862867af4835b197cd9e0e42e8ab4c462bbdd72d06i0",
       "title": "Parent (2 children)",
-      "title_source": "unknown",
+      "title_source": "content",
       "height": 795640,
       "relation_count": 2,
       "content_type": "image/gif"
