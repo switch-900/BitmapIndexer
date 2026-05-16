@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52947,
-  "total_relations": 2479194,
-  "distinct_targets": 2433139,
-  "updatedAt": "2026-05-16T01:43:34.835Z",
+  "total_relations": 2479195,
+  "distinct_targets": 2433140,
+  "updatedAt": "2026-05-16T01:50:59.951Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -16515,6 +16515,14 @@
       "content_type": "image/webp"
     },
     {
+      "id": "b71ee44bf1e13e8856e99b0d68c7f68921797c2e3e5a88b95286eb093fa13356i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 938893,
+      "relation_count": 50,
+      "content_type": "image/jpeg"
+    },
+    {
       "id": "b8746446fd49b2ef233857846f051422b938369f743f9bc682820ef7f7d00aadi187",
       "title": "Parent (50 children)",
       "title_source": "content",
@@ -17617,14 +17625,6 @@
       "height": 892450,
       "relation_count": 48,
       "content_type": "image/svg+xml"
-    },
-    {
-      "id": "b71ee44bf1e13e8856e99b0d68c7f68921797c2e3e5a88b95286eb093fa13356i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 938893,
-      "relation_count": 48,
-      "content_type": "image/jpeg"
     },
     {
       "id": "b8746446fd49b2ef233857846f051422b938369f743f9bc682820ef7f7d00aadi456",
@@ -57091,6 +57091,14 @@
       "content_type": null
     },
     {
+      "id": "8364ada14a420eff704c0eeca009c8460769879fdfd70270ff4a3b1c92cbe482i0",
+      "title": "Gentleman: Special Edition 2026 by Lemonhaze",
+      "title_source": "content",
+      "height": 930391,
+      "relation_count": 11,
+      "content_type": "text/html"
+    },
+    {
       "id": "85037ca2b63d9987ecef2c1be639f56a6985663d4d44a532cca44b0b4476c71ci707",
       "title": "Parent (11 children)",
       "title_source": "content",
@@ -60873,14 +60881,6 @@
       "height": 874298,
       "relation_count": 10,
       "content_type": null
-    },
-    {
-      "id": "8364ada14a420eff704c0eeca009c8460769879fdfd70270ff4a3b1c92cbe482i0",
-      "title": "Gentleman: Special Edition 2026 by Lemonhaze",
-      "title_source": "content",
-      "height": 930391,
-      "relation_count": 10,
-      "content_type": "text/html"
     },
     {
       "id": "85037ca2b63d9987ecef2c1be639f56a6985663d4d44a532cca44b0b4476c71ci1398",
