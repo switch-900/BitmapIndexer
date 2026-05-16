@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52948,
-  "total_relations": 2479253,
-  "distinct_targets": 2433198,
-  "updatedAt": "2026-05-16T08:44:13.902Z",
+  "total_relations": 2479256,
+  "distinct_targets": 2433201,
+  "updatedAt": "2026-05-16T08:57:32.382Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -7003,6 +7003,14 @@
       "content_type": "text/html"
     },
     {
+      "id": "a5bfc0aad1d2c69b8abd3c7b4112c59a764f002df6c5257f86aa9a0ef408a5a7i0",
+      "title": "Parent (71 children)",
+      "title_source": "content",
+      "height": 906695,
+      "relation_count": 108,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "ae82733160803c151dd863bb9362d7c723259efc11c30a6681a16059f736908di0",
       "title": "Parent (108 children)",
       "title_source": "content",
@@ -7049,14 +7057,6 @@
       "height": 947853,
       "relation_count": 107,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "a5bfc0aad1d2c69b8abd3c7b4112c59a764f002df6c5257f86aa9a0ef408a5a7i0",
-      "title": "Parent (71 children)",
-      "title_source": "content",
-      "height": 906695,
-      "relation_count": 107,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "bae5a50c1ac2b2378093fa0852af5915744edb04a6656a48a214df5533277050i0",
@@ -8803,6 +8803,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "124e3cd445f134c489dd50f94cc232a41138277a3f8ed70f0deea7cff3a58d95i0",
+      "title": "Parent (16 children)",
+      "title_source": "content",
+      "height": 941148,
+      "relation_count": 93,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "44909a76bf461c5ddcce433cdf9bd1e238af677023078ae6be2734cfc55b0e15i0",
       "title": "Parent (93 children)",
       "title_source": "content",
@@ -8864,14 +8872,6 @@
       "title_source": "content",
       "height": 882428,
       "relation_count": 92,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "124e3cd445f134c489dd50f94cc232a41138277a3f8ed70f0deea7cff3a58d95i0",
-      "title": "Parent (16 children)",
-      "title_source": "content",
-      "height": 941148,
-      "relation_count": 91,
       "content_type": "text/plain;charset=utf-8"
     },
     {
