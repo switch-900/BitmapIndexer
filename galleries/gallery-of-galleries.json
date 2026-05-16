@@ -5,10 +5,10 @@
     "title": "Gallery of Galleries",
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
-  "count": 787,
-  "total_relations": 922977,
-  "distinct_targets": 722651,
-  "updatedAt": "2026-05-16T01:02:08.215Z",
+  "count": 788,
+  "total_relations": 923172,
+  "distinct_targets": 722705,
+  "updatedAt": "2026-05-16T01:10:15.453Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -6305,6 +6305,14 @@
       "height": 949528,
       "item_count": 297,
       "content_type": "image/png"
+    },
+    {
+      "id": "57e2dfe1934e99164facd4b352b2d00f6cb57bfec530cd0933489ca6c9679747i0",
+      "title": "Banknotes Whitepaper",
+      "title_source": "content",
+      "height": 949584,
+      "item_count": 195,
+      "content_type": "text/html"
     }
   ]
 }
