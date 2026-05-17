@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-17T23:15:37.929Z",
+  "generated_at": "2026-05-17T23:24:39.261Z",
   "format": "metadata-dedup-v2",
   "source": "ord:/r/metadata/{inscription_id}",
   "scan_complete": true,
-  "scanned_count": 126859604,
-  "total_inscriptions": 126859604,
-  "next_row_id": 157122378,
-  "ord_tip": 949866,
-  "count": 1644228,
+  "scanned_count": 126859624,
+  "total_inscriptions": 126859624,
+  "next_row_id": 157122398,
+  "ord_tip": 949867,
+  "count": 1644231,
   "rows_per_file": 50000,
   "files": [
     {
@@ -203,10 +203,10 @@
       "count": 50000
     },
     {
-      "file": "inscriptions-1600000-1644227.json",
+      "file": "inscriptions-1600000-1644230.json",
       "start_index": 1600000,
-      "end_index": 1644227,
-      "count": 44228
+      "end_index": 1644230,
+      "count": 44231
     }
   ]
 }
