@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 52966,
-  "total_relations": 2479520,
-  "distinct_targets": 2433465,
-  "updatedAt": "2026-05-17T17:28:26.042Z",
+  "count": 52967,
+  "total_relations": 2479523,
+  "distinct_targets": 2433468,
+  "updatedAt": "2026-05-17T17:45:50.999Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -2543,7 +2543,7 @@
       "title": "Parent (1 children)",
       "title_source": "content",
       "height": 945130,
-      "relation_count": 957,
+      "relation_count": 958,
       "content_type": "text/html"
     },
     {
@@ -30619,6 +30619,14 @@
       "content_type": "image/avif"
     },
     {
+      "id": "edd030e93170f254e0e8c5c69ddbb8e0ae2cce9b4a2371f32fd6a4ae8e149f40i0",
+      "title": "Parent (3 children)",
+      "title_source": "content",
+      "height": 943754,
+      "relation_count": 27,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "ede0286ddb9cc845bde6ac6ab09dbe5e47f18dfa0f76fd19b08759eeff54a0c7i0",
       "title": "Debauched",
       "title_source": "content",
@@ -33545,14 +33553,6 @@
       "height": 877130,
       "relation_count": 24,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "edd030e93170f254e0e8c5c69ddbb8e0ae2cce9b4a2371f32fd6a4ae8e149f40i0",
-      "title": "Parent (3 children)",
-      "title_source": "content",
-      "height": 943754,
-      "relation_count": 24,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "f510e37284130fdb620486e4568d5aed6f8703b9c2fed4eb42f85c02f9ce088ei0",
@@ -238265,6 +238265,14 @@
       "height": 874972,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
+    },
+    {
+      "id": "397cd69c3e17a584e87a3ab1fbfc70c65c4fd0842fa01ca4bf0c7d56118519fbi0",
+      "title": "Parent (1 children)",
+      "title_source": "unknown",
+      "height": 938051,
+      "relation_count": 1,
+      "content_type": "text/html"
     },
     {
       "id": "398320a9ee2b21683c014a64b8bcba119ac5a3e69325441f395bd10f57d4c803i0",
