@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 52957,
-  "total_relations": 2479418,
-  "distinct_targets": 2433363,
-  "updatedAt": "2026-05-17T04:37:09.450Z",
+  "count": 52959,
+  "total_relations": 2479419,
+  "distinct_targets": 2433364,
+  "updatedAt": "2026-05-17T04:50:39.584Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -2543,7 +2543,7 @@
       "title": "Parent (1 children)",
       "title_source": "content",
       "height": 945130,
-      "relation_count": 931,
+      "relation_count": 932,
       "content_type": "text/html"
     },
     {
@@ -236299,6 +236299,14 @@
       "content_type": "model/gltf-binary"
     },
     {
+      "id": "35f483b2021bd84cf08fd65ffce8aec7fbf6b2f69c776e52f5dbdb97e4d9a294i0",
+      "title": "Parent (1 children)",
+      "title_source": "unknown",
+      "height": 949751,
+      "relation_count": 1,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "35fc917b39f4703acadaf688183dd5e18753bfd168439bbf769aa091cd21004bi0",
       "title": "Parent (1 children)",
       "title_source": "content",
@@ -327011,6 +327019,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "99888c8b4505c424bcd6f8b6f1358fa713ad6c1db5dcd7588fbf6a2486b63269i0",
+      "title": "Parent (1 children)",
+      "title_source": "unknown",
+      "height": 949752,
+      "relation_count": 1,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "998c783fde4423c6c65524aca81e873590d83ec3f0ca2be0215d5372b575a006i0",
       "title": "'goose-pfp-559896' by Dmitri Cherniak",
       "title_source": "content",
@@ -392037,7 +392053,7 @@
     {
       "id": "d93115af048aa7027dc97e2735965bc419e44ae36b075fa5461279bd17a6fbd7i0",
       "title": "Parent (1 children)",
-      "title_source": "unknown",
+      "title_source": "content",
       "height": 949751,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
