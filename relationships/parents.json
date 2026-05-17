@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52964,
-  "total_relations": 2479445,
-  "distinct_targets": 2433390,
-  "updatedAt": "2026-05-17T08:30:37.819Z",
+  "total_relations": 2479447,
+  "distinct_targets": 2433392,
+  "updatedAt": "2026-05-17T08:55:19.833Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -5107,20 +5107,20 @@
       "content_type": "image/svg+xml"
     },
     {
+      "id": "f3bad31afb2ed2cbf9be331ed2ead8f072366f76b7c33a87c6c9aab0f1f497efi0",
+      "title": "Parent (45 children)",
+      "title_source": "content",
+      "height": 941067,
+      "relation_count": 242,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "ecbbed32e598ffefee51884f81b5d21c57d3cfe3f4d6a643415fd126b3129996i0",
       "title": "YOU CANNOT CENSOR THIS! ORDINALS ARE IMMUTABLE! BITCOIN IS A FILE SYSTEM!",
       "title_source": "content",
       "height": 814118,
       "relation_count": 241,
       "content_type": "text/markdown;charset=utf-8"
-    },
-    {
-      "id": "f3bad31afb2ed2cbf9be331ed2ead8f072366f76b7c33a87c6c9aab0f1f497efi0",
-      "title": "Parent (45 children)",
-      "title_source": "content",
-      "height": 941067,
-      "relation_count": 241,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "b9726cda955366037c1fb890e594637adf560abce6db769403b9c04c7952d65ei0",
@@ -6291,6 +6291,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "124e3cd445f134c489dd50f94cc232a41138277a3f8ed70f0deea7cff3a58d95i0",
+      "title": "Parent (16 children)",
+      "title_source": "content",
+      "height": 941148,
+      "relation_count": 141,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "694fb25d3d299ac18e17aae2293e2b74c028c350d84bce56e4b3dbb3a77b00d8i0",
       "title": "Parent (129 children)",
       "title_source": "content",
@@ -6304,14 +6312,6 @@
       "title_source": "content",
       "height": 887858,
       "relation_count": 141,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "124e3cd445f134c489dd50f94cc232a41138277a3f8ed70f0deea7cff3a58d95i0",
-      "title": "Parent (16 children)",
-      "title_source": "content",
-      "height": 941148,
-      "relation_count": 140,
       "content_type": "text/plain;charset=utf-8"
     },
     {
