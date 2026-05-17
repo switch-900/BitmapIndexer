@@ -6,9 +6,9 @@
     "description": "All inscriptions that are used as delegate targets."
   },
   "count": 14149,
-  "total_relations": 2369432,
-  "distinct_targets": 2369432,
-  "updatedAt": "2026-05-17T16:11:43.507Z",
+  "total_relations": 2369433,
+  "distinct_targets": 2369433,
+  "updatedAt": "2026-05-17T16:20:11.390Z",
   "items": [
     {
       "id": "eb025023e3e7efb6b1dc1ab2ba21b41fbd7f5afbcc76b92e1fb74887c19858aai0",
@@ -3715,6 +3715,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "d751a9a9e1f1766d853620c919e035ce5d897d9b7b3c828eac766ca0d74df82bi0",
+      "title": "<!doctype html>",
+      "title_source": "content",
+      "height": 939506,
+      "relation_count": 200,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
       "id": "faa9e16748d647dbb93f9ed08eebd67e4c1289c97c820094bad8539e9cfea0bbi3",
       "title": "Delegate (200 inscriptions)",
       "title_source": "content",
@@ -3727,14 +3735,6 @@
       "title": "Eternal Pings",
       "title_source": "content",
       "height": 836019,
-      "relation_count": 199,
-      "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "d751a9a9e1f1766d853620c919e035ce5d897d9b7b3c828eac766ca0d74df82bi0",
-      "title": "<!doctype html>",
-      "title_source": "content",
-      "height": 939506,
       "relation_count": 199,
       "content_type": "text/html;charset=utf-8"
     },
