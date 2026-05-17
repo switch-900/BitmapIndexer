@@ -6,9 +6,9 @@
     "description": "All inscriptions that are used as delegate targets."
   },
   "count": 14149,
-  "total_relations": 2369437,
-  "distinct_targets": 2369437,
-  "updatedAt": "2026-05-17T21:24:30.475Z",
+  "total_relations": 2369438,
+  "distinct_targets": 2369438,
+  "updatedAt": "2026-05-17T21:31:55.482Z",
   "items": [
     {
       "id": "eb025023e3e7efb6b1dc1ab2ba21b41fbd7f5afbcc76b92e1fb74887c19858aai0",
@@ -3611,6 +3611,14 @@
       "content_type": "image/webp"
     },
     {
+      "id": "d751a9a9e1f1766d853620c919e035ce5d897d9b7b3c828eac766ca0d74df82bi0",
+      "title": "<!doctype html>",
+      "title_source": "content",
+      "height": 939506,
+      "relation_count": 202,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
       "id": "e0e733782d2b98828d96275cb2367c5393fd15f0621e3aa22723d6abad2fc9c8i0",
       "title": "Delegate (202 inscriptions)",
       "title_source": "content",
@@ -3623,14 +3631,6 @@
       "title": "NeonStacks: Signature Series",
       "title_source": "content",
       "height": 860193,
-      "relation_count": 201,
-      "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "d751a9a9e1f1766d853620c919e035ce5d897d9b7b3c828eac766ca0d74df82bi0",
-      "title": "<!doctype html>",
-      "title_source": "content",
-      "height": 939506,
       "relation_count": 201,
       "content_type": "text/html;charset=utf-8"
     },
