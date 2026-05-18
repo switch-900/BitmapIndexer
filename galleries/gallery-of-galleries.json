@@ -5,10 +5,10 @@
     "title": "Gallery of Galleries",
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
-  "count": 788,
+  "count": 789,
   "total_relations": 923172,
   "distinct_targets": 722705,
-  "updatedAt": "2026-05-18T03:32:37.650Z",
+  "updatedAt": "2026-05-18T03:47:59.725Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -6313,6 +6313,14 @@
       "height": 949584,
       "item_count": 195,
       "content_type": "text/html"
+    },
+    {
+      "id": "1d00cf4433480807f44dcdc3dbade93088c5323cc05a822f42a9f8b42528bd1bi0",
+      "title": "Chapter One: Floating Through Life",
+      "title_source": "item-title",
+      "height": 949887,
+      "item_count": 16,
+      "content_type": "image/jpeg"
     }
   ]
 }
