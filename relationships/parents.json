@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52969,
-  "total_relations": 2479682,
-  "distinct_targets": 2433627,
-  "updatedAt": "2026-05-18T10:14:38.656Z",
+  "total_relations": 2479684,
+  "distinct_targets": 2433629,
+  "updatedAt": "2026-05-18T10:19:52.034Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -2535,7 +2535,7 @@
       "title": "Parent (1 children)",
       "title_source": "content",
       "height": 945130,
-      "relation_count": 994,
+      "relation_count": 995,
       "content_type": "text/html"
     },
     {
@@ -6491,6 +6491,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "c0a5ab71426072cc31c5d2f3823ed62c7588aa126d0e42ec8447f5f1764fefafi0",
+      "title": "Parent (4 children)",
+      "title_source": "content",
+      "height": 948702,
+      "relation_count": 129,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "20b5d12182140debdfa2739e603abd94cc55c7b5993278c6209d82d222dd7b53i0",
       "title": "Parent (128 children)",
       "title_source": "content",
@@ -6503,14 +6511,6 @@
       "title": "Memory Blocks Collection",
       "title_source": "content",
       "height": 826625,
-      "relation_count": 128,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "c0a5ab71426072cc31c5d2f3823ed62c7588aa126d0e42ec8447f5f1764fefafi0",
-      "title": "Parent (4 children)",
-      "title_source": "content",
-      "height": 948702,
       "relation_count": 128,
       "content_type": "text/plain;charset=utf-8"
     },
