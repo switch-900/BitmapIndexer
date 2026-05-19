@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52972,
-  "total_relations": 2479905,
-  "distinct_targets": 2433850,
-  "updatedAt": "2026-05-19T13:12:12.641Z",
+  "total_relations": 2479906,
+  "distinct_targets": 2433851,
+  "updatedAt": "2026-05-19T13:21:08.057Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -2171,20 +2171,20 @@
       "content_type": "image/svg+xml"
     },
     {
+      "id": "0a1afeb6744b91306f6dac0fd4977a5529e3bc8f62cfe93844d69c08984c2e56i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 945130,
+      "relation_count": 1036,
+      "content_type": "text/html"
+    },
+    {
       "id": "5ab79ec91efa8bfbcb27a8de3b528035098d0ac9b0519a58d5160aeb9c04f733i0",
       "title": "Nocturnal Games",
       "title_source": "content",
       "height": 824212,
       "relation_count": 1036,
       "content_type": "application/json"
-    },
-    {
-      "id": "0a1afeb6744b91306f6dac0fd4977a5529e3bc8f62cfe93844d69c08984c2e56i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 945130,
-      "relation_count": 1035,
-      "content_type": "text/html"
     },
     {
       "id": "9b4326bf0b61b60d21871d063cd8f1c6f4202457bd8161a6744eff2a49a417afi0",
