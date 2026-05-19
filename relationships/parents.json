@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 52969,
-  "total_relations": 2479743,
-  "distinct_targets": 2433688,
-  "updatedAt": "2026-05-19T00:24:29.154Z",
+  "count": 52970,
+  "total_relations": 2479746,
+  "distinct_targets": 2433691,
+  "updatedAt": "2026-05-19T00:30:38.237Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -2199,7 +2199,7 @@
       "title": "Parent (1 children)",
       "title_source": "content",
       "height": 945130,
-      "relation_count": 1014,
+      "relation_count": 1015,
       "content_type": "text/html"
     },
     {
@@ -47363,6 +47363,14 @@
       "content_type": "image/png"
     },
     {
+      "id": "8b8b94fd72418bde8060ff631608f43cb2519b50b041139c16bf0958a7e0ada3i0",
+      "title": "Parent (2 children)",
+      "title_source": "content",
+      "height": 947510,
+      "relation_count": 15,
+      "content_type": "image/avif"
+    },
+    {
       "id": "8c6a4a8c3de9db347f422ad1a000da688fb23348f713f320512adc3076a131d8i0",
       "title": "dummy parent for files.json versions",
       "title_source": "content",
@@ -49177,14 +49185,6 @@
       "height": 844669,
       "relation_count": 14,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "8b8b94fd72418bde8060ff631608f43cb2519b50b041139c16bf0958a7e0ada3i0",
-      "title": "Parent (2 children)",
-      "title_source": "content",
-      "height": 947510,
-      "relation_count": 14,
-      "content_type": "image/avif"
     },
     {
       "id": "8df248387ed10821a403f7de4c08fea24fa626718c57ec99930e35f9676ac3e8i1386",
@@ -343657,6 +343657,14 @@
       "height": 899860,
       "relation_count": 1,
       "content_type": "application/json"
+    },
+    {
+      "id": "af803f746ace433a978c77be8ec2c6722225c52c0912cb86e53e026ae592c5cfi0",
+      "title": "Parent (1 children)",
+      "title_source": "unknown",
+      "height": 950011,
+      "relation_count": 1,
+      "content_type": "text/html;charset=utf-8"
     },
     {
       "id": "af82fe332dd2b05799fa823b60eba2928eb00f8b866f5adb42288c2b98ef1d1ci0",
