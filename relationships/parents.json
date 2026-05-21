@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52990,
-  "total_relations": 2480248,
-  "distinct_targets": 2434193,
-  "updatedAt": "2026-05-21T12:29:19.482Z",
+  "total_relations": 2480260,
+  "distinct_targets": 2434205,
+  "updatedAt": "2026-05-21T12:40:07.161Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -11859,6 +11859,14 @@
       "content_type": null
     },
     {
+      "id": "b91315601c0a392d23c53d3649403a73b924069e6a8b7105128dcafe8f4948e4i0",
+      "title": "Parent (5 children)",
+      "title_source": "content",
+      "height": 950320,
+      "relation_count": 64,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "c0104edbea1fd356f6b9059cd6073081b58b4050ff6e229d17a5feade3c30229i0",
       "title": "Microgradients",
       "title_source": "content",
@@ -14913,14 +14921,6 @@
       "height": 874388,
       "relation_count": 52,
       "content_type": null
-    },
-    {
-      "id": "b91315601c0a392d23c53d3649403a73b924069e6a8b7105128dcafe8f4948e4i0",
-      "title": "Parent (5 children)",
-      "title_source": "content",
-      "height": 950320,
-      "relation_count": 52,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "ba24f5030b96d0aaf175aea6d05a0ee010879257c76b1ee13106491dcab580f5i0",
