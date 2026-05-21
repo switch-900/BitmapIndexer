@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 52988,
-  "total_relations": 2480124,
-  "distinct_targets": 2434069,
-  "updatedAt": "2026-05-21T02:09:26.149Z",
+  "total_relations": 2480125,
+  "distinct_targets": 2434070,
+  "updatedAt": "2026-05-21T02:18:08.191Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -6435,6 +6435,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "c0a5ab71426072cc31c5d2f3823ed62c7588aa126d0e42ec8447f5f1764fefafi0",
+      "title": "Parent (4 children)",
+      "title_source": "content",
+      "height": 948702,
+      "relation_count": 134,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "c8cd0d86c32dba49f262e78f62b4b5ff338aee118590d5d4aff94c0b56b5565fi0",
       "title": "# BitcoinWhales Powered by Cypherpunk Lab Collaborates with the Bali Blockchain Center and Baliola",
       "title_source": "content",
@@ -6449,14 +6457,6 @@
       "height": 924785,
       "relation_count": 133,
       "content_type": "image/webp"
-    },
-    {
-      "id": "c0a5ab71426072cc31c5d2f3823ed62c7588aa126d0e42ec8447f5f1764fefafi0",
-      "title": "Parent (4 children)",
-      "title_source": "content",
-      "height": 948702,
-      "relation_count": 133,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "e81c44f03040662ba27e2d4e05772d4bcea506bd21165aef1bfbd426e6b5d912i0",
