@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 53005,
-  "total_relations": 2480440,
-  "distinct_targets": 2434385,
-  "updatedAt": "2026-05-23T03:17:52.287Z",
+  "total_relations": 2480441,
+  "distinct_targets": 2434386,
+  "updatedAt": "2026-05-23T03:46:15.345Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -11395,6 +11395,14 @@
       "content_type": null
     },
     {
+      "id": "9f89d07a7af51db2873d965947ce309053c34d0f2109f9f70e612692aea6e7b3i0",
+      "title": "Parent (12 children)",
+      "title_source": "content",
+      "height": 942818,
+      "relation_count": 67,
+      "content_type": "image/gif"
+    },
+    {
       "id": "a2c16ef0c8aa70acc62c035100513efafcd6c82844bc3f8933600886a990ec6bi0",
       "title": "JSNES forked by Lingle to Ord Spy vs Spy",
       "title_source": "content",
@@ -11505,14 +11513,6 @@
       "height": 874315,
       "relation_count": 66,
       "content_type": null
-    },
-    {
-      "id": "9f89d07a7af51db2873d965947ce309053c34d0f2109f9f70e612692aea6e7b3i0",
-      "title": "Parent (12 children)",
-      "title_source": "content",
-      "height": 942818,
-      "relation_count": 66,
-      "content_type": "image/gif"
     },
     {
       "id": "aa42f22684c435008ec9a27b5c06063ab3c07c82777d3f6d07dd90a324c9fc5ci734",
