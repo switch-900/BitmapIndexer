@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T21:16:45.568Z",
+  "generated_at": "2026-10-17T21:26:16.819Z",
   "scan_complete": false,
   "total_bitmaps": 971908,
-  "total_scanned": 963924,
-  "reinscribed_sat_count": 517,
-  "reinscribed_bitmap_count": 601,
-  "reinscription_count": 3360,
+  "total_scanned": 964924,
+  "reinscribed_sat_count": 518,
+  "reinscribed_bitmap_count": 602,
+  "reinscription_count": 3361,
   "bitmaps": [
     {
       "bitmap_number": 609,
@@ -20587,6 +20587,17 @@
         {
           "inscription_id": "bc4f84ec84ae0394e03d48856e3f6f5693a5e2050d0b6a13fddd8c7212282e3ci0",
           "block_height": 941858,
+          "metadata": null
+        }
+      ]
+    },
+    {
+      "bitmap_number": 964199,
+      "bitmap_inscription_id": "758f9c46b03c3f81144f2f117395b2a4946e22e5eb950f07b2bd3c70220f4d95i0",
+      "reinscriptions": [
+        {
+          "inscription_id": "203bb1c94ef8c90d8ba82134ad45cfa078425f92293b0c73a250c682ef8147e8i0",
+          "block_height": 964007,
           "metadata": null
         }
       ]
