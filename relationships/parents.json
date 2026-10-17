@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 53915,
-  "total_relations": 2545908,
-  "distinct_targets": 2499853,
-  "updatedAt": "2026-10-17T20:43:13.592Z",
+  "total_relations": 2545909,
+  "distinct_targets": 2499854,
+  "updatedAt": "2026-10-17T20:51:48.327Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -66483,6 +66483,14 @@
       "content_type": null
     },
     {
+      "id": "840cc880b57f696b818441598461df6f37613d2af8815e07c2aff19358d2a2bdi0",
+      "title": "BTC Degens",
+      "title_source": "content",
+      "height": 934635,
+      "relation_count": 9,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
       "id": "85037ca2b63d9987ecef2c1be639f56a6985663d4d44a532cca44b0b4476c71ci106",
       "title": "Parent (9 children)",
       "title_source": "content",
@@ -74279,14 +74287,6 @@
       "title": "<script src=\"/content/cdb13fe07fd8529aa06191903fb9838141fdb147fcdc28adc2e5e1e820d4e678i0\"></script>",
       "title_source": "content",
       "height": 890716,
-      "relation_count": 8,
-      "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "840cc880b57f696b818441598461df6f37613d2af8815e07c2aff19358d2a2bdi0",
-      "title": "BTC Degens",
-      "title_source": "content",
-      "height": 934635,
       "relation_count": 8,
       "content_type": "text/html;charset=utf-8"
     },
