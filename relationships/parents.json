@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 53915,
-  "total_relations": 2545902,
-  "distinct_targets": 2499847,
-  "updatedAt": "2026-10-17T20:34:41.145Z",
+  "total_relations": 2545908,
+  "distinct_targets": 2499853,
+  "updatedAt": "2026-10-17T20:43:13.592Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -4271,7 +4271,7 @@
       "title": "Parent (45 children)",
       "title_source": "content",
       "height": 941067,
-      "relation_count": 365,
+      "relation_count": 366,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -9419,6 +9419,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "1db4d965c940d096d397f0847951ffe16d8e0a03c69aa8a2d73d1aaa86f09787i0",
+      "title": "Parent (92 children)",
+      "title_source": "content",
+      "height": 969796,
+      "relation_count": 93,
+      "content_type": "text/html"
+    },
+    {
       "id": "34a8c8af79b36aa4bc6f4d73358eea05d15b3c5c310514a8a92ad36f704250f2i0",
       "title": "Parent (74 children)",
       "title_source": "content",
@@ -9465,14 +9473,6 @@
       "height": 921108,
       "relation_count": 93,
       "content_type": "image/avif"
-    },
-    {
-      "id": "1db4d965c940d096d397f0847951ffe16d8e0a03c69aa8a2d73d1aaa86f09787i0",
-      "title": "Parent (92 children)",
-      "title_source": "content",
-      "height": 969796,
-      "relation_count": 92,
-      "content_type": "text/html"
     },
     {
       "id": "35a1998824bc9c365b4586fa0acd728ec7745cc6da6cb70074a939ddc5431c4di0",
@@ -10579,6 +10579,14 @@
       "content_type": null
     },
     {
+      "id": "4a6c9f34880cac1e8a4cd33d4bb61864b5eb2a3bedd3119946f8e72e42deb1eei0",
+      "title": "Parent (17 children)",
+      "title_source": "content",
+      "height": 929866,
+      "relation_count": 77,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "68f2c56129444d867e3006e9bbf4b097c9303948469b4530f367267fbec0e314i0",
       "title": "Mirific",
       "title_source": "content",
@@ -10745,14 +10753,6 @@
       "height": 874297,
       "relation_count": 76,
       "content_type": null
-    },
-    {
-      "id": "4a6c9f34880cac1e8a4cd33d4bb61864b5eb2a3bedd3119946f8e72e42deb1eei0",
-      "title": "Parent (17 children)",
-      "title_source": "content",
-      "height": 929866,
-      "relation_count": 76,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "4b4779a0fefd41646542addb1c6ff2ddbb124fb7aad620621953750207994b17i697",
@@ -96715,6 +96715,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "50cd19e5dd9c13dc583c8988ca64ba0e698a6fcfe6e3ee747ff84c0adde90d62i0",
+      "title": "Bitmap Flyer Balloon Ads",
+      "title_source": "content",
+      "height": 971874,
+      "relation_count": 5,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
       "id": "50daeda2735d29b9a8b160abcc685d68aeb97d41a97ed28d5cd723f5f7912ee1i0",
       "title": "<!--🇿🦋🇿--><!DOCTYPE html><html><head><meta charset=\"UTF-8\"><style>html,body{margin:0;height:100%;overflow:hidden}iframe{width:100%;height:100%;border:0}</style><script>async function f(){const r=aw",
       "title_source": "content",
@@ -155537,14 +155545,6 @@
       "height": 777483,
       "relation_count": 2,
       "content_type": "image/jpeg"
-    },
-    {
-      "id": "50cd19e5dd9c13dc583c8988ca64ba0e698a6fcfe6e3ee747ff84c0adde90d62i0",
-      "title": "Bitmap Flyer Balloon Ads",
-      "title_source": "content",
-      "height": 971874,
-      "relation_count": 2,
-      "content_type": "text/html;charset=utf-8"
     },
     {
       "id": "50e1a29f05866f37d0fc28837706aaf9487c8144093dc6da7a25c04f8f380878i0",
