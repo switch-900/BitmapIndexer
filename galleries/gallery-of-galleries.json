@@ -5,10 +5,10 @@
     "title": "Gallery of Galleries",
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
-  "count": 1161,
-  "total_relations": 1165291,
-  "distinct_targets": 889427,
-  "updatedAt": "2026-10-18T11:35:07.038Z",
+  "count": 1162,
+  "total_relations": 1165306,
+  "distinct_targets": 889442,
+  "updatedAt": "2026-10-18T11:43:09.157Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -9291,6 +9291,14 @@
       "height": 971985,
       "item_count": 5,
       "content_type": "image/webp"
+    },
+    {
+      "id": "d76e6e25cdae184506c52847a4aa6a9b017d93a42fa8fda59ced2f8f6859a7c0i0",
+      "title": "Unspoken Truth #1",
+      "title_source": "item-title",
+      "height": 971987,
+      "item_count": 15,
+      "content_type": "text/html"
     }
   ]
 }
