@@ -5,10 +5,10 @@
     "title": "Gallery of Galleries",
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
-  "count": 1159,
-  "total_relations": 1165280,
-  "distinct_targets": 889416,
-  "updatedAt": "2026-10-18T09:17:33.572Z",
+  "count": 1160,
+  "total_relations": 1165286,
+  "distinct_targets": 889422,
+  "updatedAt": "2026-10-18T09:25:11.582Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -9275,6 +9275,14 @@
       "height": 971685,
       "item_count": 130,
       "content_type": "text/plain;charset=utf-8"
+    },
+    {
+      "id": "e12acc794b0efa95ab6cded34ad5bdce521ef49431ead492683e1782e959af02i0",
+      "title": "Liberation #1",
+      "title_source": "item-title",
+      "height": 971966,
+      "item_count": 6,
+      "content_type": "text/html;charset=utf-8"
     }
   ]
 }
