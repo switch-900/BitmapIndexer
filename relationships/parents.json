@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 53920,
-  "total_relations": 2546566,
-  "distinct_targets": 2500511,
-  "updatedAt": "2026-10-18T23:00:04.994Z",
+  "count": 53921,
+  "total_relations": 2546573,
+  "distinct_targets": 2500518,
+  "updatedAt": "2026-10-18T23:08:11.625Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -7091,6 +7091,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "07782002ba242591564b4dfdee0f098d268597e01e919c34f33bf640ca44dd7ai0",
+      "title": "Parent (10 children)",
+      "title_source": "content",
+      "height": 942314,
+      "relation_count": 121,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "6e35a437be8ae1570a5496947b6c2e44dad60c0bd44f1c864bc3589e694e7ffei0",
       "title": "Parent (121 children)",
       "title_source": "content",
@@ -7113,14 +7121,6 @@
       "height": 866330,
       "relation_count": 121,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "07782002ba242591564b4dfdee0f098d268597e01e919c34f33bf640ca44dd7ai0",
-      "title": "Parent (10 children)",
-      "title_source": "content",
-      "height": 942314,
-      "relation_count": 120,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "213524eba7f0e127a23531db66ce5167a4b0e2260c3a12573933209b88c1d878i0",
@@ -319481,6 +319481,14 @@
       "height": 830376,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
+    },
+    {
+      "id": "8902d73c42e8227f67fd0fe33ab54cdf51881e15f9f50c9df40f37d6cdb01c32i0",
+      "title": "0.bitmap — Genesis Block Ordinal",
+      "title_source": "content",
+      "height": 957848,
+      "relation_count": 1,
+      "content_type": "image/svg+xml"
     },
     {
       "id": "8903b8c31c819c6e14300a4c3484180bbf67755593a15c429d906acaf59e4e2ci0",
