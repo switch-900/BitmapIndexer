@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 53921,
-  "total_relations": 2546573,
-  "distinct_targets": 2500518,
-  "updatedAt": "2026-10-18T23:16:08.684Z",
+  "total_relations": 2546588,
+  "distinct_targets": 2500533,
+  "updatedAt": "2026-10-18T23:23:50.964Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -4695,7 +4695,7 @@
       "title": "Parent (101 children)",
       "title_source": "content",
       "height": 942400,
-      "relation_count": 315,
+      "relation_count": 316,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -19203,6 +19203,14 @@
       "content_type": "image/webp"
     },
     {
+      "id": "74c0a05efd609f994031a605a36bba3743578e9cef727fd43d5d3f02e224ce62i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 837418,
+      "relation_count": 46,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "8b8b94fd72418bde8060ff631608f43cb2519b50b041139c16bf0958a7e0ada3i0",
       "title": "Parent (2 children)",
       "title_source": "content",
@@ -26503,14 +26511,6 @@
       "title": "Disobedients",
       "title_source": "content",
       "height": 842314,
-      "relation_count": 32,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "74c0a05efd609f994031a605a36bba3743578e9cef727fd43d5d3f02e224ce62i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 837418,
       "relation_count": 32,
       "content_type": "text/plain;charset=utf-8"
     },
