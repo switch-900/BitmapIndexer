@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 53917,
-  "total_relations": 2546079,
-  "distinct_targets": 2500024,
-  "updatedAt": "2026-10-18T10:23:59.878Z",
+  "total_relations": 2546082,
+  "distinct_targets": 2500027,
+  "updatedAt": "2026-10-18T10:31:31.929Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -7059,6 +7059,14 @@
       "content_type": "image/webp"
     },
     {
+      "id": "92cce9b906c5b084372da2c4d7cf4c52a16030408abfe974947fb6801eeaa8eei0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 939379,
+      "relation_count": 123,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "cdef6ba4700ce442b2178524f4a69902b25224afa5ce7889fa3c58f7cbd5fdd6i0",
       "title": "REAL BLOCK ART CRYPTO MANIFESTO",
       "title_source": "content",
@@ -7137,14 +7145,6 @@
       "height": 836559,
       "relation_count": 120,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "92cce9b906c5b084372da2c4d7cf4c52a16030408abfe974947fb6801eeaa8eei0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 939379,
-      "relation_count": 120,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "9a26e9b2fefd6d96bf512196fa9da7c43f5e154acd7756657c9021dca82512b4i0",
