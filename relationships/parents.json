@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 53917,
-  "total_relations": 2546027,
-  "distinct_targets": 2499972,
-  "updatedAt": "2026-10-18T09:01:50.040Z",
+  "total_relations": 2546029,
+  "distinct_targets": 2499974,
+  "updatedAt": "2026-10-18T09:11:12.692Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -9483,6 +9483,14 @@
       "content_type": "image/avif"
     },
     {
+      "id": "039c5ac61e176312d194281491cdf3628a9008e36d36afe004eb05c4fd6399b2i0",
+      "title": "Parent (21 children)",
+      "title_source": "content",
+      "height": 906048,
+      "relation_count": 92,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "35a1998824bc9c365b4586fa0acd728ec7745cc6da6cb70074a939ddc5431c4di0",
       "title": "Parent (92 children)",
       "title_source": "content",
@@ -9520,14 +9528,6 @@
       "title_source": "content",
       "height": 882428,
       "relation_count": 92,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "039c5ac61e176312d194281491cdf3628a9008e36d36afe004eb05c4fd6399b2i0",
-      "title": "Parent (21 children)",
-      "title_source": "content",
-      "height": 906048,
-      "relation_count": 91,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -121403,6 +121403,14 @@
       "content_type": null
     },
     {
+      "id": "33a05df3f4f7209fce592e706e1741d245d4601b5e3f8fb27ffd94c21d5b20cbi0",
+      "title": "Block Pets",
+      "title_source": "content",
+      "height": 971888,
+      "relation_count": 3,
+      "content_type": "application/json"
+    },
+    {
       "id": "33c432abcfa9611c6c060585ab33316c2c98d2091fa98961f215f5b667427317i13",
       "title": "<script src=\"/content/cdb13fe07fd8529aa06191903fb9838141fdb147fcdc28adc2e5e1e820d4e678i0\"></script>",
       "title_source": "content",
@@ -147977,14 +147985,6 @@
       "height": 874384,
       "relation_count": 2,
       "content_type": "text/plain"
-    },
-    {
-      "id": "33a05df3f4f7209fce592e706e1741d245d4601b5e3f8fb27ffd94c21d5b20cbi0",
-      "title": "Block Pets",
-      "title_source": "content",
-      "height": 971888,
-      "relation_count": 2,
-      "content_type": "application/json"
     },
     {
       "id": "33c432abcfa9611c6c060585ab33316c2c98d2091fa98961f215f5b667427317i14",
