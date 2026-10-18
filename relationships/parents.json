@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 53919,
-  "total_relations": 2546464,
-  "distinct_targets": 2500409,
-  "updatedAt": "2026-10-18T19:44:32.073Z",
+  "total_relations": 2546465,
+  "distinct_targets": 2500410,
+  "updatedAt": "2026-10-18T19:52:11.064Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -114387,6 +114387,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "df83cc2a50e66851c652c48f2df127a8f261423ca774a9f1c2220b201cc18fc6i0",
+      "title": "Bitcoin is dreaming...",
+      "title_source": "content",
+      "height": 968930,
+      "relation_count": 4,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "dfd4c29aff6813df4b4289107372e801abdc49fe0ea3b3a1042c80a874c333c9i0",
       "title": "Parent (4 children)",
       "title_source": "content",
@@ -135777,14 +135785,6 @@
       "height": 848788,
       "relation_count": 3,
       "content_type": "text/plain; charset=utf-8"
-    },
-    {
-      "id": "df83cc2a50e66851c652c48f2df127a8f261423ca774a9f1c2220b201cc18fc6i0",
-      "title": "Bitcoin is dreaming...",
-      "title_source": "content",
-      "height": 968930,
-      "relation_count": 3,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "e0312fa044e0505a4cf449d4e1bc8d0ce37bbda905fa6521b88a8f2c86b952d9i0",
