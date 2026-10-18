@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 53918,
-  "total_relations": 2546323,
-  "distinct_targets": 2500268,
-  "updatedAt": "2026-10-18T14:13:10.463Z",
+  "total_relations": 2546328,
+  "distinct_targets": 2500273,
+  "updatedAt": "2026-10-18T14:32:15.598Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -3831,7 +3831,7 @@
       "title": "Parent (306 children)",
       "title_source": "content",
       "height": 905564,
-      "relation_count": 441,
+      "relation_count": 442,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -11323,6 +11323,14 @@
       "content_type": null
     },
     {
+      "id": "ec24703b438e82fd067e27ec5293ad4c7019f58ac36d98164454213ff908facci0",
+      "title": "Parent (41 children)",
+      "title_source": "content",
+      "height": 971615,
+      "relation_count": 73,
+      "content_type": "image/webp"
+    },
+    {
       "id": "083af7a0e1fb0548cbf9be0b3e74d252a8f2cdcc4cf39a2137a303056c2acc7ai0",
       "title": "Parent (64 children)",
       "title_source": "content",
@@ -11641,14 +11649,6 @@
       "height": 882676,
       "relation_count": 70,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "ec24703b438e82fd067e27ec5293ad4c7019f58ac36d98164454213ff908facci0",
-      "title": "Parent (41 children)",
-      "title_source": "content",
-      "height": 971615,
-      "relation_count": 70,
-      "content_type": "image/webp"
     },
     {
       "id": "ed29a75713aa7faf80f26cfa26a39ed45bf4ee7195a3073aa5270f93587ec547i0",
@@ -100051,6 +100051,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "b4d225aa5aa4485b8817321894fa2d3c00e8347afa2c9296dd703bf918e72095i0",
+      "title": "LAMB — Let All Men Bow",
+      "title_source": "content",
+      "height": 970812,
+      "relation_count": 5,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
       "id": "b578c0e50bc2d274abe9d3d5f457293dfd32fad6e5731a6ed1b8ac954a0b98f7i0",
       "title": "Parent (5 children)",
       "title_source": "content",
@@ -112049,14 +112057,6 @@
       "height": 944939,
       "relation_count": 4,
       "content_type": "image/svg+xml"
-    },
-    {
-      "id": "b4d225aa5aa4485b8817321894fa2d3c00e8347afa2c9296dd703bf918e72095i0",
-      "title": "LAMB — Let All Men Bow",
-      "title_source": "content",
-      "height": 970812,
-      "relation_count": 4,
-      "content_type": "text/html;charset=utf-8"
     },
     {
       "id": "b4e11aea41d985aaf95a5c8b208c506c6091bf185bdc3225e125da0f4d779b6di0",
