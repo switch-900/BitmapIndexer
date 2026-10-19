@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 53926,
-  "total_relations": 2548861,
-  "distinct_targets": 2502806,
-  "updatedAt": "2026-10-19T19:01:00.662Z",
+  "total_relations": 2549061,
+  "distinct_targets": 2503006,
+  "updatedAt": "2026-10-19T19:08:13.469Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -1571,6 +1571,14 @@
       "content_type": "image/webp"
     },
     {
+      "id": "c321d372d3d5ddc3b49fe354bc777a85529816e6d2e37e110049abb310da387ci0",
+      "title": "Trollbox",
+      "title_source": "content",
+      "height": 972100,
+      "relation_count": 2200,
+      "content_type": "application/json"
+    },
+    {
       "id": "1bbdfe3780c3acd4a9de18da873d8f59718293b7bdba66b123240f6b0a31baa1i0",
       "title": "anotherworld.btc",
       "title_source": "content",
@@ -1897,14 +1905,6 @@
       "height": 844783,
       "relation_count": 2000,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "c321d372d3d5ddc3b49fe354bc777a85529816e6d2e37e110049abb310da387ci0",
-      "title": "Trollbox",
-      "title_source": "content",
-      "height": 972100,
-      "relation_count": 2000,
-      "content_type": "application/json"
     },
     {
       "id": "8c797bf7edb8436c305b5ae6613bea30f3b9ea5a6d7cb25a394c9c3ce3944db6i0",
