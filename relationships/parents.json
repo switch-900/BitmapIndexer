@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 53925,
-  "total_relations": 2546812,
-  "distinct_targets": 2500757,
-  "updatedAt": "2026-10-19T16:07:43.503Z",
+  "count": 53926,
+  "total_relations": 2547427,
+  "distinct_targets": 2501372,
+  "updatedAt": "2026-10-19T16:33:14.570Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -2811,6 +2811,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "c321d372d3d5ddc3b49fe354bc777a85529816e6d2e37e110049abb310da387ci0",
+      "title": "Trollbox",
+      "title_source": "content",
+      "height": 972100,
+      "relation_count": 800,
+      "content_type": "application/json"
+    },
+    {
       "id": "cea5997f14628dc64cbf40186c59ad049cc268aa32eb2c0d44189a17bab87c72i0",
       "title": "Toasties",
       "title_source": "content",
@@ -4127,7 +4135,7 @@
       "title": "Parent (282 children)",
       "title_source": "content",
       "height": 837421,
-      "relation_count": 396,
+      "relation_count": 397,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -5395,6 +5403,14 @@
       "content_type": "image/jpeg"
     },
     {
+      "id": "95f22bcc757b2b24679ea80d7ac86f349eddf20feda677d8a100253ee3635048i0",
+      "title": "Parent (7 children)",
+      "title_source": "content",
+      "height": 949302,
+      "relation_count": 248,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "d262a9770456bc96ec8b081b2a52e775d1ae48822827cfbc7e04f771dd4afeb1i0",
       "title": "Parent (21 children)",
       "title_source": "content",
@@ -5409,14 +5425,6 @@
       "height": 957006,
       "relation_count": 247,
       "content_type": "image/gif"
-    },
-    {
-      "id": "95f22bcc757b2b24679ea80d7ac86f349eddf20feda677d8a100253ee3635048i0",
-      "title": "Parent (7 children)",
-      "title_source": "content",
-      "height": 949302,
-      "relation_count": 247,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "3cec7e3b38b6a8a206b98524c53ae78d48e1d2d4f1029600d993f84d1ce6011di0",
@@ -9939,6 +9947,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "3698a07f3bab12169df89b5bdceed2274cf6aa556c31500a26512e9a02f0a92ai0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 950492,
+      "relation_count": 85,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "5555577c4d30a17e6ce16830f3c3c56a314146561a9110899fb0223b685d77d4i0",
       "title": "Parent (85 children)",
       "title_source": "content",
@@ -10193,14 +10209,6 @@
       "height": 874146,
       "relation_count": 80,
       "content_type": null
-    },
-    {
-      "id": "3698a07f3bab12169df89b5bdceed2274cf6aa556c31500a26512e9a02f0a92ai0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 950492,
-      "relation_count": 80,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "414e24c4f125aa7cb8b084b18c6e2914aa2c2dfa5fc88b8df759b5941d2cf739i0",
@@ -11217,6 +11225,14 @@
       "height": 900036,
       "relation_count": 74,
       "content_type": "image/gif"
+    },
+    {
+      "id": "e53c9952808bea9288bd9fa749b1d166430d057b5c183f164ee49914ffabb2ddi0",
+      "title": "scripture-in-code",
+      "title_source": "content",
+      "height": 972122,
+      "relation_count": 74,
+      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "f1a3517ba79026f7e7a144dd4c97c95e4d671ad3f76591f6315f8ce2774e8bf4i0",
@@ -15105,14 +15121,6 @@
       "height": 913235,
       "relation_count": 54,
       "content_type": null
-    },
-    {
-      "id": "e53c9952808bea9288bd9fa749b1d166430d057b5c183f164ee49914ffabb2ddi0",
-      "title": "scripture-in-code",
-      "title_source": "content",
-      "height": 972122,
-      "relation_count": 54,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "f71768088373ef507af53b53490d09605737fd13823d0cfec8741f132d94b28bi244",
