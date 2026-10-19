@@ -6,9 +6,9 @@
     "description": "All inscriptions that are used as delegate targets."
   },
   "count": 14712,
-  "total_relations": 2387635,
-  "distinct_targets": 2387635,
-  "updatedAt": "2026-10-19T12:46:13.015Z",
+  "total_relations": 2387636,
+  "distinct_targets": 2387636,
+  "updatedAt": "2026-10-19T12:52:58.200Z",
   "items": [
     {
       "id": "eb025023e3e7efb6b1dc1ab2ba21b41fbd7f5afbcc76b92e1fb74887c19858aai0",
@@ -3587,20 +3587,20 @@
       "content_type": "image/png"
     },
     {
+      "id": "ed5ded069b953b97ce6deaf4fabd93c003acb9bb42cd24094218192d8ebb48adi0",
+      "title": "Delegate (148 inscriptions)",
+      "title_source": "content",
+      "height": 830232,
+      "relation_count": 223,
+      "content_type": "model/gltf-binary"
+    },
+    {
       "id": "fc7772622de8b3db9f3d63a4a14ce90d11dc8135aa72e12989ec6570bb8fc781i0",
       "title": "Three.js 3D Rainbow",
       "title_source": "content",
       "height": 849456,
       "relation_count": 223,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "ed5ded069b953b97ce6deaf4fabd93c003acb9bb42cd24094218192d8ebb48adi0",
-      "title": "Delegate (148 inscriptions)",
-      "title_source": "content",
-      "height": 830232,
-      "relation_count": 222,
-      "content_type": "model/gltf-binary"
     },
     {
       "id": "f0c09e8f179f321eedf9756a41c730fca988727796e35612cd810e7f6b390881i0",
