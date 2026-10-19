@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 53924,
-  "total_relations": 2546677,
-  "distinct_targets": 2500622,
-  "updatedAt": "2026-10-19T12:26:19.279Z",
+  "total_relations": 2546709,
+  "distinct_targets": 2500654,
+  "updatedAt": "2026-10-19T12:34:40.487Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -5403,6 +5403,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "73e93e463b6315db30f5ea3bb1f0d4ef0c5e80832ef84bb81803dd163db75515i0",
+      "title": "Parent (20 children)",
+      "title_source": "content",
+      "height": 957006,
+      "relation_count": 247,
+      "content_type": "image/gif"
+    },
+    {
       "id": "95f22bcc757b2b24679ea80d7ac86f349eddf20feda677d8a100253ee3635048i0",
       "title": "Parent (7 children)",
       "title_source": "content",
@@ -5713,14 +5721,6 @@
       "height": 794909,
       "relation_count": 219,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "73e93e463b6315db30f5ea3bb1f0d4ef0c5e80832ef84bb81803dd163db75515i0",
-      "title": "Parent (20 children)",
-      "title_source": "content",
-      "height": 957006,
-      "relation_count": 218,
-      "content_type": "image/gif"
     },
     {
       "id": "63c9f2c20474f4a0dac2d56ad7d7acda38810752d2768797de908b4b968efcdai0",
@@ -68099,6 +68099,14 @@
       "content_type": "image/webp"
     },
     {
+      "id": "e53c9952808bea9288bd9fa749b1d166430d057b5c183f164ee49914ffabb2ddi0",
+      "title": "scripture-in-code",
+      "title_source": "content",
+      "height": 972122,
+      "relation_count": 9,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "e54136460f9a59fc1681a66e463db4dab22b1739dc9f5fe0f3360daaac937413i10",
       "title": "<script src=\"/content/cdb13fe07fd8529aa06191903fb9838141fdb147fcdc28adc2e5e1e820d4e678i0\"></script>",
       "title_source": "content",
@@ -93521,14 +93529,6 @@
       "height": 777545,
       "relation_count": 6,
       "content_type": "image/jpeg"
-    },
-    {
-      "id": "e53c9952808bea9288bd9fa749b1d166430d057b5c183f164ee49914ffabb2ddi0",
-      "title": "scripture-in-code",
-      "title_source": "content",
-      "height": 972122,
-      "relation_count": 6,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "e672d4791888c2eff84f4be9acb2e616225382c5248e7cdc2333b40f7b5275a2i0",
