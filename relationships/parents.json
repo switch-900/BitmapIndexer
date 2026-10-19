@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 53924,
-  "total_relations": 2546715,
-  "distinct_targets": 2500660,
-  "updatedAt": "2026-10-19T12:52:57.862Z",
+  "total_relations": 2546718,
+  "distinct_targets": 2500663,
+  "updatedAt": "2026-10-19T13:01:06.500Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -3287,7 +3287,7 @@
       "title": "Parent (449 children)",
       "title_source": "content",
       "height": 837179,
-      "relation_count": 577,
+      "relation_count": 578,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -4011,20 +4011,20 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "4d16653627c8609161425ac9f24b5fe6b02ca804bf6739c35aebe9db03d358aai0",
+      "title": "Parent (280 children)",
+      "title_source": "content",
+      "height": 837151,
+      "relation_count": 419,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "e85a409f31626d0fc20be71bba3a2a225c1a6f110390dec9a6bc107da91470adi0",
       "title": "Parent (419 children)",
       "title_source": "content",
       "height": 964356,
       "relation_count": 419,
       "content_type": "image/png"
-    },
-    {
-      "id": "4d16653627c8609161425ac9f24b5fe6b02ca804bf6739c35aebe9db03d358aai0",
-      "title": "Parent (280 children)",
-      "title_source": "content",
-      "height": 837151,
-      "relation_count": 418,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "048341533f602bd8f0582ecd1d87f424615db1a4c301defaf3a1925f3f199609i0",
@@ -59763,6 +59763,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "e53c9952808bea9288bd9fa749b1d166430d057b5c183f164ee49914ffabb2ddi0",
+      "title": "scripture-in-code",
+      "title_source": "content",
+      "height": 972122,
+      "relation_count": 11,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "e6df4ae8390c8f10b859cbaff430956ad53ea7e747ac0bb972a0b4c8a40390f0i0",
       "title": "blessed",
       "title_source": "content",
@@ -64057,14 +64065,6 @@
       "height": 924878,
       "relation_count": 10,
       "content_type": "text/html"
-    },
-    {
-      "id": "e53c9952808bea9288bd9fa749b1d166430d057b5c183f164ee49914ffabb2ddi0",
-      "title": "scripture-in-code",
-      "title_source": "content",
-      "height": 972122,
-      "relation_count": 10,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "e5533a6f88714ebdc27b992a1e6723bf778b5806879600c1b1b829ca1175bfc7i0",
