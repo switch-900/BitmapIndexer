@@ -1,4 +1,4 @@
-{"generated_at":"2026-10-19T03:40:35.582Z","format":"metadata-dedup-v2","start_index":1650000,"end_index":1699065,"count":49066,"unique_metadata_count":45281,"inscriptions":[
+{"generated_at":"2026-10-19T04:03:15.971Z","format":"metadata-dedup-v2","start_index":1650000,"end_index":1699067,"count":49068,"unique_metadata_count":45283,"inscriptions":[
 {"inscription_id":"746f78f499f5694523e26b3d5d688ed6423549f115093470227dcb52bd6b944ai0","inscription_number":null,"block_height":954565,"content_type":"image/png","metaprotocol":null,"metadata_ref":"05cc2008fc5d1120004f3e3f"},
 {"inscription_id":"d59088b37e0577286537df6a2622b820d5a25068bb7d6a5bde7f57a197abc0a2i0","inscription_number":null,"block_height":954568,"content_type":"image/png","metaprotocol":null,"metadata_ref":"09ae2ffcb72d2886ffe92a44"},
 {"inscription_id":"49e7631c8ef7ef0401f131d6c0168a015e0e8ada4f7d8758366e7adc9902536fi0","inscription_number":null,"block_height":954570,"content_type":"image/png","metaprotocol":null,"metadata_ref":"ab2e53752cec3ba7b2fb5024"},
@@ -49064,7 +49064,9 @@
 {"inscription_id":"433a43cded0b68c1ed472ba872b590836435cd734660511ddf2d83e02a595811i0","inscription_number":null,"block_height":972010,"content_type":"text/html","metaprotocol":null,"metadata_ref":"b722031dd673769a7aaaaed2"},
 {"inscription_id":"1de5695ee487211938eccf5f866f5f7f62ea84b16308023fcf1fb1c8c68d7a91i0","inscription_number":null,"block_height":972010,"content_type":"text/html","metaprotocol":null,"metadata_ref":"b070568836537145e753acd4"},
 {"inscription_id":"f9344b6152deebd540cbd709810cbf36657e1cd11aa813f972857284a50139f1i0","inscription_number":null,"block_height":972010,"content_type":"text/html","metaprotocol":null,"metadata_ref":"362f7812ef91b2ed0d9a20bf"},
-{"inscription_id":"40e74815b6c0ed200dca27ba5b28df2fde6dd5c6a3afccfe85e8525313a464f6i0","inscription_number":null,"block_height":972010,"content_type":"text/html","metaprotocol":null,"metadata_ref":"61c25faed3e4666998ffd60d"}
+{"inscription_id":"40e74815b6c0ed200dca27ba5b28df2fde6dd5c6a3afccfe85e8525313a464f6i0","inscription_number":null,"block_height":972010,"content_type":"text/html","metaprotocol":null,"metadata_ref":"61c25faed3e4666998ffd60d"},
+{"inscription_id":"e3438543b454b539c9fb296bf3901f526b49658b6b5bbc223ef090be79b9be78i0","inscription_number":null,"block_height":972021,"content_type":"text/html","metaprotocol":null,"metadata_ref":"dd8c3bc079bc55c589eb0172"},
+{"inscription_id":"56aa2ec1fb363525c2b0e0d26d8ecd1b121dc7b6bdb6b16c49a2a64f944bf5aei0","inscription_number":null,"block_height":972023,"content_type":"text/html","metaprotocol":null,"metadata_ref":"c9a9ad0cb6ee5162a98164df"}
 ],"metadata_items":[
 {"metadata_ref":"05cc2008fc5d1120004f3e3f","count":1,"inscription_ids":["746f78f499f5694523e26b3d5d688ed6423549f115093470227dcb52bd6b944ai0"],"metadata":{"name":"SODA #2298","drawn":"Nov 27, 2025","seed":"capital","software":"Aseprite v1.3.13 - MacBook Air M4 - Vertical Mouse"}},
 {"metadata_ref":"09ae2ffcb72d2886ffe92a44","count":1,"inscription_ids":["d59088b37e0577286537df6a2622b820d5a25068bb7d6a5bde7f57a197abc0a2i0"],"metadata":{"name":"SODA #2299","drawn":"Nov 27, 2025","seed":"captain","software":"Aseprite v1.3.13 - MacBook Air M4 - Vertical Mouse"}},
@@ -94346,5 +94348,7 @@
 {"metadata_ref":"b722031dd673769a7aaaaed2","count":1,"inscription_ids":["433a43cded0b68c1ed472ba872b590836435cd734660511ddf2d83e02a595811i0"],"metadata":{"Name":"Test #2","Collection":"Armada Test","Material":"Unobtanium","Power":"Omega Particle"}},
 {"metadata_ref":"b070568836537145e753acd4","count":1,"inscription_ids":["1de5695ee487211938eccf5f866f5f7f62ea84b16308023fcf1fb1c8c68d7a91i0"],"metadata":{"Name":"Test #1","Collection":"Armada Test","Material":"Iron","Power":"Rage"}},
 {"metadata_ref":"362f7812ef91b2ed0d9a20bf","count":1,"inscription_ids":["f9344b6152deebd540cbd709810cbf36657e1cd11aa813f972857284a50139f1i0"],"metadata":{"Name":"Test #3","Collection":"Armada Test","Material":"Meteorite","Power":"Hydrogen"}},
-{"metadata_ref":"61c25faed3e4666998ffd60d","count":1,"inscription_ids":["40e74815b6c0ed200dca27ba5b28df2fde6dd5c6a3afccfe85e8525313a464f6i0"],"metadata":{"Name":"Test #4","Collection":"Armada Test","Material":"Gold","Power":"Dark Matter"}}
+{"metadata_ref":"61c25faed3e4666998ffd60d","count":1,"inscription_ids":["40e74815b6c0ed200dca27ba5b28df2fde6dd5c6a3afccfe85e8525313a464f6i0"],"metadata":{"Name":"Test #4","Collection":"Armada Test","Material":"Gold","Power":"Dark Matter"}},
+{"metadata_ref":"dd8c3bc079bc55c589eb0172","count":1,"inscription_ids":["e3438543b454b539c9fb296bf3901f526b49658b6b5bbc223ef090be79b9be78i0"],"metadata":{"name":"Signal Field #1","collection":"Signal Field"}},
+{"metadata_ref":"c9a9ad0cb6ee5162a98164df","count":1,"inscription_ids":["56aa2ec1fb363525c2b0e0d26d8ecd1b121dc7b6bdb6b16c49a2a64f944bf5aei0"],"metadata":{"name":"Signal Field #2","collection":"Signal Field"}}
 ]}
