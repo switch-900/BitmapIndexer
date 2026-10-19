@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 53927,
-  "total_relations": 2549069,
-  "distinct_targets": 2503014,
-  "updatedAt": "2026-10-19T20:34:19.194Z",
+  "count": 53928,
+  "total_relations": 2549081,
+  "distinct_targets": 2503026,
+  "updatedAt": "2026-10-19T20:43:43.211Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -2239,7 +2239,7 @@
       "title": "Parent (877 children)",
       "title_source": "content",
       "height": 814730,
-      "relation_count": 1072,
+      "relation_count": 1073,
       "content_type": "image/png"
     },
     {
@@ -3827,6 +3827,14 @@
       "content_type": "text/plain"
     },
     {
+      "id": "d339c83430ffe2da6719d8f0d4ffe2e0609e2d7e54714ea90903c391c284bab1i0",
+      "title": "Parent (385 children)",
+      "title_source": "content",
+      "height": 908687,
+      "relation_count": 447,
+      "content_type": "image/avif"
+    },
+    {
       "id": "2e7f3d964d2c7f8b3a83d22c940c580b0892dac2df49740b3fedf8c7fffb4976i0",
       "title": "Parent (444 children)",
       "title_source": "content",
@@ -3841,14 +3849,6 @@
       "height": 905564,
       "relation_count": 443,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "d339c83430ffe2da6719d8f0d4ffe2e0609e2d7e54714ea90903c391c284bab1i0",
-      "title": "Parent (385 children)",
-      "title_source": "content",
-      "height": 908687,
-      "relation_count": 437,
-      "content_type": "image/avif"
     },
     {
       "id": "92024d5fbb4f524274d12b3bed894c97e1fe9a632d99952b4663a27245dc1128i0",
@@ -268709,7 +268709,7 @@
     {
       "id": "53c98986d28ad4aa5143e28a3533d03d3738000caa17828b4e29759c39a0fe86i220",
       "title": "Parent (1 children)",
-      "title_source": "unknown",
+      "title_source": "content",
       "height": 893150,
       "relation_count": 1,
       "content_type": "text/html;charset=utf-8"
@@ -321353,6 +321353,14 @@
       "height": 840388,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
+    },
+    {
+      "id": "8c17d2cccf4e2033962845b979549e2e42a688653a4cb83c7632abe66b0e1d2fi0",
+      "title": "DogCity mint rehearsal",
+      "title_source": "content",
+      "height": 972204,
+      "relation_count": 1,
+      "content_type": "text/html;charset=utf-8"
     },
     {
       "id": "8c19203389cc2c2795a3b4ff7371885ed527a9fd51a854bbc017f516f6e3f193i0",
