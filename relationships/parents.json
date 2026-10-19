@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 53923,
-  "total_relations": 2546618,
-  "distinct_targets": 2500563,
-  "updatedAt": "2026-10-19T07:00:24.030Z",
+  "total_relations": 2546634,
+  "distinct_targets": 2500579,
+  "updatedAt": "2026-10-19T07:07:37.381Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -28923,6 +28923,14 @@
       "content_type": null
     },
     {
+      "id": "c0c2b79cb0f65a27d4b27f0aa54dd9123213f91cdb217dc9e0a3fd0c5e1fe976i0",
+      "title": "Parent (15 children)",
+      "title_source": "content",
+      "height": 972110,
+      "relation_count": 30,
+      "content_type": "image/avif"
+    },
+    {
       "id": "c3abbb41d34fafd0a9b67701d6d0fe515684e9a90dac0abb2d966fcac86e6014i238",
       "title": "Parent (30 children)",
       "title_source": "content",
@@ -48993,14 +49001,6 @@
       "height": 838377,
       "relation_count": 15,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "c0c2b79cb0f65a27d4b27f0aa54dd9123213f91cdb217dc9e0a3fd0c5e1fe976i0",
-      "title": "Parent (15 children)",
-      "title_source": "content",
-      "height": 972110,
-      "relation_count": 15,
-      "content_type": "image/avif"
     },
     {
       "id": "c16619cf48c36ff39be9959bf3335783c9dce70a05a05ecba746fe5784ea1fe0i0",
@@ -93251,6 +93251,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "df83cc2a50e66851c652c48f2df127a8f261423ca774a9f1c2220b201cc18fc6i0",
+      "title": "Bitcoin is dreaming...",
+      "title_source": "content",
+      "height": 968930,
+      "relation_count": 6,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "e0d49a8f5a9fe12022add33d2bdee4634fa6db957957063d6f0b85c11f4d7232i1190",
       "title": "Parent (6 children)",
       "title_source": "content",
@@ -102129,14 +102137,6 @@
       "height": 955326,
       "relation_count": 5,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "df83cc2a50e66851c652c48f2df127a8f261423ca774a9f1c2220b201cc18fc6i0",
-      "title": "Bitcoin is dreaming...",
-      "title_source": "content",
-      "height": 968930,
-      "relation_count": 5,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "df9aa528493760967a6081e847bfe4b91c0344a6948fde8386ed64018f3767d2i0",
