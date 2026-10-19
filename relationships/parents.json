@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 53924,
-  "total_relations": 2546675,
-  "distinct_targets": 2500620,
-  "updatedAt": "2026-10-19T12:17:24.325Z",
+  "total_relations": 2546677,
+  "distinct_targets": 2500622,
+  "updatedAt": "2026-10-19T12:26:19.279Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -51955,6 +51955,14 @@
       "content_type": null
     },
     {
+      "id": "2892e0930ce838aeb9cfddbac2ede432e920692d140001da7e00aa8f546d1462i0",
+      "title": "Parent (4 children)",
+      "title_source": "content",
+      "height": 793971,
+      "relation_count": 13,
+      "content_type": "image/png"
+    },
+    {
       "id": "2ab5630260b0403bfeeffafdbce40a8868552bb03e72532212fa04eaea6a07ffi0",
       "title": "Parent (13 children)",
       "title_source": "content",
@@ -54447,14 +54455,6 @@
       "title": "Parent (12 children)",
       "title_source": "content",
       "height": 868771,
-      "relation_count": 12,
-      "content_type": "image/png"
-    },
-    {
-      "id": "2892e0930ce838aeb9cfddbac2ede432e920692d140001da7e00aa8f546d1462i0",
-      "title": "Parent (4 children)",
-      "title_source": "content",
-      "height": 793971,
       "relation_count": 12,
       "content_type": "image/png"
     },
@@ -93523,6 +93523,14 @@
       "content_type": "image/jpeg"
     },
     {
+      "id": "e53c9952808bea9288bd9fa749b1d166430d057b5c183f164ee49914ffabb2ddi0",
+      "title": "scripture-in-code",
+      "title_source": "content",
+      "height": 972122,
+      "relation_count": 6,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "e672d4791888c2eff84f4be9acb2e616225382c5248e7cdc2333b40f7b5275a2i0",
       "title": "201159.bitmap",
       "title_source": "content",
@@ -102343,14 +102351,6 @@
       "title": "Libraries",
       "title_source": "content",
       "height": 861032,
-      "relation_count": 5,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "e53c9952808bea9288bd9fa749b1d166430d057b5c183f164ee49914ffabb2ddi0",
-      "title": "scripture-in-code",
-      "title_source": "content",
-      "height": 972122,
       "relation_count": 5,
       "content_type": "text/plain;charset=utf-8"
     },
