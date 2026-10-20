@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 53936,
-  "total_relations": 2551242,
-  "distinct_targets": 2505187,
-  "updatedAt": "2026-10-20T16:40:48.699Z",
+  "total_relations": 2551250,
+  "distinct_targets": 2505195,
+  "updatedAt": "2026-10-20T16:48:58.575Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -3727,7 +3727,7 @@
       "title": "Parent (285 children)",
       "title_source": "content",
       "height": 929411,
-      "relation_count": 491,
+      "relation_count": 492,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -3843,20 +3843,20 @@
       "content_type": "image/avif"
     },
     {
+      "id": "f86f617c66ad7d64a9e07bc6edce1b7a12c08d5eda704e6889a1177dbfb22b9ei0",
+      "title": "Parent (306 children)",
+      "title_source": "content",
+      "height": 905564,
+      "relation_count": 445,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "2e7f3d964d2c7f8b3a83d22c940c580b0892dac2df49740b3fedf8c7fffb4976i0",
       "title": "Parent (444 children)",
       "title_source": "content",
       "height": 912304,
       "relation_count": 444,
       "content_type": "image/png"
-    },
-    {
-      "id": "f86f617c66ad7d64a9e07bc6edce1b7a12c08d5eda704e6889a1177dbfb22b9ei0",
-      "title": "Parent (306 children)",
-      "title_source": "content",
-      "height": 905564,
-      "relation_count": 444,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "92024d5fbb4f524274d12b3bed894c97e1fe9a632d99952b4663a27245dc1128i0",
@@ -6907,6 +6907,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "3698a07f3bab12169df89b5bdceed2274cf6aa556c31500a26512e9a02f0a92ai0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 950492,
+      "relation_count": 134,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "c8cd0d86c32dba49f262e78f62b4b5ff338aee118590d5d4aff94c0b56b5565fi0",
       "title": "# BitcoinWhales Powered by Cypherpunk Lab Collaborates with the Bali Blockchain Center and Baliola",
       "title_source": "content",
@@ -6977,14 +6985,6 @@
       "height": 866998,
       "relation_count": 129,
       "content_type": "image/svg+xml"
-    },
-    {
-      "id": "3698a07f3bab12169df89b5bdceed2274cf6aa556c31500a26512e9a02f0a92ai0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 950492,
-      "relation_count": 129,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "a5a3d5ae2bf69cc77db933391dee1828b18e16db377b90257b697e57c02e2f77i0",
@@ -181849,6 +181849,14 @@
       "height": 867003,
       "relation_count": 2,
       "content_type": "text/plain;charset=utf-8"
+    },
+    {
+      "id": "cb6c5b622de8e4d75650dd9ffe13808e4f7f34bac11201848f5d91a830e6b01di0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 972237,
+      "relation_count": 2,
+      "content_type": "image/png"
     },
     {
       "id": "cb71fc4793dc41cd2a0dc0409583527abd41373f04288b698c46655917ab8d4ci0",
@@ -373761,14 +373769,6 @@
       "height": 927550,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "cb6c5b622de8e4d75650dd9ffe13808e4f7f34bac11201848f5d91a830e6b01di0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 972237,
-      "relation_count": 1,
-      "content_type": "image/png"
     },
     {
       "id": "cb6d3e72b0a254940cbca3869a226b427df26f7b23ef07807ab421d91e95c963i0",
