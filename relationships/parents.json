@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 53936,
-  "total_relations": 2551317,
-  "distinct_targets": 2505262,
-  "updatedAt": "2026-10-20T22:05:12.007Z",
+  "total_relations": 2551332,
+  "distinct_targets": 2505277,
+  "updatedAt": "2026-10-20T22:14:18.399Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -3923,6 +3923,14 @@
       "content_type": "image/png"
     },
     {
+      "id": "4d16653627c8609161425ac9f24b5fe6b02ca804bf6739c35aebe9db03d358aai0",
+      "title": "Parent (280 children)",
+      "title_source": "content",
+      "height": 837151,
+      "relation_count": 420,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "592e10ddbed6bfaf8d9bf36756a4050b6582f71b16eb2df688df9a7d5616d29ai11",
       "title": "32.245307.bitmap",
       "title_source": "content",
@@ -4024,14 +4032,6 @@
       "title_source": "content",
       "height": 824502,
       "relation_count": 420,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "4d16653627c8609161425ac9f24b5fe6b02ca804bf6739c35aebe9db03d358aai0",
-      "title": "Parent (280 children)",
-      "title_source": "content",
-      "height": 837151,
-      "relation_count": 419,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -6531,6 +6531,14 @@
       "content_type": null
     },
     {
+      "id": "3698a07f3bab12169df89b5bdceed2274cf6aa556c31500a26512e9a02f0a92ai0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 950492,
+      "relation_count": 158,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "6a6e2a06e6ec37875a2a077d60dde89b68c0108786e71721de5b83e05a6d00d3i0",
       "title": "Parent (61 children)",
       "title_source": "content",
@@ -6713,14 +6721,6 @@
       "height": 836600,
       "relation_count": 148,
       "content_type": "image/webp"
-    },
-    {
-      "id": "3698a07f3bab12169df89b5bdceed2274cf6aa556c31500a26512e9a02f0a92ai0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 950492,
-      "relation_count": 146,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "4bb95e0f1f80565ba09f0eb0d885e61d492cfdc02b536fbdcdd7e2a8ec01fbd9i0",
@@ -49339,6 +49339,14 @@
       "content_type": null
     },
     {
+      "id": "d9d6067c537565a369c092a86f4cb577ec615e0679fe9bff802cdde69a3be6aai0",
+      "title": "Projects",
+      "title_source": "content",
+      "height": 944639,
+      "relation_count": 15,
+      "content_type": "text/plain"
+    },
+    {
       "id": "daf064a28fd61c3f6fdaa223a8f9080c60635c3caf691c3accc6f8f0a8935b93i0",
       "title": "<!--La Tentation Nº 0 by Lemonhaze-->",
       "title_source": "content",
@@ -51329,14 +51337,6 @@
       "height": 874533,
       "relation_count": 14,
       "content_type": null
-    },
-    {
-      "id": "d9d6067c537565a369c092a86f4cb577ec615e0679fe9bff802cdde69a3be6aai0",
-      "title": "Projects",
-      "title_source": "content",
-      "height": 944639,
-      "relation_count": 14,
-      "content_type": "text/plain"
     },
     {
       "id": "dda6838fc94fb3e787d7fcd950abdda43aab16f6fc9401d44b3c03f10095e271i1042",
@@ -59291,6 +59291,14 @@
       "content_type": "image/webp"
     },
     {
+      "id": "cb6c5b622de8e4d75650dd9ffe13808e4f7f34bac11201848f5d91a830e6b01di0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 972237,
+      "relation_count": 11,
+      "content_type": "image/png"
+    },
+    {
       "id": "cbc9fcf9373cbae36f4868d73a0ad78bbdc58af7c813e6319163e101a8cac8adi1089",
       "title": "Parent (11 children)",
       "title_source": "content",
@@ -63497,14 +63505,6 @@
       "height": 846310,
       "relation_count": 10,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "cb6c5b622de8e4d75650dd9ffe13808e4f7f34bac11201848f5d91a830e6b01di0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 972237,
-      "relation_count": 10,
-      "content_type": "image/png"
     },
     {
       "id": "cb82545ddff48f6be0206870f404cd79142007890c8882c1357087dc16c0d621i0",
