@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 53931,
+  "count": 53932,
   "total_relations": 2549161,
   "distinct_targets": 2503106,
-  "updatedAt": "2026-10-20T03:33:26.001Z",
+  "updatedAt": "2026-10-20T03:45:05.533Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -73595,6 +73595,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "6b1fab6a5dc5adcf3643698544fb4d06b51f4a3d996b729c0576a82ec796a0e1i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 972085,
+      "relation_count": 8,
+      "content_type": "image/avif"
+    },
+    {
       "id": "6f38f4adaf71f6afa49cd6b88f935eb218b2b0d9b0cf93a17e737f44a3259280i0",
       "title": "Parent (7 children)",
       "title_source": "content",
@@ -81953,14 +81961,6 @@
       "height": 890718,
       "relation_count": 7,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "6b1fab6a5dc5adcf3643698544fb4d06b51f4a3d996b729c0576a82ec796a0e1i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 972085,
-      "relation_count": 7,
-      "content_type": "image/avif"
     },
     {
       "id": "6b80cfa864dfec13723c95aee6255db3e5a1c611df262134de37794392e45dc8i0",
@@ -240231,6 +240231,14 @@
       "title": "Parent (1 children)",
       "title_source": "content",
       "height": 912681,
+      "relation_count": 1,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
+      "id": "35dfee445f466f9b582d90beb1a0254769a01d673627d92a6b8cc6799ebb9fe5i0",
+      "title": "DogCity deed rehearsal parent. Disposable. Not part of the city.",
+      "title_source": "content",
+      "height": 972253,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
     },
