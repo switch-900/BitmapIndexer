@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 53932,
-  "total_relations": 2550989,
-  "distinct_targets": 2504934,
-  "updatedAt": "2026-10-20T07:54:20.543Z",
+  "total_relations": 2551202,
+  "distinct_targets": 2505147,
+  "updatedAt": "2026-10-20T08:01:41.908Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -1907,6 +1907,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "7479cae5c5d2d601384aeabda9dcf14bd0affbd5ab48a856feb33eefa56037eai0",
+      "title": "Parent (7 children)",
+      "title_source": "content",
+      "height": 970478,
+      "relation_count": 1981,
+      "content_type": "image/webp"
+    },
+    {
       "id": "8c797bf7edb8436c305b5ae6613bea30f3b9ea5a6d7cb25a394c9c3ce3944db6i0",
       "title": "<!DOCTYPE html>",
       "title_source": "content",
@@ -1985,14 +1993,6 @@
       "height": 806183,
       "relation_count": 1788,
       "content_type": "image/png"
-    },
-    {
-      "id": "7479cae5c5d2d601384aeabda9dcf14bd0affbd5ab48a856feb33eefa56037eai0",
-      "title": "Parent (7 children)",
-      "title_source": "content",
-      "height": 970478,
-      "relation_count": 1768,
-      "content_type": "image/webp"
     },
     {
       "id": "8a833194c17428bec91c7c367862666c6174ad8b475cb8e9c527cfc94f0c2573i0",
@@ -9659,6 +9659,14 @@
       "content_type": "text/html"
     },
     {
+      "id": "e53c9952808bea9288bd9fa749b1d166430d057b5c183f164ee49914ffabb2ddi0",
+      "title": "scripture-in-code",
+      "title_source": "content",
+      "height": 972122,
+      "relation_count": 91,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "10958122ef80602b0f9a0c425afc95521691e43248d643d30d0e754b79a6cfc2i1245",
       "title": "Parent (90 children)",
       "title_source": "content",
@@ -10057,14 +10065,6 @@
       "height": 816513,
       "relation_count": 84,
       "content_type": "image/jpeg"
-    },
-    {
-      "id": "e53c9952808bea9288bd9fa749b1d166430d057b5c183f164ee49914ffabb2ddi0",
-      "title": "scripture-in-code",
-      "title_source": "content",
-      "height": 972122,
-      "relation_count": 84,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "08440898cbf38c3217c3701d0bca804d3343d40423085606d8087ac01ada1bd9i120",
