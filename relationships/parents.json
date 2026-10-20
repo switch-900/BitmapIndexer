@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 53933,
-  "total_relations": 2551221,
-  "distinct_targets": 2505166,
-  "updatedAt": "2026-10-20T12:23:59.806Z",
+  "count": 53934,
+  "total_relations": 2551222,
+  "distinct_targets": 2505167,
+  "updatedAt": "2026-10-20T12:32:52.850Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -292953,6 +292953,14 @@
       "height": 862795,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
+    },
+    {
+      "id": "69965238052a23f86cbf7ad1ab6eeb3f28f704fd30788b2709ff58a2e0374ef7i0",
+      "title": "NAKA Commemorative",
+      "title_source": "content",
+      "height": 972318,
+      "relation_count": 1,
+      "content_type": "application/json"
     },
     {
       "id": "6997340f8500494cefba5c14297072e8072e09a6ff66294eeb5c03cc9c1ca599i0",
