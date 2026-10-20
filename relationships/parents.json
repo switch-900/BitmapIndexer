@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 53936,
-  "total_relations": 2551251,
-  "distinct_targets": 2505196,
-  "updatedAt": "2026-10-20T17:19:06.575Z",
+  "total_relations": 2551252,
+  "distinct_targets": 2505197,
+  "updatedAt": "2026-10-20T17:28:14.258Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -55235,6 +55235,14 @@
       "content_type": "model/gltf-binary"
     },
     {
+      "id": "6b1fab6a5dc5adcf3643698544fb4d06b51f4a3d996b729c0576a82ec796a0e1i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 972085,
+      "relation_count": 12,
+      "content_type": "image/avif"
+    },
+    {
       "id": "6eb9de90ba8cbe4e5cdf3e40ed3864a840cc2463828294a38f0763f6cf6ec18di0",
       "title": "PLASMATICS (2024): A Visual Study of Vibration, Potential, and Emergence",
       "title_source": "content",
@@ -58249,14 +58257,6 @@
       "height": 790975,
       "relation_count": 11,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "6b1fab6a5dc5adcf3643698544fb4d06b51f4a3d996b729c0576a82ec796a0e1i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 972085,
-      "relation_count": 11,
-      "content_type": "image/avif"
     },
     {
       "id": "6e0c1faf4ea774dda2a308c308029c0e0479b47bceefa8505e21c03c2f886103i0",
