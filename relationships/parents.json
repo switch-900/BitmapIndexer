@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 53928,
-  "total_relations": 2549139,
-  "distinct_targets": 2503084,
-  "updatedAt": "2026-10-20T01:38:01.172Z",
+  "count": 53929,
+  "total_relations": 2549141,
+  "distinct_targets": 2503086,
+  "updatedAt": "2026-10-20T01:45:32.292Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -11307,6 +11307,14 @@
       "content_type": null
     },
     {
+      "id": "b71ee44bf1e13e8856e99b0d68c7f68921797c2e3e5a88b95286eb093fa13356i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 938893,
+      "relation_count": 73,
+      "content_type": "image/jpeg"
+    },
+    {
       "id": "c176e832ef0b71686cd416ed2ada8b08a1f735015af76600a472c3db6549af63i0",
       "title": "### Ordinals Chefs traits (https://x.com/ordichef_btc)",
       "title_source": "content",
@@ -11433,14 +11441,6 @@
       "height": 818321,
       "relation_count": 72,
       "content_type": "image/png"
-    },
-    {
-      "id": "b71ee44bf1e13e8856e99b0d68c7f68921797c2e3e5a88b95286eb093fa13356i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 938893,
-      "relation_count": 72,
-      "content_type": "image/jpeg"
     },
     {
       "id": "b8746446fd49b2ef233857846f051422b938369f743f9bc682820ef7f7d00aadi1270",
@@ -430017,6 +430017,14 @@
       "height": 864030,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
+    },
+    {
+      "id": "ff598145973e62baa32b84389d3752f90d40c2dcc55933c612e6b10ddff25cd6i0",
+      "title": "lot_keys",
+      "title_source": "content",
+      "height": 972237,
+      "relation_count": 1,
+      "content_type": "application/json"
     },
     {
       "id": "ff5a9e2245c7c313fde78ba382c02b326808b52c7151c4d4199a09412df76575i0",
