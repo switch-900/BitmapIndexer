@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 53936,
-  "total_relations": 2551280,
-  "distinct_targets": 2505225,
-  "updatedAt": "2026-10-20T19:40:50.804Z",
+  "total_relations": 2551281,
+  "distinct_targets": 2505226,
+  "updatedAt": "2026-10-20T19:49:24.956Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -92379,6 +92379,14 @@
       "content_type": "image/webp"
     },
     {
+      "id": "cb6c5b622de8e4d75650dd9ffe13808e4f7f34bac11201848f5d91a830e6b01di0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 972237,
+      "relation_count": 6,
+      "content_type": "image/png"
+    },
+    {
       "id": "cbae03919ee439a0aab005caf65f62ee496e40e79cfeef18824cff10caf5ef03i0",
       "title": "Joe Muczka Jr.",
       "title_source": "content",
@@ -100977,14 +100985,6 @@
       "height": 892141,
       "relation_count": 5,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "cb6c5b622de8e4d75650dd9ffe13808e4f7f34bac11201848f5d91a830e6b01di0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 972237,
-      "relation_count": 5,
-      "content_type": "image/png"
     },
     {
       "id": "cba6eb0e9ed89b4d6513e99b014c53270826d3b2a4dfccdb78242dc4b44d6993i0",
