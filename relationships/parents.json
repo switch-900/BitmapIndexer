@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 53938,
-  "total_relations": 2551471,
-  "distinct_targets": 2505416,
-  "updatedAt": "2026-10-21T17:06:43.769Z",
+  "count": 53939,
+  "total_relations": 2551472,
+  "distinct_targets": 2505417,
+  "updatedAt": "2026-10-21T17:13:27.076Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -228319,6 +228319,14 @@
       "title": "Parent (1 children)",
       "title_source": "content",
       "height": 855879,
+      "relation_count": 1,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
+      "id": "2501f3b8df2e081fbc47982c83405457ebb3843359f047f54005e8c2c2b7bddei0",
+      "title": "Parent (1 children)",
+      "title_source": "unknown",
+      "height": 972509,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
     },
