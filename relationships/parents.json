@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 53937,
-  "total_relations": 2551464,
-  "distinct_targets": 2505409,
-  "updatedAt": "2026-10-21T15:44:21.877Z",
+  "total_relations": 2551466,
+  "distinct_targets": 2505411,
+  "updatedAt": "2026-10-21T15:52:13.501Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -3291,20 +3291,20 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "10ba2c63d1d2a06fb2c4f0a32b04c9e9cb85a182c05e75c4f2e55996cb85343bi0",
+      "title": "Parent (449 children)",
+      "title_source": "content",
+      "height": 837179,
+      "relation_count": 585,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "49edad9ee04e2c0b55a5ca5241053c1a1a807446643a49047b9b456e7b8e1e7di0",
       "title": "Parent (585 children)",
       "title_source": "content",
       "height": 902485,
       "relation_count": 585,
       "content_type": "image/svg+xml"
-    },
-    {
-      "id": "10ba2c63d1d2a06fb2c4f0a32b04c9e9cb85a182c05e75c4f2e55996cb85343bi0",
-      "title": "Parent (449 children)",
-      "title_source": "content",
-      "height": 837179,
-      "relation_count": 584,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "f4d4424a1e52620ddc5a6d1f4b7afd29b6074650024dea92d2adfcd369ef3be7i0",
@@ -26771,6 +26771,14 @@
       "content_type": null
     },
     {
+      "id": "cb6c5b622de8e4d75650dd9ffe13808e4f7f34bac11201848f5d91a830e6b01di0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 972237,
+      "relation_count": 32,
+      "content_type": "image/png"
+    },
+    {
       "id": "cbc9fcf9373cbae36f4868d73a0ad78bbdc58af7c813e6319163e101a8cac8adi706",
       "title": "Parent (32 children)",
       "title_source": "content",
@@ -28081,14 +28089,6 @@
       "height": 859388,
       "relation_count": 31,
       "content_type": "model/gltf-binary"
-    },
-    {
-      "id": "cb6c5b622de8e4d75650dd9ffe13808e4f7f34bac11201848f5d91a830e6b01di0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 972237,
-      "relation_count": 31,
-      "content_type": "image/png"
     },
     {
       "id": "cbc9fcf9373cbae36f4868d73a0ad78bbdc58af7c813e6319163e101a8cac8adi1029",
