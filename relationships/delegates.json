@@ -6,9 +6,9 @@
     "description": "All inscriptions that are used as delegate targets."
   },
   "count": 14718,
-  "total_relations": 2387684,
-  "distinct_targets": 2387684,
-  "updatedAt": "2026-10-21T20:12:01.907Z",
+  "total_relations": 2387885,
+  "distinct_targets": 2387885,
+  "updatedAt": "2026-10-21T20:22:46.296Z",
   "items": [
     {
       "id": "eb025023e3e7efb6b1dc1ab2ba21b41fbd7f5afbcc76b92e1fb74887c19858aai0",
@@ -3681,6 +3681,14 @@
       "height": 939506,
       "relation_count": 205,
       "content_type": "text/html;charset=utf-8"
+    },
+    {
+      "id": "d7f30dc74fd842468a5c3bef1d026192ab47f94f3a797f4c495355359099cb80i0",
+      "title": "Delegate (1 inscriptions)",
+      "title_source": "content",
+      "height": null,
+      "relation_count": 202,
+      "content_type": null
     },
     {
       "id": "e0e733782d2b98828d96275cb2367c5393fd15f0621e3aa22723d6abad2fc9c8i0",
@@ -104281,14 +104289,6 @@
       "height": 791231,
       "relation_count": 1,
       "content_type": "image/png"
-    },
-    {
-      "id": "d7f30dc74fd842468a5c3bef1d026192ab47f94f3a797f4c495355359099cb80i0",
-      "title": "Delegate (1 inscriptions)",
-      "title_source": "content",
-      "height": null,
-      "relation_count": 1,
-      "content_type": null
     },
     {
       "id": "d80284fd9048c145370db103fb2c47f223ef1da90753d985bd0ec4f789c5d9e3i0",
