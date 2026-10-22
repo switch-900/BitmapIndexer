@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 53940,
-  "total_relations": 2551575,
-  "distinct_targets": 2505520,
-  "updatedAt": "2026-10-22T17:14:41.193Z",
+  "total_relations": 2551576,
+  "distinct_targets": 2505521,
+  "updatedAt": "2026-10-22T17:23:50.601Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -53827,6 +53827,14 @@
       "content_type": null
     },
     {
+      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 972239,
+      "relation_count": 13,
+      "content_type": "image/svg+xml"
+    },
+    {
       "id": "d9b00b15bb4c339ce9da5ba7cddc3a63a550ba2156a8d0785821a8247b86b22ei0",
       "title": "Genesis Cells",
       "title_source": "content",
@@ -56529,14 +56537,6 @@
       "height": 874533,
       "relation_count": 12,
       "content_type": null
-    },
-    {
-      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 972239,
-      "relation_count": 12,
-      "content_type": "image/svg+xml"
     },
     {
       "id": "dae01b150a6e3568c1dac80550b6d6466588a188b583333c926e3ed16254852di0",
