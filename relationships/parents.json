@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 53941,
-  "total_relations": 2551589,
-  "distinct_targets": 2505534,
-  "updatedAt": "2026-10-22T18:57:54.510Z",
+  "count": 53942,
+  "total_relations": 2551594,
+  "distinct_targets": 2505539,
+  "updatedAt": "2026-10-22T19:06:18.939Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -495,7 +495,7 @@
       "title": "Parent (1 children)",
       "title_source": "content",
       "height": 945130,
-      "relation_count": 9498,
+      "relation_count": 9499,
       "content_type": "text/html"
     },
     {
@@ -35683,6 +35683,14 @@
       "content_type": null
     },
     {
+      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 972239,
+      "relation_count": 23,
+      "content_type": "image/svg+xml"
+    },
+    {
       "id": "d945ef60590a98610cae9c74ca8d8376aece641098ae18d194d5d483a4209551i0",
       "title": "Genesis Shrooms",
       "title_source": "content",
@@ -36905,14 +36913,6 @@
       "height": 874133,
       "relation_count": 22,
       "content_type": null
-    },
-    {
-      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 972239,
-      "relation_count": 22,
-      "content_type": "image/svg+xml"
     },
     {
       "id": "d95d0c3e5975d6cd104b51e9f67be538a42ab1777af748afe36d6d86330f68f1i0",
@@ -312454,6 +312454,14 @@
       "id": "818777d6bb0d5ab8ded594658af657597e729d76d35a11ba05c9b68007a3d5cbi18",
       "title": "<!DOCTYPE html>",
       "title_source": "content",
+      "height": 893096,
+      "relation_count": 1,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
+      "id": "818777d6bb0d5ab8ded594658af657597e729d76d35a11ba05c9b68007a3d5cbi182",
+      "title": "Parent (1 children)",
+      "title_source": "unknown",
       "height": 893096,
       "relation_count": 1,
       "content_type": "text/html;charset=utf-8"
