@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 53939,
-  "total_relations": 2551525,
-  "distinct_targets": 2505470,
-  "updatedAt": "2026-10-22T05:16:56.925Z",
+  "total_relations": 2551528,
+  "distinct_targets": 2505473,
+  "updatedAt": "2026-10-22T05:25:10.834Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -495,7 +495,7 @@
       "title": "Parent (1 children)",
       "title_source": "content",
       "height": 945130,
-      "relation_count": 9461,
+      "relation_count": 9462,
       "content_type": "text/html"
     },
     {
@@ -5387,6 +5387,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "95f22bcc757b2b24679ea80d7ac86f349eddf20feda677d8a100253ee3635048i0",
+      "title": "Parent (7 children)",
+      "title_source": "content",
+      "height": 949302,
+      "relation_count": 250,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "a279d585622ad0243b254f830d1351b0e8d8b14e98c345a3922f69cacf180b3ci0",
       "title": "Parent (250 children)",
       "title_source": "content",
@@ -5409,14 +5417,6 @@
       "height": 932881,
       "relation_count": 250,
       "content_type": "image/webp"
-    },
-    {
-      "id": "95f22bcc757b2b24679ea80d7ac86f349eddf20feda677d8a100253ee3635048i0",
-      "title": "Parent (7 children)",
-      "title_source": "content",
-      "height": 949302,
-      "relation_count": 249,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "d262a9770456bc96ec8b081b2a52e775d1ae48822827cfbc7e04f771dd4afeb1i0",
@@ -5931,20 +5931,20 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "3539810dccf00c7ff30dab18252f6ad30325d46093ebb9a1163296640cd997f0i0",
+      "title": "Parent (202 children)",
+      "title_source": "content",
+      "height": 951711,
+      "relation_count": 207,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "f583f227f6ee0d9087038b5c417eecb1837455805f4f2fbebbdbc022b362fa0ai0",
       "title": "My Gl1tch Composition",
       "title_source": "content",
       "height": 893825,
       "relation_count": 207,
       "content_type": "text/html"
-    },
-    {
-      "id": "3539810dccf00c7ff30dab18252f6ad30325d46093ebb9a1163296640cd997f0i0",
-      "title": "Parent (202 children)",
-      "title_source": "content",
-      "height": 951711,
-      "relation_count": 206,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "6942c00030d0311ab696742d453b5b739e8460e0978883efe06f247980cdd8aai0",
