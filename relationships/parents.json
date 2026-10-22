@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 53940,
-  "total_relations": 2551574,
-  "distinct_targets": 2505519,
-  "updatedAt": "2026-10-22T16:50:43.113Z",
+  "total_relations": 2551575,
+  "distinct_targets": 2505520,
+  "updatedAt": "2026-10-22T17:14:41.193Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -56531,6 +56531,14 @@
       "content_type": null
     },
     {
+      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 972239,
+      "relation_count": 12,
+      "content_type": "image/svg+xml"
+    },
+    {
       "id": "dae01b150a6e3568c1dac80550b6d6466588a188b583333c926e3ed16254852di0",
       "title": "AGAINST THE WALL",
       "title_source": "content",
@@ -59625,14 +59633,6 @@
       "height": 874533,
       "relation_count": 11,
       "content_type": null
-    },
-    {
-      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 972239,
-      "relation_count": 11,
-      "content_type": "image/svg+xml"
     },
     {
       "id": "d7f63feedca7da836a6b89f6f6b4508a83baa8989174ef2f4eca883b164c8770i0",
