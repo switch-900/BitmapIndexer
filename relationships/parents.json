@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 53945,
-  "total_relations": 2551645,
-  "distinct_targets": 2505590,
-  "updatedAt": "2026-10-22T23:59:14.311Z",
+  "count": 53946,
+  "total_relations": 2551647,
+  "distinct_targets": 2505592,
+  "updatedAt": "2026-10-23T00:19:24.227Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -17483,6 +17483,14 @@
       "content_type": null
     },
     {
+      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 972239,
+      "relation_count": 50,
+      "content_type": "image/svg+xml"
+    },
+    {
       "id": "d93fca55ec026010b521b3587beb5897dff43189a8e1b4da078846c40d680dcei0",
       "title": "document.body.style.cssText=\"background-color: black; overflow: hidden;\";function fflateCallback(){const a=fflate.strFromU8(fflate.gunzipSync(new Uint8Array(Array.from(atob(d3)).map(a=>a.charCodeAt(0)",
       "title_source": "content",
@@ -18193,14 +18201,6 @@
       "height": 874128,
       "relation_count": 49,
       "content_type": null
-    },
-    {
-      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 972239,
-      "relation_count": 49,
-      "content_type": "image/svg+xml"
     },
     {
       "id": "da21881583114e9db855038a132c3406b03671b2db662891515a909aa6403434i0",
@@ -407001,6 +407001,14 @@
       "height": 839933,
       "relation_count": 1,
       "content_type": "text/html;charset=utf-8"
+    },
+    {
+      "id": "e1e1c3da91d42cbadd45e138254a35ec9e07e3dad0194c180ad45361f2b1fb22i0",
+      "title": "Parent (1 children)",
+      "title_source": "unknown",
+      "height": 972673,
+      "relation_count": 1,
+      "content_type": "application/json;charset=utf-8"
     },
     {
       "id": "e1e3044d08eae4333bcd658328914b3c9e4961b80d260c4f6f6f676f3f346921i0",
