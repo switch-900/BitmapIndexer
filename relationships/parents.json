@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 53947,
-  "total_relations": 2551695,
-  "distinct_targets": 2505640,
-  "updatedAt": "2026-10-23T04:59:26.515Z",
+  "count": 53948,
+  "total_relations": 2551698,
+  "distinct_targets": 2505643,
+  "updatedAt": "2026-10-23T05:21:13.526Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -495,7 +495,7 @@
       "title": "Parent (1 children)",
       "title_source": "content",
       "height": 945130,
-      "relation_count": 9547,
+      "relation_count": 9548,
       "content_type": "text/html"
     },
     {
@@ -5555,19 +5555,19 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "b91315601c0a392d23c53d3649403a73b924069e6a8b7105128dcafe8f4948e4i0",
+      "title": "Parent (5 children)",
+      "title_source": "content",
+      "height": 950320,
+      "relation_count": 236,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "d0153022fd0a35170708f9ddfb77529320cb9e662f5f0be3c1f0f3b7befbf749i0",
       "title": "Parent (233 children)",
       "title_source": "content",
       "height": 879650,
       "relation_count": 236,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "b91315601c0a392d23c53d3649403a73b924069e6a8b7105128dcafe8f4948e4i0",
-      "title": "Parent (5 children)",
-      "title_source": "content",
-      "height": 950320,
-      "relation_count": 235,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -410985,6 +410985,14 @@
       "height": 913252,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
+    },
+    {
+      "id": "e84e3c73f3c8f7c231f3b18274fb66a94e93b2349f949e1fe54289e20a4b967bi0",
+      "title": "Parent (1 children)",
+      "title_source": "unknown",
+      "height": 970845,
+      "relation_count": 1,
+      "content_type": "text/html;charset=utf-8"
     },
     {
       "id": "e84ed732cf44974d04a045e349b6c8319a4bd030b8fee74c180e6d9b9dce8fe5i0",
