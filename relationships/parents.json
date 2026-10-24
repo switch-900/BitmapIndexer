@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 53959,
-  "total_relations": 2551861,
-  "distinct_targets": 2505806,
-  "updatedAt": "2026-10-24T11:34:36.961Z",
+  "total_relations": 2551867,
+  "distinct_targets": 2505812,
+  "updatedAt": "2026-10-24T11:50:15.925Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -3383,7 +3383,7 @@
       "title": "Parent (413 children)",
       "title_source": "content",
       "height": 905348,
-      "relation_count": 550,
+      "relation_count": 551,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -3783,7 +3783,7 @@
       "title": "Parent (322 children)",
       "title_source": "content",
       "height": 906049,
-      "relation_count": 476,
+      "relation_count": 477,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -3847,7 +3847,7 @@
       "title": "Parent (306 children)",
       "title_source": "content",
       "height": 905564,
-      "relation_count": 445,
+      "relation_count": 446,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -5571,6 +5571,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "a036feff31ac227e40d14e7ab9438f80ed7f676d839264d25e007b113ea00b84i0",
+      "title": "Parent (49 children)",
+      "title_source": "content",
+      "height": 930903,
+      "relation_count": 232,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "592e10ddbed6bfaf8d9bf36756a4050b6582f71b16eb2df688df9a7d5616d29ai9",
       "title": "29.245307.bitmap",
       "title_source": "content",
@@ -5593,14 +5601,6 @@
       "height": 852495,
       "relation_count": 231,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "a036feff31ac227e40d14e7ab9438f80ed7f676d839264d25e007b113ea00b84i0",
-      "title": "Parent (49 children)",
-      "title_source": "content",
-      "height": 930903,
-      "relation_count": 231,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "59f72e8943e8ca02f2f5bfabd2f5ec81e655790a45360ce6e22708f9600a9127i0",
@@ -6195,6 +6195,14 @@
       "content_type": "image/avif"
     },
     {
+      "id": "a5bfc0aad1d2c69b8abd3c7b4112c59a764f002df6c5257f86aa9a0ef408a5a7i0",
+      "title": "Parent (71 children)",
+      "title_source": "content",
+      "height": 906695,
+      "relation_count": 186,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "e56091a8e0276f8faec19ee909d34bf7151fc2d3eb2219d6cb87e45fab8e6782i0",
       "title": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 420 420\">",
       "title_source": "content",
@@ -6208,14 +6216,6 @@
       "title_source": "content",
       "height": 889946,
       "relation_count": 186,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "a5bfc0aad1d2c69b8abd3c7b4112c59a764f002df6c5257f86aa9a0ef408a5a7i0",
-      "title": "Parent (71 children)",
-      "title_source": "content",
-      "height": 906695,
-      "relation_count": 185,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -6579,18 +6579,18 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
-      "id": "3a940680c5add20c60bb4e64eac1f0b4ef68c39fa50b409af1d4b5c005d88a27i0",
-      "title": "Parent (154 children)",
-      "title_source": "content",
-      "height": 883023,
-      "relation_count": 154,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
       "id": "a2213b5fd9ce04ee18c179d9e43cf7d9e089a47fa53ebe2ed4a420a7e40c2075i0",
       "title": "Parent (3 children)",
       "title_source": "content",
       "height": 931056,
+      "relation_count": 155,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
+      "id": "3a940680c5add20c60bb4e64eac1f0b4ef68c39fa50b409af1d4b5c005d88a27i0",
+      "title": "Parent (154 children)",
+      "title_source": "content",
+      "height": 883023,
       "relation_count": 154,
       "content_type": "text/plain;charset=utf-8"
     },
