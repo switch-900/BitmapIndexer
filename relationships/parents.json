@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 53971,
-  "total_relations": 2554504,
-  "distinct_targets": 2508449,
-  "updatedAt": "2026-10-25T23:30:14.523Z",
+  "total_relations": 2554506,
+  "distinct_targets": 2508451,
+  "updatedAt": "2026-10-25T23:37:49.109Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -6747,20 +6747,20 @@
       "content_type": "image/webp"
     },
     {
+      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 972239,
+      "relation_count": 146,
+      "content_type": "image/svg+xml"
+    },
+    {
       "id": "d4e07f361f5215c8ce1c888a7a99326e35e00981703bf1bb5e6718ffc70a6fa4i0",
       "title": "Parent (145 children)",
       "title_source": "content",
       "height": 882555,
       "relation_count": 145,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 972239,
-      "relation_count": 145,
-      "content_type": "image/svg+xml"
     },
     {
       "id": "f17b22095433a4751aa10e5b8307bd283dd0b1486c68ca2d6cccd5367ea468cfi0",
@@ -19483,6 +19483,14 @@
       "content_type": "image/avif"
     },
     {
+      "id": "ea2fad700e804275be3149ee846fb0020a7a92832cdf546c6cbd14b63bd73240i0",
+      "title": "HAFFTKA",
+      "title_source": "content",
+      "height": 871430,
+      "relation_count": 46,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "f71768088373ef507af53b53490d09605737fd13823d0cfec8741f132d94b28bi1038",
       "title": "Parent (46 children)",
       "title_source": "content",
@@ -19881,14 +19889,6 @@
       "height": 874280,
       "relation_count": 45,
       "content_type": null
-    },
-    {
-      "id": "ea2fad700e804275be3149ee846fb0020a7a92832cdf546c6cbd14b63bd73240i0",
-      "title": "HAFFTKA",
-      "title_source": "content",
-      "height": 871430,
-      "relation_count": 45,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "01d21db9256ab8f83b01263a72d8a815d3f7806843f8f107dd4c88eb2ef6e6adi0",
