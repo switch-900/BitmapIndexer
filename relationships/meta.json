@@ -1,22 +1,22 @@
 {
   "totalRelationTypes": 4,
-  "totalRelations": 6116181,
-  "updatedAt": "2026-11-02T03:24:44.328Z",
+  "totalRelations": 6116183,
+  "updatedAt": "2026-11-02T03:32:46.008Z",
   "relationTypes": [
     {
       "id": "parents",
       "relation_type": "child",
-      "total_relations": 2557070,
+      "total_relations": 2557071,
       "distinct_sources": 54024,
-      "distinct_targets": 2511015,
+      "distinct_targets": 2511016,
       "file": "relationships/parents.json"
     },
     {
       "id": "delegates",
       "relation_type": "delegate",
-      "total_relations": 2387933,
+      "total_relations": 2387934,
       "distinct_sources": 14735,
-      "distinct_targets": 2387933,
+      "distinct_targets": 2387934,
       "file": "relationships/delegates.json"
     },
     {

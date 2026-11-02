@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54024,
-  "total_relations": 2557070,
-  "distinct_targets": 2511015,
-  "updatedAt": "2026-11-02T03:24:06.373Z",
+  "total_relations": 2557071,
+  "distinct_targets": 2511016,
+  "updatedAt": "2026-11-02T03:32:08.001Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -120235,6 +120235,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "2f867e512a9a6e62bde736fbfecd6eaab86c27d843164d47e71e380c45424a20i0",
+      "title": "800541.bitmap",
+      "title_source": "content",
+      "height": 800542,
+      "relation_count": 3,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "3084dd9a6578861042ef85a71fb1beac95defb0f6143d14dac10e5bd8b1b182di0",
       "title": "Memory Blocks",
       "title_source": "content",
@@ -147753,14 +147761,6 @@
       "height": 892244,
       "relation_count": 2,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "2f867e512a9a6e62bde736fbfecd6eaab86c27d843164d47e71e380c45424a20i0",
-      "title": "800541.bitmap",
-      "title_source": "content",
-      "height": 800542,
-      "relation_count": 2,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "2f955f14b992df8f8baa6fce7e2430f6c07c9428543c47edc3c6ff5d7bc524b4i0",
