@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54024,
-  "total_relations": 2557071,
-  "distinct_targets": 2511016,
-  "updatedAt": "2026-11-02T03:51:55.128Z",
+  "total_relations": 2557072,
+  "distinct_targets": 2511017,
+  "updatedAt": "2026-11-02T04:16:51.168Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -101915,6 +101915,14 @@
       "content_type": "image/png"
     },
     {
+      "id": "d359ca0e794f839d6c1bd6409a3cdcbdb4c2030da8e12e07014f9f857cb56896i0",
+      "title": "819245.bitmap",
+      "title_source": "content",
+      "height": 819245,
+      "relation_count": 5,
+      "content_type": "text/plain"
+    },
+    {
       "id": "d36fd297b27c8f445332200244760373d7272e82b5556ccea00473fb9cb4805ci0",
       "title": "OG Alpha test DAO",
       "title_source": "content",
@@ -114033,14 +114041,6 @@
       "height": 776371,
       "relation_count": 4,
       "content_type": "image/svg+xml"
-    },
-    {
-      "id": "d359ca0e794f839d6c1bd6409a3cdcbdb4c2030da8e12e07014f9f857cb56896i0",
-      "title": "819245.bitmap",
-      "title_source": "content",
-      "height": 819245,
-      "relation_count": 4,
-      "content_type": "text/plain"
     },
     {
       "id": "d5c20cb7b7239d0e8a307b97150901efec2315746aeb764b4dd3d7d7b14d9d08i0",
