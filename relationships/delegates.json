@@ -5,10 +5,10 @@
     "title": "Delegates",
     "description": "All inscriptions that are used as delegate targets."
   },
-  "count": 14726,
-  "total_relations": 2387908,
-  "distinct_targets": 2387908,
-  "updatedAt": "2026-10-26T00:42:26.328Z",
+  "count": 14735,
+  "total_relations": 2387931,
+  "distinct_targets": 2387931,
+  "updatedAt": "2026-11-02T00:15:58.039Z",
   "items": [
     {
       "id": "eb025023e3e7efb6b1dc1ab2ba21b41fbd7f5afbcc76b92e1fb74887c19858aai0",
@@ -1359,7 +1359,7 @@
       "title": "BiS Artifacts",
       "title_source": "content",
       "height": 887208,
-      "relation_count": 1171,
+      "relation_count": 1174,
       "content_type": "text/html"
     },
     {
@@ -3579,20 +3579,20 @@
       "content_type": "image/webp"
     },
     {
+      "id": "ed5ded069b953b97ce6deaf4fabd93c003acb9bb42cd24094218192d8ebb48adi0",
+      "title": "Delegate (148 inscriptions)",
+      "title_source": "content",
+      "height": 830232,
+      "relation_count": 224,
+      "content_type": "model/gltf-binary"
+    },
+    {
       "id": "87be2d7e930f5bf2d0551b6425b6f28345e8fb644a73e1f0b4639da42c55bdf0i0",
       "title": "Delegate (223 inscriptions)",
       "title_source": "content",
       "height": 867374,
       "relation_count": 223,
       "content_type": "image/png"
-    },
-    {
-      "id": "ed5ded069b953b97ce6deaf4fabd93c003acb9bb42cd24094218192d8ebb48adi0",
-      "title": "Delegate (148 inscriptions)",
-      "title_source": "content",
-      "height": 830232,
-      "relation_count": 223,
-      "content_type": "model/gltf-binary"
     },
     {
       "id": "fc7772622de8b3db9f3d63a4a14ce90d11dc8135aa72e12989ec6570bb8fc781i0",
@@ -19371,6 +19371,14 @@
       "content_type": "image/webp"
     },
     {
+      "id": "fbe3262d8d5c20bfdd994f2a45715610cb1302a459fccfaadca10edba8205c5ai0",
+      "title": "Delegate (6 inscriptions)",
+      "title_source": "unknown",
+      "height": 973062,
+      "relation_count": 6,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
       "id": "fd02c808faf707100d313038e516f5f94ff616dbea583ef328599c47e4b732ffi2",
       "title": "Delegate (1 inscriptions)",
       "title_source": "content",
@@ -20177,6 +20185,14 @@
       "height": 846203,
       "relation_count": 5,
       "content_type": "image/jpeg"
+    },
+    {
+      "id": "bfce163eadacece6e210ab1d9abfc7d9d7bbfcc77105220dc60714e4b75dec1fi0",
+      "title": "Richart's Final Hour",
+      "title_source": "content",
+      "height": 973992,
+      "relation_count": 5,
+      "content_type": "text/html"
     },
     {
       "id": "c0eaeddcee4d3cde1a8c77caa219a538949a7f5bc59b97596ea223d666393614i0",
@@ -24401,6 +24417,14 @@
       "height": 970892,
       "relation_count": 2,
       "content_type": "text/html"
+    },
+    {
+      "id": "ae0af2358c4ece4cdedd703a2348dd92cfb1ea8568def2c41a2e85dfcf1457c4i0",
+      "title": "Ossuary",
+      "title_source": "content",
+      "height": 974033,
+      "relation_count": 2,
+      "content_type": "text/html;charset=utf-8"
     },
     {
       "id": "ae86308b0c0c8c8ebab7b5d668fc43fe0b02ea398111b4224a165119590c4350i0",
@@ -46137,6 +46161,14 @@
       "height": 776456,
       "relation_count": 1,
       "content_type": "image/png"
+    },
+    {
+      "id": "35e29d2378494eba7eec1837d1483a57be02d42a068f08908aa52272ab69652ai0",
+      "title": "Delegate (1 inscriptions)",
+      "title_source": "unknown",
+      "height": 776787,
+      "relation_count": 1,
+      "content_type": "image/gif"
     },
     {
       "id": "360524b6b6f47aac47de67c06e76ff39b7ad2a9ef243c4d638e30f896c29571di0",
@@ -79779,6 +79811,14 @@
       "content_type": "image/png"
     },
     {
+      "id": "9157c0adeca02182ab5ddcbbcf94e47014ba04a7824b922ef3bc157cce1dfd90i0",
+      "title": "Delegate (1 inscriptions)",
+      "title_source": "unknown",
+      "height": 827646,
+      "relation_count": 1,
+      "content_type": "image/png"
+    },
+    {
       "id": "916204a011b9c86142a13d6cbdade8c97ca58abc2edc7c5e1cee41c5806aeb1di0",
       "title": "Delegate (1 inscriptions)",
       "title_source": "content",
@@ -79857,6 +79897,14 @@
       "height": 791071,
       "relation_count": 1,
       "content_type": "image/webp"
+    },
+    {
+      "id": "91b6530acf08fa64901714fed9fc1aa993b2d6244418e99a3b6fb209350042cfi0",
+      "title": "Bitmap.Nexus",
+      "title_source": "content",
+      "height": 877075,
+      "relation_count": 1,
+      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "91be32d144c4b02a121a2bce0861723d6b7526261bcef3081307a98f402bce49i0",
@@ -102731,6 +102779,14 @@
       "content_type": "image/png"
     },
     {
+      "id": "d2225e549cc63f460cb784b166bbc1b8eb373dd7acc92d10eef68743442a3b2ai0",
+      "title": "Delegate (1 inscriptions)",
+      "title_source": "unknown",
+      "height": 945831,
+      "relation_count": 1,
+      "content_type": "image/gif"
+    },
+    {
       "id": "d223e2d74e800e62504b9fbb9a278d0b93407c201f9ac17ba4fd2a3ce125ae11i0",
       "title": "Delegate (1 inscriptions)",
       "title_source": "content",
@@ -108203,6 +108259,14 @@
       "content_type": "image/png"
     },
     {
+      "id": "e3184195779a287299f50160ace5ed5ccd869ff4f08b892aea074eabeac187d1i0",
+      "title": "Delegate (1 inscriptions)",
+      "title_source": "unknown",
+      "height": 860540,
+      "relation_count": 1,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
       "id": "e32435130789c27a8280ba9466e98909bedad6adf75da12b6b9d0de784bc9f82i0",
       "title": "Delegate (1 inscriptions)",
       "title_source": "content",
@@ -108481,6 +108545,14 @@
       "height": 791279,
       "relation_count": 1,
       "content_type": "image/png"
+    },
+    {
+      "id": "e438caadf7da209875bb4bb482be9610cdf6f6ee7c3a460f06e88c6b16a959b1i0",
+      "title": "Minitor",
+      "title_source": "content",
+      "height": 974024,
+      "relation_count": 1,
+      "content_type": "text/html;charset=utf-8"
     },
     {
       "id": "e4457ff9590349c7844be93e22bbd70a7ea403537521852060069aa9ff09a50ai0",
