@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54034,
-  "total_relations": 2557550,
-  "distinct_targets": 2511495,
-  "updatedAt": "2026-11-03T15:56:29.587Z",
+  "total_relations": 2557559,
+  "distinct_targets": 2511504,
+  "updatedAt": "2026-11-03T16:05:01.433Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -2283,19 +2283,19 @@
       "content_type": "image/svg+xml"
     },
     {
+      "id": "12511a5a1b4b0ae76ecb8d1db9d681f6c1f259d5d5ce642dccce4795929c4de4i0",
+      "title": "Parent (55 children)",
+      "title_source": "content",
+      "height": 972977,
+      "relation_count": 1037,
+      "content_type": "application/json"
+    },
+    {
       "id": "5ab79ec91efa8bfbcb27a8de3b528035098d0ac9b0519a58d5160aeb9c04f733i0",
       "title": "Nocturnal Games",
       "title_source": "content",
       "height": 824212,
       "relation_count": 1036,
-      "content_type": "application/json"
-    },
-    {
-      "id": "12511a5a1b4b0ae76ecb8d1db9d681f6c1f259d5d5ce642dccce4795929c4de4i0",
-      "title": "Parent (55 children)",
-      "title_source": "content",
-      "height": 972977,
-      "relation_count": 1032,
       "content_type": "application/json"
     },
     {
@@ -6227,6 +6227,14 @@
       "content_type": null
     },
     {
+      "id": "2c7d48d8045470bd14b644a31cf9f4374ef89f1ae3b848c9555b9ee79535b5f3i0",
+      "title": "Parent (21 children)",
+      "title_source": "content",
+      "height": 930356,
+      "relation_count": 191,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "95b5696807746f890f266ad91c8c2f1fd00baf8b5cbbada0d7a3f2d90b94a1cfi0",
       "title": "Parent (189 children)",
       "title_source": "content",
@@ -6249,14 +6257,6 @@
       "height": 900949,
       "relation_count": 188,
       "content_type": null
-    },
-    {
-      "id": "2c7d48d8045470bd14b644a31cf9f4374ef89f1ae3b848c9555b9ee79535b5f3i0",
-      "title": "Parent (21 children)",
-      "title_source": "content",
-      "height": 930356,
-      "relation_count": 187,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "694fb25d3d299ac18e17aae2293e2b74c028c350d84bce56e4b3dbb3a77b00d8i0",
