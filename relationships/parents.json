@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54037,
-  "total_relations": 2557642,
-  "distinct_targets": 2511587,
-  "updatedAt": "2026-11-04T03:55:35.573Z",
+  "total_relations": 2557669,
+  "distinct_targets": 2511614,
+  "updatedAt": "2026-11-04T04:09:59.635Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -2263,7 +2263,7 @@
       "title": "Parent (55 children)",
       "title_source": "content",
       "height": 972977,
-      "relation_count": 1063,
+      "relation_count": 1083,
       "content_type": "application/json"
     },
     {
@@ -3463,7 +3463,7 @@
       "title": "Parent (3 children)",
       "title_source": "content",
       "height": 943754,
-      "relation_count": 517,
+      "relation_count": 518,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -4907,6 +4907,14 @@
       "content_type": "image/png"
     },
     {
+      "id": "1bfbf9915dfacdc9329d45c3e892736b416375f79334d77519b8d34df91e9724i0",
+      "title": "Parent (53 children)",
+      "title_source": "content",
+      "height": 837204,
+      "relation_count": 300,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "2091e2fb7599d387e83b68d986e597f2b417acfa5b983b290225653548714fc0i0",
       "title": "Parent (300 children)",
       "title_source": "content",
@@ -5091,14 +5099,6 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
-      "id": "1bfbf9915dfacdc9329d45c3e892736b416375f79334d77519b8d34df91e9724i0",
-      "title": "Parent (53 children)",
-      "title_source": "content",
-      "height": 837204,
-      "relation_count": 297,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
       "id": "63ccd9845348f845dd33cc9ce27732ded92a2388936f99b1cd949cca7d77448ei0",
       "title": "Parent (296 children)",
       "title_source": "content",
@@ -5247,7 +5247,7 @@
       "title": "Parent (1 children)",
       "title_source": "content",
       "height": 972239,
-      "relation_count": 261,
+      "relation_count": 262,
       "content_type": "image/svg+xml"
     },
     {
@@ -6867,6 +6867,14 @@
       "content_type": null
     },
     {
+      "id": "27c733df4376b54b4171bfe5c703eb7f0e13780f79431f4c5779d774c717c594i0",
+      "title": "Parent (17 children)",
+      "title_source": "content",
+      "height": 939379,
+      "relation_count": 138,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "6e9eb48c8ac7634ae7e5ad29de3d85586cdbcb3f24881e91987d5c876e1437e5i0",
       "title": "White Pants BTC Club",
       "title_source": "content",
@@ -6984,14 +6992,6 @@
       "title_source": "content",
       "height": 876641,
       "relation_count": 133,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "27c733df4376b54b4171bfe5c703eb7f0e13780f79431f4c5779d774c717c594i0",
-      "title": "Parent (17 children)",
-      "title_source": "content",
-      "height": 939379,
-      "relation_count": 132,
       "content_type": "text/plain;charset=utf-8"
     },
     {
