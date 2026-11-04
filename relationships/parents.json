@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 54043,
-  "total_relations": 2558641,
-  "distinct_targets": 2512586,
-  "updatedAt": "2026-11-04T23:16:22.650Z",
+  "count": 54044,
+  "total_relations": 2558683,
+  "distinct_targets": 2512628,
+  "updatedAt": "2026-11-04T23:27:13.630Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -5139,6 +5139,14 @@
       "content_type": "text/javascript"
     },
     {
+      "id": "de566c4ce8cd54bb5b1bbf84e3458ba18da565863ec37e7e311a2eca61f69c3di0",
+      "title": "Parent (23 children)",
+      "title_source": "content",
+      "height": null,
+      "relation_count": 284,
+      "content_type": null
+    },
+    {
       "id": "17d537be45195880a5b73e08730d63cec896b9921c02d82b3260c46545be0f55i0",
       "title": "Parent (162 children)",
       "title_source": "content",
@@ -5241,14 +5249,6 @@
       "height": 949302,
       "relation_count": 264,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "de566c4ce8cd54bb5b1bbf84e3458ba18da565863ec37e7e311a2eca61f69c3di0",
-      "title": "Parent (23 children)",
-      "title_source": "content",
-      "height": null,
-      "relation_count": 264,
-      "content_type": null
     },
     {
       "id": "e8e134b2dad7079fcdd3d2e19218bc028bc0813f7ac6bfe44fc795e5e173a9bfi0",
@@ -6251,6 +6251,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "27c733df4376b54b4171bfe5c703eb7f0e13780f79431f4c5779d774c717c594i0",
+      "title": "Parent (17 children)",
+      "title_source": "content",
+      "height": 939379,
+      "relation_count": 189,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "95b5696807746f890f266ad91c8c2f1fd00baf8b5cbbada0d7a3f2d90b94a1cfi0",
       "title": "Parent (189 children)",
       "title_source": "content",
@@ -6473,14 +6481,6 @@
       "height": 892319,
       "relation_count": 169,
       "content_type": "image/webp"
-    },
-    {
-      "id": "27c733df4376b54b4171bfe5c703eb7f0e13780f79431f4c5779d774c717c594i0",
-      "title": "Parent (17 children)",
-      "title_source": "content",
-      "height": 939379,
-      "relation_count": 169,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "33af1b6a9f3dee1abeec213267ae7fea4f7b32a78f1c046daef8fcd71fc1e39di0",
@@ -139929,6 +139929,14 @@
       "height": 776463,
       "relation_count": 2,
       "content_type": "image/png"
+    },
+    {
+      "id": "0523ddc009743d43b2d60eefa1fd45811f94e55a5c8c40bc8bb0592f17f30e51i0",
+      "title": "MYO: NEON NIGHTS · Parent Launcher V60 — Ordinal poster",
+      "title_source": "content",
+      "height": 974598,
+      "relation_count": 2,
+      "content_type": "text/html"
     },
     {
       "id": "05297b94deed7548845d70ffbb0a4aeb8cb452d4f0fe297e6cbb261e4f21e4a8i0",
