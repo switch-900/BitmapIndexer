@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54049,
-  "total_relations": 2558901,
-  "distinct_targets": 2512846,
-  "updatedAt": "2026-11-05T21:36:20.954Z",
+  "total_relations": 2558904,
+  "distinct_targets": 2512849,
+  "updatedAt": "2026-11-05T21:43:22.040Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -6235,6 +6235,14 @@
       "content_type": "image/gif"
     },
     {
+      "id": "27c733df4376b54b4171bfe5c703eb7f0e13780f79431f4c5779d774c717c594i0",
+      "title": "Parent (17 children)",
+      "title_source": "content",
+      "height": 939379,
+      "relation_count": 192,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "2c7d48d8045470bd14b644a31cf9f4374ef89f1ae3b848c9555b9ee79535b5f3i0",
       "title": "Parent (21 children)",
       "title_source": "content",
@@ -6249,14 +6257,6 @@
       "height": 901971,
       "relation_count": 192,
       "content_type": null
-    },
-    {
-      "id": "27c733df4376b54b4171bfe5c703eb7f0e13780f79431f4c5779d774c717c594i0",
-      "title": "Parent (17 children)",
-      "title_source": "content",
-      "height": 939379,
-      "relation_count": 190,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "95b5696807746f890f266ad91c8c2f1fd00baf8b5cbbada0d7a3f2d90b94a1cfi0",
@@ -192321,6 +192321,14 @@
       "height": 898651,
       "relation_count": 2,
       "content_type": "text/html;charset=utf-8"
+    },
+    {
+      "id": "f1bf9c9cb1f0e8009ef32b94c8ef65cc0b938013331a689feeea2f697225ac42i0",
+      "title": "MYO: NEON NIGHTS · Edition Launcher V67",
+      "title_source": "content",
+      "height": 974664,
+      "relation_count": 2,
+      "content_type": "text/html"
     },
     {
       "id": "f200ebde97574d52e85182b75d299251f997f3276556adf81bd43af4b4bdb5cdi0",
@@ -419193,14 +419201,6 @@
       "height": 794456,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "f1bf9c9cb1f0e8009ef32b94c8ef65cc0b938013331a689feeea2f697225ac42i0",
-      "title": "MYO: NEON NIGHTS · Edition Launcher V67",
-      "title_source": "content",
-      "height": 974664,
-      "relation_count": 1,
-      "content_type": "text/html"
     },
     {
       "id": "f1c1585e586719eda2dd93d3649816dd21e83586b5ae34327ebe41e1371a5adei0",
