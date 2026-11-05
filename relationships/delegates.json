@@ -6,9 +6,9 @@
     "description": "All inscriptions that are used as delegate targets."
   },
   "count": 14740,
-  "total_relations": 2388176,
-  "distinct_targets": 2388176,
-  "updatedAt": "2026-11-05T22:16:57.697Z",
+  "total_relations": 2388178,
+  "distinct_targets": 2388178,
+  "updatedAt": "2026-11-05T22:43:47.888Z",
   "items": [
     {
       "id": "eb025023e3e7efb6b1dc1ab2ba21b41fbd7f5afbcc76b92e1fb74887c19858aai0",
@@ -22449,6 +22449,14 @@
       "height": 840000,
       "relation_count": 3,
       "content_type": null
+    },
+    {
+      "id": "e438caadf7da209875bb4bb482be9610cdf6f6ee7c3a460f06e88c6b16a959b1i0",
+      "title": "Minitor",
+      "title_source": "content",
+      "height": 974024,
+      "relation_count": 3,
+      "content_type": "text/html;charset=utf-8"
     },
     {
       "id": "e84d26819c4866268deb16a5768704bcedcec80c6ac4c2c4e32672abb6fecdfai0",
@@ -108585,14 +108593,6 @@
       "height": 791279,
       "relation_count": 1,
       "content_type": "image/png"
-    },
-    {
-      "id": "e438caadf7da209875bb4bb482be9610cdf6f6ee7c3a460f06e88c6b16a959b1i0",
-      "title": "Minitor",
-      "title_source": "content",
-      "height": 974024,
-      "relation_count": 1,
-      "content_type": "text/html;charset=utf-8"
     },
     {
       "id": "e4457ff9590349c7844be93e22bbd70a7ea403537521852060069aa9ff09a50ai0",
