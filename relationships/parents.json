@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54057,
-  "total_relations": 2559209,
-  "distinct_targets": 2513154,
-  "updatedAt": "2026-11-06T22:19:43.552Z",
+  "total_relations": 2559213,
+  "distinct_targets": 2513158,
+  "updatedAt": "2026-11-06T22:30:25.100Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -11795,6 +11795,14 @@
       "content_type": null
     },
     {
+      "id": "09c833a01c0c524e48c97ee3ce0748e033c0902ee8fad402c1c6fb41f7ea5cb2i0",
+      "title": "Parent (2 children)",
+      "title_source": "content",
+      "height": 974727,
+      "relation_count": 69,
+      "content_type": "application/json"
+    },
+    {
       "id": "23c6a55663fe2efc347d0475561935c2a16664a37b5191e46eaaa1a56f8db7dci0",
       "title": "MONGS",
       "title_source": "content",
@@ -12457,14 +12465,6 @@
       "height": 874301,
       "relation_count": 66,
       "content_type": null
-    },
-    {
-      "id": "09c833a01c0c524e48c97ee3ce0748e033c0902ee8fad402c1c6fb41f7ea5cb2i0",
-      "title": "Parent (2 children)",
-      "title_source": "content",
-      "height": 974727,
-      "relation_count": 65,
-      "content_type": "application/json"
     },
     {
       "id": "37d046d7e8a51080753a66d1ff49c8fe5440a08a9cddabd5b24aa73f4646fbb6i0",
