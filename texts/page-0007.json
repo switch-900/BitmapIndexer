@@ -2,8 +2,114 @@
   "page": 7,
   "page_size": 1000,
   "count": 1000,
-  "total": 7660,
+  "total": 7663,
   "items": [
+    {
+      "inscription_id": "c47204a9bd94a72788c6a02641d0d5c05ff66f0c524214476f4040ff9961d4d9i0",
+      "block_height": 786409,
+      "content_type": "application/json",
+      "encoding": "br",
+      "language": "json",
+      "title": "dogesats",
+      "summary": "p\npxs\nname\ndogesats\nslug\ndogesats\nsupply\n51930\ntwitter_link\nhttps://twitter.com/dogesats\nwebsite_link\nhttps://dogesats.com\nitemstotalvalue\n2100000\nitems\nname\nten\nvalue\n10\ntype\ncoin\nsupply\n30000\ntotalvalue\n300000\nsha256hash\n27646f5918fdb4c6b66234336a26d3f503af851a7ad32377e73e51611…",
+      "body_excerpt": "p\npxs\nname\ndogesats\nslug\ndogesats\nsupply\n51930\ntwitter_link\nhttps://twitter.com/dogesats\nwebsite_link\nhttps://dogesats.com\nitemstotalvalue\n2100000\nitems\nname\nten\nvalue\n10\ntype\ncoin\nsupply\n30000\ntotalvalue\n300000\nsha256hash\n27646f5918fdb4c6b66234336a26d3f503af851a7ad32377e73e516118cd654c\nname\ntwentyfive\nvalue\n25\ntype\ncoin\nsupply\n12000\ntotalvalue\n300000\nsha256hash\n26fbec9d530f12dddde41f49c74581a5485137088335c6dc58c492bbb444e4fe\nname\nfifty\nvalue\n50\ntype\ncoin\nsupply\n6000\ntotalvalue\n300000\nsha256hash\n06d031167f65c3d4bfa38cf306cad375da09eeeff9cf6cede072c67d8086810c\nname\nonehundred\nvalue\n100\ntype\ncoin\nsupply\n3000\ntotalvalue\n300000\nsha256hash\nbb34f317600d32d783ca57672fbb5a91b384a1d1c3b354942d5849b87590ff73\nname\nfivehundred\nvalue\n500\ntype\nbill\nsupply\n600\ntotalvalue\n300000\nsha256hash\ndc34b1db983323f29f237ea2c64b49864c16c620a4eb6f78ba743838f0a8d4ac\nname\nonethousand\nvalue\n1000\ntype\nbill\nsupply\n300\ntotalvalue\n300000\nsha256hash\n2d6952eb011fb7aa8ad1ca25b0887a5f8686e97314f7b348c132f227a3f04d11\nname\ntenthousand\nvalue\n10000\ntype\ngold bar\nsupply\n30\ntotalvalue\n300000\nsha256hash\n95203af285901b8d8bf58485832441c79bcf19b13c69bd492ec3737f80a5adba",
+      "keywords": [
+        "name",
+        "supply",
+        "sha256hash",
+        "totalvalue",
+        "type",
+        "value",
+        "dogesats",
+        "coin",
+        "bill",
+        "com",
+        "af285901b8d8bf58485832441c79bcf19b13c69bd492ec3737f80a5adba",
+        "bar",
+        "bb34f317600d32d783ca57672fbb5a91b384a1d1c3b354942d5849b87590ff73",
+        "d031167f65c3d4bfa38cf306cad375da09eeeff9cf6cede072c67d8086810c",
+        "d6952eb011fb7aa8ad1ca25b0887a5f8686e97314f7b348c132f227a3f04d11",
+        "dc34b1db983323f29f237ea2c64b49864c16c620a4eb6f78ba743838f0a8d4ac",
+        "com dogesats",
+        "dogesats com",
+        "twitter com"
+      ],
+      "text_length": 1139,
+      "word_count": 105,
+      "quality_score": 100,
+      "content_length": 1634,
+      "indexed_at": 1775564168691
+    },
+    {
+      "inscription_id": "9695b3a8f42f7fda214f896fb8004aeb8e6ecb1bdeb6746f6510817c1bbfad78i1",
+      "block_height": 786338,
+      "content_type": "application/json",
+      "encoding": "br",
+      "language": "json",
+      "title": "1475b4904855c88c7e7ab8d72f04bcbf4d26719b1c4ee9701779a5a51a8fcc75",
+      "summary": "txid\n1475b4904855c88c7e7ab8d72f04bcbf4d26719b1c4ee9701779a5a51a8fcc75\nversion\n1\nlocktime\n0\nvin\ntxid\n0db4df18fca54e8de7c16becabc0d003b0f4f5df0ff312176ee16dc7be06c710\nvout\n16\nprevout\nscriptpubkey\n51202df9845aaf12b90b51fc6f2afd14b46b11d43fd1c141425de7aa4fcebc6b6207\nscriptpubkey_asm…",
+      "body_excerpt": "txid\n1475b4904855c88c7e7ab8d72f04bcbf4d26719b1c4ee9701779a5a51a8fcc75\nversion\n1\nlocktime\n0\nvin\ntxid\n0db4df18fca54e8de7c16becabc0d003b0f4f5df0ff312176ee16dc7be06c710\nvout\n16\nprevout\nscriptpubkey\n51202df9845aaf12b90b51fc6f2afd14b46b11d43fd1c141425de7aa4fcebc6b6207\nscriptpubkey_asm\nOP_PUSHNUM_1 OP_PUSHBYTES_32 2df9845aaf12b90b51fc6f2afd14b46b11d43fd1c141425de7aa4fcebc6b6207\nscriptpubkey_type\nv1_p2tr\nscriptpubkey_address\nbc1p9hucgk40z2usk50udu406995dvgag073c9q5yh084f8ua0rtvgrsng68gj\nvalue\n35910\nscriptsig\nscriptsig_asm\nwitness\n50004927cfeb0e08e2ea68f56323c363262427e98461693634d9c18d192858487c52598270995f82decdec7d36018cc7530016733e2a341698e2a21fb050f2cb\nis_coinbase\nfalse\nsequence\n4294967293\ntxid\nf32fc1656d7687b199d464f44c025d47ce87c7efc84736f7f13249a881dbf73a\nvout\n1\nprevout\nscriptpubkey\n5120bd81f63511e638d388615bfde1cffc034e1d48f3b35dba1255ab64217a26e6a0\nscriptpubkey_asm\nOP_PUSHNUM_1 OP_PUSHBYTES_32 bd81f63511e638d388615bfde1cffc034e1d48f3b35dba1255ab64217a26e6a0\nscriptpubkey_type\nv1_p2tr\nscriptpubkey_address\nbc1phkqlvdg3ucud8zrpt077rnluqd8p6j8nkdwm5yj44djzz73xu6sqpuwxks\nvalue\n19940\nscriptsig\nscriptsig_asm\nwitness\necfd13ae67a566435a3f54f08b01b82e4afb73c08733fa8f3a69e2401249de5cbd000135da82d983aea0c0dc20ed73565b2103ab69242e7f244d10b153df4d18\nis_coinbase\nfalse\nsequence\n4294967293\nvout\nscriptpubkey\n5120b7469d76365f128332cc1a2575d63f2b77fe59737f6e6bd6f5ccc89c1add2e9d\nscriptpubkey_asm\nOP_PUSHNUM_1 OP_PUSHBYTES_32 b7469d76365f128332cc1a2575d63f2b77fe59737f6e6bd6f5ccc89c1add2e9d\nscriptpubkey_type\nv1_p2tr\nscriptpubkey_address\nbc1pkarf6a3ktufgxvkvrgjht43l9dmluktn0ahxh4h4enyfcxka96wsqxyr0l\nvalue\n39600\nscriptpubkey\n512084e27547f84d2019052e1bfeecd54fad1e2235df69985a352641783f2cb80f70\nscriptpubkey_asm\nOP_PUSHNUM_1 OP_PUSHBYTES_32 84e27547f84d2019052e1bfeecd54fad1e2235df69985a352641783f2cb80f70\nscriptpubkey_type\nv1_p2tr\nscriptpubkey_address\nbc1psn3823lcf5spjpfwr0lwe420450zydwldxv95dfxg9ur7t9cpacqd5suwl\nvalue\n14554\nsize\n312\nweight\n846\nfee\n1696\nstatus\nconfirmed\ntrue\nblock_height\n781729\nblock_hash\n00000000000000000000ff2cef5a0e9dfd26afee18f0248b11484c626f38f0ed\nblock_time\n1679355602\ntxid\nf32fc1656d7687b199d464f44c025d47ce87c7efc84736f7f13249a881dbf73a\nversion\n1\nlocktime\n0\nvin\ntxid\n5fe30760489e9efe5cd319fb421927c289d58b1cd8803aa3669f8d0655116981\nvout\n2\nprevout\nscriptpubkey\n51200bcd32d0b3a53d37a55624a3029998fb10d2a0348781a1c2fc89c4b2e093e0bf\nscriptpubkey_asm\nOP_PUSHNUM_1 OP_PUSHBYTES_32 0bcd32d0b3a53d37a55624a3029998fb10d2a0348781a1c2fc89c4b2e093e0bf\nscriptpubkey_type\nv1_p2tr\nscriptpubkey_address\nbc1pp0xn959n557n0f2kyj3s9xvclvgd9gp5s7q6rshu38zt9cynuzls57jtzs\nvalue\n60000\nscriptsig\nscriptsig_asm\nwitness\n7fb4871920f32ee11bf2a2157f3d86a58366d15708f384d4cad2b11e3e500b6ba6728c58fbf9d345bad8902f688ac2967404389ce7a753df55debb1272b51f84\nis_coinbase\nfalse\nsequence\n4294967293\ntxid\n5fe30760489e9efe5cd319fb421927c289d58b1cd8803aa3669f8d0655116981\nvout\n3\nprevout\nscriptpubkey\n51200bcd32d0b3a53d37a55624a3029998fb10d2a0348781a1c2fc89c4b2e093e0bf\nscriptpubkey_asm\nOP_PUSHNUM_1 OP_PUSHBYTES_32 0bcd32d0b3a53d37a55624a3029998fb10d2a0348781a1c2fc89c4b2e093e0bf\nscriptpubkey_type\nv1_p2tr\nscriptpubkey_address\nbc1pp0xn959n557n0f2kyj3s9xvclvgd9gp5s7q6rshu38zt9cynuzls57jtzs\nvalue\n60000\nscriptsig\nscriptsig_asm\nwitness\n825a36d5811cf6dfbf243f2afec4e82b93c92f2b0f088eaac1568c2350239e83b712a64616532d915254ff1cbd57fcfa845125dc74edc2c3dde2492483138509\nis_coinbase\nfalse\nsequence\n4294967293\nvout\nscriptpubkey\n5120a6573e19c64e1c9fa84289cae691133d1b53275171bb46c629646cd777ea963e\nscriptpubkey_asm\nOP_PUSHNUM_1 OP_PUSHBYTES_32 a6573e19c64e1c9fa84289cae691133d1b53275171bb46c629646cd777ea963e\nscriptpubkey_type\nv1_p2tr\nscriptpubkey_address\nbc1p5etnuxwxfcwfl2zz389wdygn85d4xf63wxa5d33fv3kdwal2jclq4mvk7x\nvalue\n95820\nscriptpubkey\n5120bd81f63511e638d388615bfde1cffc034e1d48f3b35dba1255ab64217a26e6a0\nscriptpubkey_asm\nOP_PUSHNUM_1 OP_PUSHBYTES_32 bd81f63511e638d388615bfde1cffc034e1d48f3b35dba1255ab64217a26e6a0\nscriptpubkey_type\nv1_p2tr\nscriptpubkey_address\nbc1phkqlvdg3ucud8zrpt077rnluqd8p6j8nkdwm5yj44djzz73xu6sqpuwxks\nvalue\n19940\nsize\n312\nweight\n846\nfee\n4240\nstatus\nconfirmed\ntrue\nblock_height\n781721\nblock_hash\n000000000000000000042103982300bc3d11db42706ed633c55a10e21e7662d9\nblock_time\n1679351211",
+      "keywords": [
+        "op_pushbytes_32",
+        "op_pushnum_1",
+        "scriptpubkey",
+        "scriptpubkey_address",
+        "scriptpubkey_asm",
+        "scriptpubkey_type",
+        "v1_p2tr",
+        "value",
+        "txid",
+        "vout",
+        "bcd32d0b3a53d37a55624a3029998fb10d2a0348781a1c2fc89c4b2e093e0bf",
+        "bd81f63511e638d388615bfde1cffc034e1d48f3b35dba1255ab64217a26e6a0",
+        "false",
+        "is_coinbase",
+        "prevout",
+        "scriptsig",
+        "op_pushbytes_32 df9845aaf12b90b51fc6f2afd14b46b11d43fd1c141425de7aa4fcebc6b6207",
+        "op_pushnum_1 op_pushbytes_32"
+      ],
+      "text_length": 4194,
+      "word_count": 194,
+      "quality_score": 100,
+      "content_length": 4552,
+      "indexed_at": 1775564102208
+    },
+    {
+      "inscription_id": "9695b3a8f42f7fda214f896fb8004aeb8e6ecb1bdeb6746f6510817c1bbfad78i0",
+      "block_height": 786338,
+      "content_type": "application/json",
+      "encoding": "br",
+      "language": "json",
+      "title": "1475b4904855c88c7e7ab8d72f04bcbf4d26719b1c4ee9701779a5a51a8fcc75",
+      "summary": "txid\n1475b4904855c88c7e7ab8d72f04bcbf4d26719b1c4ee9701779a5a51a8fcc75\nversion\n1\nlocktime\n0\nvin\ntxid\n0db4df18fca54e8de7c16becabc0d003b0f4f5df0ff312176ee16dc7be06c710\nvout\n16\nprevout\nscriptpubkey\n51202df9845aaf12b90b51fc6f2afd14b46b11d43fd1c141425de7aa4fcebc6b6207\nscriptpubkey_asm…",
+      "body_excerpt": "txid\n1475b4904855c88c7e7ab8d72f04bcbf4d26719b1c4ee9701779a5a51a8fcc75\nversion\n1\nlocktime\n0\nvin\ntxid\n0db4df18fca54e8de7c16becabc0d003b0f4f5df0ff312176ee16dc7be06c710\nvout\n16\nprevout\nscriptpubkey\n51202df9845aaf12b90b51fc6f2afd14b46b11d43fd1c141425de7aa4fcebc6b6207\nscriptpubkey_asm\nOP_PUSHNUM_1 OP_PUSHBYTES_32 2df9845aaf12b90b51fc6f2afd14b46b11d43fd1c141425de7aa4fcebc6b6207\nscriptpubkey_type\nv1_p2tr\nscriptpubkey_address\nbc1p9hucgk40z2usk50udu406995dvgag073c9q5yh084f8ua0rtvgrsng68gj\nvalue\n35910\nscriptsig\nscriptsig_asm\nwitness\n50004927cfeb0e08e2ea68f56323c363262427e98461693634d9c18d192858487c52598270995f82decdec7d36018cc7530016733e2a341698e2a21fb050f2cb\nis_coinbase\nfalse\nsequence\n4294967293\ntxid\nf32fc1656d7687b199d464f44c025d47ce87c7efc84736f7f13249a881dbf73a\nvout\n1\nprevout\nscriptpubkey\n5120bd81f63511e638d388615bfde1cffc034e1d48f3b35dba1255ab64217a26e6a0\nscriptpubkey_asm\nOP_PUSHNUM_1 OP_PUSHBYTES_32 bd81f63511e638d388615bfde1cffc034e1d48f3b35dba1255ab64217a26e6a0\nscriptpubkey_type\nv1_p2tr\nscriptpubkey_address\nbc1phkqlvdg3ucud8zrpt077rnluqd8p6j8nkdwm5yj44djzz73xu6sqpuwxks\nvalue\n19940\nscriptsig\nscriptsig_asm\nwitness\necfd13ae67a566435a3f54f08b01b82e4afb73c08733fa8f3a69e2401249de5cbd000135da82d983aea0c0dc20ed73565b2103ab69242e7f244d10b153df4d18\nis_coinbase\nfalse\nsequence\n4294967293\nvout\nscriptpubkey\n5120b7469d76365f128332cc1a2575d63f2b77fe59737f6e6bd6f5ccc89c1add2e9d\nscriptpubkey_asm\nOP_PUSHNUM_1 OP_PUSHBYTES_32 b7469d76365f128332cc1a2575d63f2b77fe59737f6e6bd6f5ccc89c1add2e9d\nscriptpubkey_type\nv1_p2tr\nscriptpubkey_address\nbc1pkarf6a3ktufgxvkvrgjht43l9dmluktn0ahxh4h4enyfcxka96wsqxyr0l\nvalue\n39600\nscriptpubkey\n512084e27547f84d2019052e1bfeecd54fad1e2235df69985a352641783f2cb80f70\nscriptpubkey_asm\nOP_PUSHNUM_1 OP_PUSHBYTES_32 84e27547f84d2019052e1bfeecd54fad1e2235df69985a352641783f2cb80f70\nscriptpubkey_type\nv1_p2tr\nscriptpubkey_address\nbc1psn3823lcf5spjpfwr0lwe420450zydwldxv95dfxg9ur7t9cpacqd5suwl\nvalue\n14554\nsize\n312\nweight\n846\nfee\n1696\nstatus\nconfirmed\ntrue\nblock_height\n781729\nblock_hash\n00000000000000000000ff2cef5a0e9dfd26afee18f0248b11484c626f38f0ed\nblock_time\n1679355602\ntxid\nf32fc1656d7687b199d464f44c025d47ce87c7efc84736f7f13249a881dbf73a\nversion\n1\nlocktime\n0\nvin\ntxid\n5fe30760489e9efe5cd319fb421927c289d58b1cd8803aa3669f8d0655116981\nvout\n2\nprevout\nscriptpubkey\n51200bcd32d0b3a53d37a55624a3029998fb10d2a0348781a1c2fc89c4b2e093e0bf\nscriptpubkey_asm\nOP_PUSHNUM_1 OP_PUSHBYTES_32 0bcd32d0b3a53d37a55624a3029998fb10d2a0348781a1c2fc89c4b2e093e0bf\nscriptpubkey_type\nv1_p2tr\nscriptpubkey_address\nbc1pp0xn959n557n0f2kyj3s9xvclvgd9gp5s7q6rshu38zt9cynuzls57jtzs\nvalue\n60000\nscriptsig\nscriptsig_asm\nwitness\n7fb4871920f32ee11bf2a2157f3d86a58366d15708f384d4cad2b11e3e500b6ba6728c58fbf9d345bad8902f688ac2967404389ce7a753df55debb1272b51f84\nis_coinbase\nfalse\nsequence\n4294967293\ntxid\n5fe30760489e9efe5cd319fb421927c289d58b1cd8803aa3669f8d0655116981\nvout\n3\nprevout\nscriptpubkey\n51200bcd32d0b3a53d37a55624a3029998fb10d2a0348781a1c2fc89c4b2e093e0bf\nscriptpubkey_asm\nOP_PUSHNUM_1 OP_PUSHBYTES_32 0bcd32d0b3a53d37a55624a3029998fb10d2a0348781a1c2fc89c4b2e093e0bf\nscriptpubkey_type\nv1_p2tr\nscriptpubkey_address\nbc1pp0xn959n557n0f2kyj3s9xvclvgd9gp5s7q6rshu38zt9cynuzls57jtzs\nvalue\n60000\nscriptsig\nscriptsig_asm\nwitness\n825a36d5811cf6dfbf243f2afec4e82b93c92f2b0f088eaac1568c2350239e83b712a64616532d915254ff1cbd57fcfa845125dc74edc2c3dde2492483138509\nis_coinbase\nfalse\nsequence\n4294967293\nvout\nscriptpubkey\n5120a6573e19c64e1c9fa84289cae691133d1b53275171bb46c629646cd777ea963e\nscriptpubkey_asm\nOP_PUSHNUM_1 OP_PUSHBYTES_32 a6573e19c64e1c9fa84289cae691133d1b53275171bb46c629646cd777ea963e\nscriptpubkey_type\nv1_p2tr\nscriptpubkey_address\nbc1p5etnuxwxfcwfl2zz389wdygn85d4xf63wxa5d33fv3kdwal2jclq4mvk7x\nvalue\n95820\nscriptpubkey\n5120bd81f63511e638d388615bfde1cffc034e1d48f3b35dba1255ab64217a26e6a0\nscriptpubkey_asm\nOP_PUSHNUM_1 OP_PUSHBYTES_32 bd81f63511e638d388615bfde1cffc034e1d48f3b35dba1255ab64217a26e6a0\nscriptpubkey_type\nv1_p2tr\nscriptpubkey_address\nbc1phkqlvdg3ucud8zrpt077rnluqd8p6j8nkdwm5yj44djzz73xu6sqpuwxks\nvalue\n19940\nsize\n312\nweight\n846\nfee\n4240\nstatus\nconfirmed\ntrue\nblock_height\n781721\nblock_hash\n000000000000000000042103982300bc3d11db42706ed633c55a10e21e7662d9\nblock_time\n1679351211",
+      "keywords": [
+        "op_pushbytes_32",
+        "op_pushnum_1",
+        "scriptpubkey",
+        "scriptpubkey_address",
+        "scriptpubkey_asm",
+        "scriptpubkey_type",
+        "v1_p2tr",
+        "value",
+        "txid",
+        "vout",
+        "bcd32d0b3a53d37a55624a3029998fb10d2a0348781a1c2fc89c4b2e093e0bf",
+        "bd81f63511e638d388615bfde1cffc034e1d48f3b35dba1255ab64217a26e6a0",
+        "false",
+        "is_coinbase",
+        "prevout",
+        "scriptsig",
+        "op_pushbytes_32 df9845aaf12b90b51fc6f2afd14b46b11d43fd1c141425de7aa4fcebc6b6207",
+        "op_pushnum_1 op_pushbytes_32"
+      ],
+      "text_length": 4194,
+      "word_count": 194,
+      "quality_score": 100,
+      "content_length": 4552,
+      "indexed_at": 1775564102211
+    },
     {
       "inscription_id": "a89f76b0739b25cfdd7a13186bce6a3ab2d211073a9876db40e2378582e78febi0",
       "block_height": 786318,
@@ -36843,117 +36949,6 @@
       "quality_score": 100,
       "content_length": 2473,
       "indexed_at": 1775559817216
-    },
-    {
-      "inscription_id": "d61ad705ed29b275fb394ade6576cc8e28540a4d09b98a6e1cf90d1b88cafc7ci0",
-      "block_height": 778107,
-      "content_type": "text/plain",
-      "encoding": "br",
-      "language": "plain",
-      "title": "DEATH OF A SEALSMAN",
-      "summary": "DEATH OF A SEALSMAN\nwritten by Arfur Miller\nAdapted for Bitcoin by Jpegflipflops \n\nACT ONE \n\nA melody is heard, played upon a seashell. It is small and fine, tell- ing of seaweed and sand and the ocean. The curtain rises. \n\nBefore us is the Sealsman’s rock.",
-      "body_excerpt": "DEATH OF A SEALSMAN\nwritten by Arfur Miller\nAdapted for Bitcoin by Jpegflipflops \n\nACT ONE \n\nA melody is heard, played upon a seashell. It is small and fine, tell- ing of seaweed and sand and the ocean. The curtain rises. \n\nBefore us is the Sealsman’s rock. We are aware of towering, angular shapes behind it, surrounding it on all sides. Only the blue light of the shimmering ocean falls upon the rock and forestage; the surrounding area shows an angry glow of orange. As more light appears, we see a solid vault of larger rock formations around the small, fragile-seeming rock. An air of the dream dings to the place, a dream rising out of reality.\n\nFrom the right, Travol Arfman, the Sealsman, enters, carrying two large sample artifact cases. The flute plays on. He hears but is not aware of it. He is past sixty years of age, dressed quietly. Even as he crosses the stage, his exhaustion is apparent. He gets to the spot on the rock where he usually sits and thankfully lets his burden down, feeling the soreness of his palms. A word-sigh escapes his lips — it might be »Oh, arf, oh, arf.«\n\nCaramelon, his wife, has stirred in her rock position at the right. She gets up and puts on a robe, listening. Most often jovial, she has developed an iron repression of her exceptions to Travol’s behavior — she more than loves him, she admires him, as though his mercurial nature, his temper, his massive dreams and little cruelties, served her only as sharp reminders of the turbulent longings within him, longings which she shares but lacks the temperament to utter and follow to their end.\n \nCaramelon (hearing Travol outside the bedroom, calls with some trepidation): Arf Travol! \n\nTravol: Arf, It’s all right. I came back. \n\nCaramelon: Why? What happened? (Slight pause.) Did something happen, Travol? \n\nTravol: No, nothing happened. Arf \n\nCaramelon: You didn’t smash into the seabed, did you? \n\nTravol (with casual irritation): I said nothing happened. Didn’t you hear me? \n\nCaramelon: Don’t you feel well? \n\nTravol: I’m tired to the death. (The flute has faded away. He sits on the bed beside her, a little numb.) Arf, I couldn’t make it. I just couldn’t make it, Caramelon. \n\nCaramelon (very carefully, delicately): Where were you all day? You look terrible. \n\nTravol: I got as far as a little above Yonkers. I stopped for a cup of coffee. Maybe it was the coffee. \n\nCaramelon: What? \n\nTravol (after a pause): I suddenly couldn’t swim any more. I kept veering and sinking? \n\nCaramelon (helpfully): Oh. Maybe it was the tide. Global warming has made it a lot less predictable. \n\nTravol: No, it’s me, it’s me. Suddenly I realize I’m swimmin’ thirty miles an hour and I don’t remember the last five minutes. I’m — I can’t seem to — keep my mind to it. \n\nCaramelon: Maybe it’s your glasses. You never went for your new glasses. \n\nTravol: Arf no, I see everything. I came back ten miles an hour. It took me nearly four hours from Yonkers. \n\nCaramelon (resigned): Well, you’ll just have to take a rest, Travol, you can’t continue this way. \n\nTravol: I just got back from Florida. \n\nCaramelon: Arf arf, but you didn’t rest your mind. Your mind is overactive, and the mind is what counts, dear. \n\nTravol: I’ll start out in the morning. Maybe I’ll feel better in the morning. \n\nCaramelon: Take an aspirin. Should I get you an aspirin? It’ll soothe you. \n\nTravol (with wonder): I was swimming along, you understand? And I was fine. I was even observing the scenery. You can imagine, me looking at scenery, on the seabed every week of my life. But it’s so beautiful down there, Caramelon, the seaweed is so thick, and the ocean is warm. And then all of a sudden I’m sinkin’! I’m tellin’ya, I absolutely forgot I was swimmin. Had I come to a little later, I could’ve drowned. So I swam back up— and five minutes later I’m dreamin’ again, and I nearly… arf (He presses his two fins against his eyes.) I have such thoughts, I have such strange thoughts. \n\nCaramelon: Travol, dear. Talk to them again. There’s no reason why you can’t work closer to home. \n\nTravol: I’m the US seal. I’m vital when I travel around the US. \n\nCaramelon: But you’re sixty arfin’ years old. They can’t expect you to keep travelling all over the USA. \n\nTravol: It’s in my name, Travol, the travelling sealsman. God arf mighty wanted it so. I’ll have to send a wire to Portland. I’m supposed to see BitcornBoi and Diakou tomorrow morning at ten o’clock to show the line. Godarffit, I could sell them! (He starts putting on his hoodie.) \n\nCaramelon (taking the hoodie from him): Why don’t you go down to the place tomorrow and tell Wab you’ve simply got to do more sealsman’s work closer to home? You’re too accommodating, dear. \n\nTravol: Arf, if Wab’s old man was alive I’d a been in charge of the US by now! That seal was a prince, he was a masterful seal. But that boy of his, that Wab, he don’t appreciate. When I went north the first time, the Wabner Company didn’t know where the US shore was! \n\nCaramelon: Why don’t you arf those things to Wab, dear? \n\nTravol (encouraged): I will, I definitely will. Is there any fish? \n\nCaramelon: I’ll make you a sandwich. \n\nTravol: No, go to sleep. I’ll take some milk. I’ll be up right away. The boys in? \n\nCaramelon: They’re sleeping. Mooney took Stormr on a date tonight. \n\nTravol (interested): That so? \n\nCaramelon: It was so nice to see them shaving their whiskers together, one behind the other, in the bathroom, arf arf. And going out together. You notice? The whole house smells of shaving lotion. \n\nTravol: Figure it out. Work a lifetime to pay off a house. You finally own it, and there’s nobody to live in it. \n\nCaramelon: Well, dear, life is a casting off. It’s always that way. \n\nTravol: No, no, some seals- some seals accomplish something. Did Stormr say anything after I went this morning? \n\nCaramelon: You shouldn’t have criticised him, Travol, especially after he had just come back. Arf, arf, You mustn’t lose your temper with him. \n\nTravol: When the arf did I lose my temper? I simply asked him if he was making any eth. Is that a criticism? \n\nCaramelon: But, dear, how could he make any eth? \n\nTravol (worried and angered): There’s such an undercurrent in him. He became a moody seal. Did he apologize when I left this morning? \n\nCaramelon: He was crestfallen, Travol. You know how he admires you. I think if he finds himself, then you’ll both be happier and not fight any more. \n\nTravol: How can he find himself on a sea farm? Is that a life? A sea farmhand? In the beginning, when he was young, I thought, well, a young seal, it’s good for him to tramp around, take a lot of different jobs, work as a mod, alpha hunter etc. But it’s more than ten years now and he has yet to make 0.069 ETH a week! \n\nCaramelon: He’s finding himself, Travol. \n\nTravol: Not finding yourself at the age of thirty-four is a disgrace! \n\nCaramelon: Shh! \n\nTravol: Why did he come home? I would like to know what brought him home. \n\nCaramelon: I don’t know. I think he’s still lost, Travol. I think he’s very lost. \n\nTravol: Stormr Arfman is lost. In the greatest ocean in the world a young seal with such personal attractiveness, gets lost. And such a hard worker. There’s one thing about Stormr he’s not lazy. \n\nCaramelon: Never. \n\nTravol (with pity and resolve): I’ll see him in the morning; I’ll have a nice talk with him. I’ll get him a job sealing. He could be big in no time. My God! Remember how they used to follow him around in seal school? When he arfed at one of them their faces lit up. When he swam down the stream... (He loses himself in reminiscences.) \n\nCaramelon (trying to bring him out of it): Travol, dear, I got a new kind of Norwegian salmon today. It’s mushed. \n\nTravol: Why do you get Norwegian when I like American? \n\nCaramelon: I just thought you’d like a change... \n\nTravol: I don’t want a change! I want American fish. Why am I always being contradicted?\n\n(On Travol’s last line, Stormr and Mooney raise themselves up in their beds, listening.) \n\nCaramelon: Go dow",
-      "keywords": [
-        "travol",
-        "caramelon",
-        "you",
-        "arf",
-        "him",
-        "his",
-        "dear",
-        "don",
-        "seal",
-        "morning",
-        "rock",
-        "sealsman",
-        "back",
-        "make",
-        "see",
-        "she",
-        "couldn make",
-        "nothing happened",
-        "above yonkers",
-        "adapted bitcoin"
-      ],
-      "text_length": 57782,
-      "word_count": 10771,
-      "quality_score": 100,
-      "content_length": 59945,
-      "indexed_at": 1775559802557
-    },
-    {
-      "inscription_id": "5c4211cd9be13a8f37ba6a227bb9b13085f17cd4e909412ef6e4f0fdda630d5di0",
-      "block_height": 778093,
-      "content_type": "text/plain",
-      "encoding": "br",
-      "language": "plain",
-      "title": "DEATH OF A SALESMAN",
-      "summary": "DEATH OF A SALESMAN\nwritten by Arfur Miller\nAdapted for Bitcoin inscription by Jpegflipflops \n\nACT ONE \n\nA melody is heard, played upon a seashell. It is small and fine, tell- ing of seaweed and sand and the ocean. The curtain rises. \n\nBefore us is the Sealsman’s rock.",
-      "body_excerpt": "DEATH OF A SALESMAN\nwritten by Arfur Miller\nAdapted for Bitcoin inscription by Jpegflipflops \n\nACT ONE \n\nA melody is heard, played upon a seashell. It is small and fine, tell- ing of seaweed and sand and the ocean. The curtain rises. \n\nBefore us is the Sealsman’s rock. We are aware of towering, angular shapes behind it, surrounding it on all sides. Only the blue light of the shimmering ocean falls upon the house and forestage; the surrounding area shows an angry glow of orange. As more light appears, we see a solid vault of larger rock formations around the small, fragile-seeming rock. An air of the dream dings to the place, a dream rising out of reality.\n\nFrom the right, Travol Arfman, the Sealsman, enters, carrying two large sample artifact cases. The flute plays on. He hears but is not aware of it. He is past sixty years of age, dressed quietly. Even as he crosses the stage, his exhaustion is apparent. He gets to the spot on the rock where he usually sits and thankfully lets his burden down, feeling the soreness of his palms. A word-sigh escapes his lips — it might be »Oh, arf, oh, arf.«\n\nCaramelon, his wife, has stirred in her rock position at the right. She gets up and puts on a robe, listening. Most often jovial, she has developed an iron repression of her exceptions to Travol’s behavior — she more than loves him, she admires him, as though his mercurial nature, his temper, his massive dreams and little cruelties, served her only as sharp reminders of the turbulent longings within him, longings which she shares but lacks the temperament to utter and follow to their end.\n \nCaramelon (hearing Travol outside the bedroom, calls with some trepidation): Arf Travol! \n\nTravol: Arf, It’s all right. I came back. \n\nCaramelon: Why? What happened? (Slight pause.) Did something happen, Travol? \n\nTravol: No, nothing happened. Arf \n\nCaramelon: You didn’t smash into the seabed, did you? \n\nTravol (with casual irritation): I said nothing happened. Didn’t you hear me? \n\nCaramelon: Don’t you feel well? \n\nTravol: I’m tired to the death. (The flute has faded away. He sits on the bed beside her, a little numb.) Arf, I couldn’t make it. I just couldn’t make it, Caramelon. \n\nCaramelon (very carefully, delicately): Where were you all day? You look terrible. \n\nTravol: I got as far as a little above Yonkers. I stopped for a cup of coffee. Maybe it was the coffee. \n\nCaramelon: What? \n\nTravol (after a pause): I suddenly couldn’t swim any more. I kept veering and sinking? \n\nCaramelon (helpfully): Oh. Maybe it was the tide. Global warming has made it a lot less predictable. \n\nTravol: No, it’s me, it’s me. Suddenly I realize I’m swimmin’ thirty miles an hour and I don’t remember the last five minutes. I’m — I can’t seem to — keep my mind to it. \n\nCaramelon: Maybe it’s your glasses. You never went for your new glasses. \n\nTravol: Arf no, I see everything. I came back ten miles an hour. It took me nearly four hours from Yonkers. \n\nCaramelon (resigned): Well, you’ll just have to take a rest, Travol, you can’t continue this way. \n\nTravol: I just got back from Florida. \n\nCaramelon: Arf arf, but you didn’t rest your mind. Your mind is overactive, and the mind is what counts, dear. \n\nTravol: I’ll start out in the morning. Maybe I’ll feel better in the morning. \n\nCaramelon: Take an aspirin. Should I get you an aspirin? It’ll soothe you. \n\nTravol (with wonder): I was swimming along, you understand? And I was fine. I was even observing the scenery. You can imagine, me looking at scenery, on the seabed every week of my life. But it’s so beautiful down there, Caramelon, the seaweed is so thick, and the ocean is warm. And then all of a sudden I’m sinkin’! I’m tellin’ya, I absolutely forgot I was swimmin. Had I come to a little later, I could’ve drowned. So I swam back up— and five minutes later I’m dreamin’ again, and I nearly… arf (He presses his two fins against his eyes.) I have such thoughts, I have such strange thoughts. \n\nCaramelon: Travol, dear. Talk to them again. There’s no reason why you can’t work closer to home. \n\nTravol: I’m the US seal. I’m vital when I travel around the US. \n\nCaramelon: But you’re sixty arfin’ years old. They can’t expect you to keep travelling all over the USA. \n\nTravol: It’s in my name, Travol, the travelling sealsman. God arf mighty wanted it so. I’ll have to send a wire to Portland. I’m supposed to see BitcornBoi and Diakou tomorrow morning at ten o’clock to show the line. Godarffit, I could sell them! (He starts putting on his hoodie.) \n\nCaramelon (taking the hoodie from him): Why don’t you go down to the place tomorrow and tell Wab you’ve simply got to do more sealsman’s work closer to home? You’re too accommodating, dear. \n\nTravol: Arf, if Wab’s old man was alive I’d a been in charge of the US by now! That seal was a prince, he was a masterful seal. But that boy of his, that Wab, he don’t appreciate. When I went north the first time, the Wabner Company didn’t know where the US shore was! \n\nCaramelon: Why don’t you arf those things to Wab, dear? \n\nTravol (encouraged): I will, I definitely will. Is there any fish? \n\nCaramelon: I’ll make you a sandwich. \n\nTravol: No, go to sleep. I’ll take some milk. I’ll be up right away. The boys in? \n\nCaramelon: They’re sleeping. Mooney took Stormr on a date tonight. \n\nTravol (interested): That so? \n\nCaramelon: It was so nice to see them shaving their whiskers together, one behind the other, in the bathroom, arf arf. And going out together. You notice? The whole house smells of shaving lotion. \n\nTravol: Figure it out. Work a lifetime to pay off a house. You finally own it, and there’s nobody to live in it. \n\nCaramelon: Well, dear, life is a casting off. It’s always that way. \n\nTravol: No, no, some seals- some seals accomplish something. Did Stormr say anything after I went this morning? \n\nCaramelon: You shouldn’t have criticised him, Travol, especially after he had just come back. Arf, arf, You mustn’t lose your temper with him. \n\nTravol: When the arf did I lose my temper? I simply asked him if he was making any eth. Is that a criticism? \n\nCaramelon: But, dear, how could he make any eth? \n\nTravol (worried and angered): There’s such an undercurrent in him. He became a moody seal. Did he apologize when I left this morning? \n\nCaramelon: He was crestfallen, Travol. You know how he admires you. I think if he finds himself, then you’ll both be happier and not fight any more. \n\nTravol: How can he find himself on a sea farm? Is that a life? A sea farmhand? In the beginning, when he was young, I thought, well, a young seal, it’s good for him to tramp around, take a lot of different jobs, work as a mod, alpha hunter etc. But it’s more than ten years now and he has yet to make 0.069 ETH a week! \n\nCaramelon: He’s finding himself, Travol. \n\nTravol: Not finding yourself at the age of thirty-four is a disgrace! \n\nCaramelon: Shh! \n\nTravol: Why did he come home? I would like to know what brought him home. \n\nCaramelon: I don’t know. I think he’s still lost, Travol. I think he’s very lost. \n\nTravol: Stormr Arfman is lost. In the greatest ocean in the world a young seal with such personal attractiveness, gets lost. And such a hard worker. There’s one thing about Stormr he’s not lazy. \n\nCaramelon: Never. \n\nTravol (with pity and resolve): I’ll see him in the morning; I’ll have a nice talk with him. I’ll get him a job sealing. He could be big in no time. My God! Remember how they used to follow him around in seal school? When he arfed at one of them their faces lit up. When he swam down the stream... (He loses himself in reminiscences.) \n\nCaramelon (trying to bring him out of it): Travol, dear, I got a new kind of Norwegian salmon today. It’s mushed. \n\nTravol: Why do you get Norwegian when I like American? \n\nCaramelon: I just thought you’d like a change... \n\nTravol: I don’t want a change! I want American fish. Why am I always being contradicted?\n\n(On Travol’s last line, Stormr and Mooney raise themselves up in their beds, listening.) \n\nCara",
-      "keywords": [
-        "travol",
-        "caramelon",
-        "you",
-        "arf",
-        "him",
-        "his",
-        "dear",
-        "don",
-        "seal",
-        "morning",
-        "back",
-        "make",
-        "rock",
-        "see",
-        "she",
-        "stormr",
-        "couldn make",
-        "nothing happened",
-        "above yonkers",
-        "adapted bitcoin"
-      ],
-      "text_length": 57799,
-      "word_count": 10772,
-      "quality_score": 100,
-      "content_length": 59965,
-      "indexed_at": 1775559800244
-    },
-    {
-      "inscription_id": "c6443c6e3660f7f1374ccad70cd397063334c0225f85ce3a42136e7abb458630i0",
-      "block_height": 778086,
-      "content_type": "text/plain",
-      "encoding": "br",
-      "language": "plain",
-      "title": "Nel mezzo del cammin di nostra vita",
-      "summary": "Nel mezzo del cammin di nostra vita\nmi ritrovai per una selva oscura,\nché la diritta via era smarrita.\n\nAhi quanto a dir qual era è cosa dura\nesta selva selvaggia e aspra e forte\nche nel pensier rinova la paura!\n\nTant’è amara che poco è più morte;\nma per trattar del ben ch’i’ vi…",
-      "body_excerpt": "Nel mezzo del cammin di nostra vita\nmi ritrovai per una selva oscura,\nché la diritta via era smarrita.\n\nAhi quanto a dir qual era è cosa dura\nesta selva selvaggia e aspra e forte\nche nel pensier rinova la paura!\n\nTant’è amara che poco è più morte;\nma per trattar del ben ch’i’ vi trovai,\ndirò de l’altre cose ch’i’ v’ ho scorte.\n\nIo non so ben ridir com’i’ v’intrai,\ntant’era pien di sonno a quel punto\nche la verace via abbandonai.\n\nMa poi ch’i’ fui al piè d’un colle giunto,\nlà dove terminava quella valle\nche m’avea di paura il cor compunto,\n\nguardai in alto e vidi le sue spalle\nvestite già de’ raggi del pianeta\nche mena dritto altrui per ogne calle.\n\nAllor fu la paura un poco queta,\nche nel lago del cor m’era durata\nla notte ch’i’ passai con tanta pieta.\n\nE come quei che con lena affannata,\nuscito fuor del pelago a la riva,\nsi volge a l’acqua perigliosa e guata,\n\ncosì l’animo mio, ch’ancor fuggiva,\nsi volse a retro a rimirar lo passo\nche non lasciò già mai persona viva.\n\nPoi ch’èi posato un poco il corpo lasso,\nripresi via per la piaggia diserta,\nsì che ’l piè fermo sempre era ’l più basso.\n\nEd ecco, quasi al cominciar de l’erta,\nuna lonza leggera e presta molto,\nche di pel macolato era coverta;\n\ne non mi si partia dinanzi al volto,\nanzi ’mpediva tanto il mio cammino,\nch’i’ fui per ritornar più volte vòlto.\n\nTemp’era dal principio del mattino,\ne ’l sol montava ’n sù con quelle stelle\nch’eran con lui quando l’amor divino\n\nmosse di prima quelle cose belle;\nsì ch’a bene sperar m’era cagione\ndi quella fiera a la gaetta pelle\n\nl’ora del tempo e la dolce stagione;\nma non sì che paura non mi desse\nla vista che m’apparve d’un leone.\n\nQuesti parea che contra me venisse\ncon la test’alta e con rabbiosa fame,\nsì che parea che l’aere ne tremesse.\n\nEd una lupa, che di tutte brame\nsembiava carca ne la sua magrezza,\ne molte genti fé già viver grame,\n\nquesta mi porse tanto di gravezza\ncon la paura ch’uscia di sua vista,\nch’io perdei la speranza de l’altezza.\n\nE qual è quei che volontieri acquista,\ne giugne ’l tempo che perder lo face,\nche ’n tutti suoi pensier piange e s’attrista;\n\ntal mi fece la bestia sanza pace,\nche, venendomi ’ncontro, a poco a poco\nmi ripigneva là dove ’l sol tace.\n\nMentre ch’i’ rovinava in basso loco,\ndinanzi a li occhi mi si fu offerto\nchi per lungo silenzio parea fioco.\n\nQuando vidi costui nel gran diserto,\n\"Miserere di me\", gridai a lui,\n\"qual che tu sii, od ombra od omo certo!\".\n\nRispuosemi: \"Non omo, omo già fui,\ne li parenti miei furon lombardi,\nmantoani per patrïa ambedui.\n\nNacqui sub Iulio, ancor che fosse tardi,\ne vissi a Roma sotto ’l buono Augusto\nnel tempo de li dèi falsi e bugiardi.\n\nPoeta fui, e cantai di quel giusto\nfigliuol d’Anchise che venne di Troia,\npoi che ’l superbo Ilïón fu combusto.\n\nMa tu perché ritorni a tanta noia?\nperché non sali il dilettoso monte\nch’è principio e cagion di tutta gioia?\".\n\n\"Or se’ tu quel Virgilio e quella fonte\nche spandi di parlar sì largo fiume?\",\nrispuos’io lui con vergognosa fronte.\n\n\"O de li altri poeti onore e lume,\nvagliami ’l lungo studio e ’l grande amore\nche m’ ha fatto cercar lo tuo volume.\n\nTu se’ lo mio maestro e ’l mio autore,\ntu se’ solo colui da cu’ io tolsi\nlo bello stilo che m’ ha fatto onore.\n\nVedi la bestia per cu’ io mi volsi;\naiutami da lei, famoso saggio,\nch’ella mi fa tremar le vene e i polsi\".\n\n\"A te convien tenere altro vïaggio\",\nrispuose, poi che lagrimar mi vide,\n\"se vuo’ campar d’esto loco selvaggio;\n\nché questa bestia, per la qual tu gride,\nnon lascia altrui passar per la sua via,\nma tanto lo ’mpedisce che l’uccide;\n\ne ha natura sì malvagia e ria,\nche mai non empie la bramosa voglia,\ne dopo ’l pasto ha più fame che pria.\n\nMolti son li animali a cui s’ammoglia,\ne più saranno ancora, infin che ’l veltro\nverrà, che la farà morir con doglia.\n\nQuesti non ciberà terra né peltro,\nma sapïenza, amore e virtute,\ne sua nazion sarà tra feltro e feltro.\n\nDi quella umile Italia fia salute\nper cui morì la vergine Cammilla,\nEurialo e Turno e Niso di ferute.\n\nQuesti la caccerà per ogne villa,\nfin che l’avrà rimessa ne lo ’nferno,\nlà onde ’nvidia prima dipartilla.\n\nOnd’io per lo tuo me’ penso e discerno\nche tu mi segui, e io sarò tua guida,\ne trarrotti di qui per loco etterno;\n\nove udirai le disperate strida,\nvedrai li antichi spiriti dolenti,\nch’a la seconda morte ciascun grida;\n\ne vederai color che son contenti\nnel foco, perché speran di venire\nquando che sia a le beate genti.\n\nA le quai poi se tu vorrai salire,\nanima fia a ciò più di me degna:\ncon lei ti lascerò nel mio partire;\n\nché quello imperador che là sù regna,\nperch’i’ fu’ ribellante a la sua legge,\nnon vuol che ’n sua città per me si vegna.\n\nIn tutte parti impera e quivi regge;\nquivi è la sua città e l’alto seggio:\noh felice colui cu’ ivi elegge!\".\n\nE io a lui: \"Poeta, io ti richeggio\nper quello Dio che tu non conoscesti,\nacciò ch’io fugga questo male e peggio,\n\nche tu mi meni là dov’or dicesti,\nsì ch’io veggia la porta di san Pietro\ne color cui tu fai cotanto mesti\".\n\nAllor si mosse, e io li tenni dietro.",
-      "keywords": [
-        "che",
-        "non",
-        "con",
-        "del",
-        "era",
-        "nel",
-        "sua",
-        "mio",
-        "paura",
-        "poco",
-        "poi",
-        "fui",
-        "lui",
-        "perch",
-        "qual",
-        "quella",
-        "ahi quanto",
-        "allor paura",
-        "alto vidi",
-        "altre cose"
-      ],
-      "text_length": 5022,
-      "word_count": 993,
-      "quality_score": 100,
-      "content_length": 5264,
-      "indexed_at": 1775559798942
     }
   ]
 }
