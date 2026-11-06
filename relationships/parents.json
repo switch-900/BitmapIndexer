@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54057,
-  "total_relations": 2559170,
-  "distinct_targets": 2513115,
-  "updatedAt": "2026-11-06T20:21:20.729Z",
+  "total_relations": 2559175,
+  "distinct_targets": 2513120,
+  "updatedAt": "2026-11-06T20:34:04.611Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -3579,19 +3579,19 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "2125ef67c2e3398d7e2227bac3d7c7f410d2cc545807616a76ee8027d3666ddci0",
+      "title": "Parent (285 children)",
+      "title_source": "content",
+      "height": 929411,
+      "relation_count": 506,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "86c8774a017cb7411c49a668a4c1860c339313b72507f01e1e27850d00f7bdd2i0",
       "title": "Birds of a Generative 1.0",
       "title_source": "content",
       "height": 876096,
       "relation_count": 506,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "2125ef67c2e3398d7e2227bac3d7c7f410d2cc545807616a76ee8027d3666ddci0",
-      "title": "Parent (285 children)",
-      "title_source": "content",
-      "height": 929411,
-      "relation_count": 505,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -3651,6 +3651,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "4d46eca8236469514f7c127225d930a4bb208ffc6c3049b71eb8cfd4ab2ea2bfi0",
+      "title": "Parent (297 children)",
+      "title_source": "content",
+      "height": 939377,
+      "relation_count": 501,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "f1b9815402b8b5101487bbd2faa88d55c5e6ee1fc11527ebc64d3456a82fbfb2i0",
       "title": "Parent (501 children)",
       "title_source": "content",
@@ -3681,14 +3689,6 @@
       "height": 971114,
       "relation_count": 500,
       "content_type": "application/json"
-    },
-    {
-      "id": "4d46eca8236469514f7c127225d930a4bb208ffc6c3049b71eb8cfd4ab2ea2bfi0",
-      "title": "Parent (297 children)",
-      "title_source": "content",
-      "height": 939377,
-      "relation_count": 500,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "65d8bf5914877a670d6d2cb1ed44b08f857a7c49d6fe4d2704804212a4359ad5i0",
@@ -4119,7 +4119,7 @@
       "title": "Parent (234 children)",
       "title_source": "content",
       "height": 928704,
-      "relation_count": 405,
+      "relation_count": 406,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -6227,20 +6227,20 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "27c733df4376b54b4171bfe5c703eb7f0e13780f79431f4c5779d774c717c594i0",
+      "title": "Parent (17 children)",
+      "title_source": "content",
+      "height": 939379,
+      "relation_count": 193,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "1d4b96e415269cc4613aa22de3dc0fa60d7537691f32f5db0ae4a5ab7d002f08i0",
       "title": "Parent (192 children)",
       "title_source": "content",
       "height": 889738,
       "relation_count": 192,
       "content_type": "image/gif"
-    },
-    {
-      "id": "27c733df4376b54b4171bfe5c703eb7f0e13780f79431f4c5779d774c717c594i0",
-      "title": "Parent (17 children)",
-      "title_source": "content",
-      "height": 939379,
-      "relation_count": 192,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "2c7d48d8045470bd14b644a31cf9f4374ef89f1ae3b848c9555b9ee79535b5f3i0",
@@ -6339,6 +6339,14 @@
       "content_type": "image/webp"
     },
     {
+      "id": "45f0412b8f55576e7ea6bcd86a334f20bc5776e2c0e921040411f57c62d031abi0",
+      "title": "Parent (86 children)",
+      "title_source": "content",
+      "height": 837280,
+      "relation_count": 181,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "72ec20b6279e66317833ce9ded46f1e32aad58f5d063b006449253d112832551i1",
       "title": "Puppet Surprise",
       "title_source": "content",
@@ -6361,14 +6369,6 @@
       "height": 863079,
       "relation_count": 180,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "45f0412b8f55576e7ea6bcd86a334f20bc5776e2c0e921040411f57c62d031abi0",
-      "title": "Parent (86 children)",
-      "title_source": "content",
-      "height": 837280,
-      "relation_count": 180,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "7b0996edbb2a36fbe2615907447a269b40e3d94705190ece751333b5f11b4e50i0",
