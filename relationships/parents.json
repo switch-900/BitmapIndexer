@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 54068,
-  "total_relations": 2559525,
-  "distinct_targets": 2513470,
-  "updatedAt": "2026-11-08T11:35:14.594Z",
+  "count": 54069,
+  "total_relations": 2559563,
+  "distinct_targets": 2513508,
+  "updatedAt": "2026-11-08T11:42:35.093Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -2039,7 +2039,7 @@
       "title": "Parent (55 children)",
       "title_source": "content",
       "height": 972977,
-      "relation_count": 1516,
+      "relation_count": 1530,
       "content_type": "application/json"
     },
     {
@@ -6227,6 +6227,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "09c833a01c0c524e48c97ee3ce0748e033c0902ee8fad402c1c6fb41f7ea5cb2i0",
+      "title": "Parent (2 children)",
+      "title_source": "content",
+      "height": 974727,
+      "relation_count": 194,
+      "content_type": "application/json"
+    },
+    {
       "id": "27c733df4376b54b4171bfe5c703eb7f0e13780f79431f4c5779d774c717c594i0",
       "title": "Parent (17 children)",
       "title_source": "content",
@@ -6377,14 +6385,6 @@
       "height": 884018,
       "relation_count": 180,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "09c833a01c0c524e48c97ee3ce0748e033c0902ee8fad402c1c6fb41f7ea5cb2i0",
-      "title": "Parent (2 children)",
-      "title_source": "content",
-      "height": 974727,
-      "relation_count": 178,
-      "content_type": "application/json"
     },
     {
       "id": "33333333639df259af12d51511c9f118df474a08b06b0b19b157b8b2d14c0bb0i0",
@@ -79089,6 +79089,14 @@
       "height": 933071,
       "relation_count": 8,
       "content_type": "image/png"
+    },
+    {
+      "id": "fbb0a609b581f1605a77d2cec59cd6103582b21261d321d46f0fb37fac2f30c8i0",
+      "title": "Parent (8 children)",
+      "title_source": "unknown",
+      "height": 975049,
+      "relation_count": 8,
+      "content_type": "application/json"
     },
     {
       "id": "fd5b5e8581a7536c3651d5c7ec605728314da582d1a356dda8211aa4a1621a83i0",
