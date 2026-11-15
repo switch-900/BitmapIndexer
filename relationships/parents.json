@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54108,
-  "total_relations": 2561311,
-  "distinct_targets": 2515256,
-  "updatedAt": "2026-11-15T02:15:02.962Z",
+  "total_relations": 2561326,
+  "distinct_targets": 2515271,
+  "updatedAt": "2026-11-15T02:25:06.621Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -24459,6 +24459,14 @@
       "content_type": "image/avif"
     },
     {
+      "id": "ecfa9f5ec95ec214488c70c951f9148bbc772bc796d3108826788c2a1edec9a6i0",
+      "title": "Parent (2 children)",
+      "title_source": "content",
+      "height": 974768,
+      "relation_count": 36,
+      "content_type": "application/json"
+    },
+    {
       "id": "ef3dcc5c5510dfff86d1ab82fea02554a0ae8268ae12ff9a345d018f1a2a5c70i0",
       "title": "Toxic Chicks",
       "title_source": "content",
@@ -38673,14 +38681,6 @@
       "height": 920346,
       "relation_count": 21,
       "content_type": "image/webp"
-    },
-    {
-      "id": "ecfa9f5ec95ec214488c70c951f9148bbc772bc796d3108826788c2a1edec9a6i0",
-      "title": "Parent (2 children)",
-      "title_source": "content",
-      "height": 974768,
-      "relation_count": 21,
-      "content_type": "application/json"
     },
     {
       "id": "f71768088373ef507af53b53490d09605737fd13823d0cfec8741f132d94b28bi515",
