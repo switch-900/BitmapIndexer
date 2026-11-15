@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 54104,
-  "total_relations": 2561271,
-  "distinct_targets": 2515216,
-  "updatedAt": "2026-11-14T23:48:09.129Z",
+  "count": 54106,
+  "total_relations": 2561273,
+  "distinct_targets": 2515218,
+  "updatedAt": "2026-11-14T23:56:05.505Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -275461,7 +275461,7 @@
     {
       "id": "5ae7df3fa06f44662b6cdbc70b035ac4b674b39270db231101bcc4235e4e5d81i0",
       "title": "Parent (1 children)",
-      "title_source": "unknown",
+      "title_source": "content",
       "height": 975754,
       "relation_count": 1,
       "content_type": "image/png"
@@ -296481,6 +296481,14 @@
       "height": 795164,
       "relation_count": 1,
       "content_type": "text/plain"
+    },
+    {
+      "id": "6dc1ab9dd1f18775da820ab58308cd6146c55a5cfec551cb658e1d05822801fci0",
+      "title": "Parent (1 children)",
+      "title_source": "unknown",
+      "height": 975842,
+      "relation_count": 1,
+      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "6dc2f9d279ad57c568547aa0fbe4b012fe3fdc34fb2ff706fb4be702ff6ae92ai0",
@@ -363275,6 +363283,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "bf85f71fcebd25764b57cd658e53789edd414fdf794609b04de64dd58d82c61fi0",
+      "title": "Parent (1 children)",
+      "title_source": "unknown",
+      "height": 975845,
+      "relation_count": 1,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "bf88486200d032a8acdfe7d52f0229ab0d0ee4ee70fa137241a7a26b09f6d228i0",
       "title": "Parent (1 children)",
       "title_source": "content",
@@ -381781,7 +381797,7 @@
     {
       "id": "d16fc16483cdab6e886032c74210cc35aa40d30780d89ebe211e73552b254f70i0",
       "title": "Parent (1 children)",
-      "title_source": "unknown",
+      "title_source": "content",
       "height": 947780,
       "relation_count": 1,
       "content_type": "application/javascript"
