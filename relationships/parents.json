@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 54117,
+  "count": 54118,
   "total_relations": 2561809,
   "distinct_targets": 2515754,
-  "updatedAt": "2026-11-15T21:46:04.091Z",
+  "updatedAt": "2026-11-15T21:54:50.965Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -4775,7 +4775,7 @@
       "title": "Parent (1 children)",
       "title_source": "content",
       "height": 972239,
-      "relation_count": 315,
+      "relation_count": 316,
       "content_type": "image/svg+xml"
     },
     {
@@ -69467,6 +69467,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "161ea7934f7fb35f75c93c8a91a096f7b43b39e179cc2826a5387fd2e9bb47e8i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 972829,
+      "relation_count": 8,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
       "id": "16d1f66ddbc9b80b1fc9ae35a7482c0221883ab4c521c9198e3f626e8b3550a9i104",
       "title": "Parent (8 children)",
       "title_source": "content",
@@ -80009,14 +80017,6 @@
       "height": 884206,
       "relation_count": 7,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "161ea7934f7fb35f75c93c8a91a096f7b43b39e179cc2826a5387fd2e9bb47e8i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 972829,
-      "relation_count": 7,
-      "content_type": "text/html;charset=utf-8"
     },
     {
       "id": "16d1f66ddbc9b80b1fc9ae35a7482c0221883ab4c521c9198e3f626e8b3550a9i26",
@@ -260529,6 +260529,14 @@
       "height": 916369,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
+    },
+    {
+      "id": "4be26f398aef85498606aedbeab86f9a5fad50d1bdfbeed55b53bbcfdb3fda3ei0",
+      "title": "TROLL TV",
+      "title_source": "content",
+      "height": 975802,
+      "relation_count": 1,
+      "content_type": "text/html"
     },
     {
       "id": "4be5455547887544ac2927d5243182585a055c7b30bb580c0489bdc9fd6580f7i0",
