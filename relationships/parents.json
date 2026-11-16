@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54121,
-  "total_relations": 2561947,
-  "distinct_targets": 2515892,
-  "updatedAt": "2026-11-16T12:25:48.586Z",
+  "total_relations": 2561948,
+  "distinct_targets": 2515893,
+  "updatedAt": "2026-11-16T12:35:48.211Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -20123,6 +20123,14 @@
       "content_type": null
     },
     {
+      "id": "4be26f398aef85498606aedbeab86f9a5fad50d1bdfbeed55b53bbcfdb3fda3ei0",
+      "title": "TROLL TV",
+      "title_source": "content",
+      "height": 975802,
+      "relation_count": 44,
+      "content_type": "text/html"
+    },
+    {
       "id": "583e8d426411a8804d646e1319cc009e67d0fe0acae850706bade507aeeb44f5i342",
       "title": "Parent (44 children)",
       "title_source": "content",
@@ -20513,14 +20521,6 @@
       "height": 874143,
       "relation_count": 43,
       "content_type": null
-    },
-    {
-      "id": "4be26f398aef85498606aedbeab86f9a5fad50d1bdfbeed55b53bbcfdb3fda3ei0",
-      "title": "TROLL TV",
-      "title_source": "content",
-      "height": 975802,
-      "relation_count": 43,
-      "content_type": "text/html"
     },
     {
       "id": "4e022135f5438fd5257cd59a08e421adb80467d50e7da6b357ce759bde674914i1273",
