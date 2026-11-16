@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54121,
-  "total_relations": 2561852,
-  "distinct_targets": 2515797,
-  "updatedAt": "2026-11-16T08:12:54.534Z",
+  "total_relations": 2561871,
+  "distinct_targets": 2515816,
+  "updatedAt": "2026-11-16T08:32:00.328Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -4667,20 +4667,20 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 972239,
+      "relation_count": 324,
+      "content_type": "image/svg+xml"
+    },
+    {
       "id": "ec56f4feafe41e36bce691ac8536f301c7e0aa6d4de37a7bacb39d64aaa0cfa5i0",
       "title": "Parent (324 children)",
       "title_source": "content",
       "height": 858923,
       "relation_count": 324,
       "content_type": "model/gltf-binary"
-    },
-    {
-      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 972239,
-      "relation_count": 323,
-      "content_type": "image/svg+xml"
     },
     {
       "id": "e4f6f03cfc2052eb38276c554b49d713897c289b68ac10cab4fac5296c8d51d9i0",
@@ -20515,6 +20515,14 @@
       "content_type": null
     },
     {
+      "id": "4be26f398aef85498606aedbeab86f9a5fad50d1bdfbeed55b53bbcfdb3fda3ei0",
+      "title": "TROLL TV",
+      "title_source": "content",
+      "height": 975802,
+      "relation_count": 43,
+      "content_type": "text/html"
+    },
+    {
       "id": "4e022135f5438fd5257cd59a08e421adb80467d50e7da6b357ce759bde674914i1273",
       "title": "Parent (43 children)",
       "title_source": "content",
@@ -33025,14 +33033,6 @@
       "height": 874260,
       "relation_count": 25,
       "content_type": null
-    },
-    {
-      "id": "4be26f398aef85498606aedbeab86f9a5fad50d1bdfbeed55b53bbcfdb3fda3ei0",
-      "title": "TROLL TV",
-      "title_source": "content",
-      "height": 975802,
-      "relation_count": 25,
-      "content_type": "text/html"
     },
     {
       "id": "4e022135f5438fd5257cd59a08e421adb80467d50e7da6b357ce759bde674914i1090",
