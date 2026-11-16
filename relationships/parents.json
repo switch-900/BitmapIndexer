@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54121,
-  "total_relations": 2561949,
-  "distinct_targets": 2515894,
-  "updatedAt": "2026-11-16T13:24:38.860Z",
+  "total_relations": 2561970,
+  "distinct_targets": 2515915,
+  "updatedAt": "2026-11-16T13:33:44.778Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -4523,6 +4523,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 972239,
+      "relation_count": 335,
+      "content_type": "image/svg+xml"
+    },
+    {
       "id": "fc5807e82fae45211680cb3061d505f5db4864de7e66b3f525c844f8ab5fd1c1i0",
       "title": "<html><head><meta charset=\"utf-8\"><style>body{margin:0;}</style></head><body><div id=\"scene\"></div><script>",
       "title_source": "content",
@@ -4537,14 +4545,6 @@
       "height": 837634,
       "relation_count": 334,
       "content_type": "image/png"
-    },
-    {
-      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 972239,
-      "relation_count": 334,
-      "content_type": "image/svg+xml"
     },
     {
       "id": "040cf1b0187ee153260f6cfbdf820deb19a316f488fcc960dd3443a886df998ci0",
@@ -5803,6 +5803,14 @@
       "content_type": "image/jpeg"
     },
     {
+      "id": "580a833ec53259f1bcd698a957fa223a9cfd13a56018ca93626e24eeee68779fi0",
+      "title": "Parent (23 children)",
+      "title_source": "content",
+      "height": 975978,
+      "relation_count": 221,
+      "content_type": "application/json"
+    },
+    {
       "id": "97655965fda761c42d3c9887ae32f005d17b536e59874100e949989317b12a82i0",
       "title": "<!-- SONG: HOODIE GANG BY KRAZY KIMBERLIN -->",
       "title_source": "content",
@@ -6089,14 +6097,6 @@
       "height": 945631,
       "relation_count": 201,
       "content_type": "image/webp"
-    },
-    {
-      "id": "580a833ec53259f1bcd698a957fa223a9cfd13a56018ca93626e24eeee68779fi0",
-      "title": "Parent (23 children)",
-      "title_source": "content",
-      "height": 975978,
-      "relation_count": 201,
-      "content_type": "application/json"
     },
     {
       "id": "65ba9722c65ccb3bbeaaf173be4d2d58855fc43c24d77ece202976317545be36i0",
