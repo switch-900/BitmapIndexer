@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54123,
-  "total_relations": 2562748,
-  "distinct_targets": 2516693,
-  "updatedAt": "2026-11-17T15:24:14.321Z",
+  "total_relations": 2562768,
+  "distinct_targets": 2516713,
+  "updatedAt": "2026-11-17T15:32:34.367Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -3419,6 +3419,14 @@
       "content_type": "image/svg+xml"
     },
     {
+      "id": "580a833ec53259f1bcd698a957fa223a9cfd13a56018ca93626e24eeee68779fi0",
+      "title": "Parent (23 children)",
+      "title_source": "content",
+      "height": 975978,
+      "relation_count": 553,
+      "content_type": "application/json"
+    },
+    {
       "id": "ef15b77f25f66d552db4069fee82bdae3f3d69904d8156ebfef6807e4f3bf851i0",
       "title": "THE GIFT",
       "title_source": "content",
@@ -3441,14 +3449,6 @@
       "height": 876395,
       "relation_count": 535,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "580a833ec53259f1bcd698a957fa223a9cfd13a56018ca93626e24eeee68779fi0",
-      "title": "Parent (23 children)",
-      "title_source": "content",
-      "height": 975978,
-      "relation_count": 533,
-      "content_type": "application/json"
     },
     {
       "id": "69382b4c06bb2749a998f22516d6dac73da6c49843592986d5616ce4aedf13e9i0",
