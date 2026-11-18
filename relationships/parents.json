@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54127,
-  "total_relations": 2563311,
-  "distinct_targets": 2517256,
-  "updatedAt": "2026-11-18T20:52:50.482Z",
+  "total_relations": 2563313,
+  "distinct_targets": 2517258,
+  "updatedAt": "2026-11-18T21:00:21.994Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -3871,7 +3871,7 @@
       "title": "Parent (1 children)",
       "title_source": "content",
       "height": 972239,
-      "relation_count": 458,
+      "relation_count": 459,
       "content_type": "image/svg+xml"
     },
     {
@@ -111787,6 +111787,14 @@
       "content_type": "image/jpeg"
     },
     {
+      "id": "a45adb6e7dbeb23670a94b8c98ed5e9fa396b3147a4f526e6c876a02dd6c24a1i0",
+      "title": "GenArt on BTC by Buitrago Seal",
+      "title_source": "content",
+      "height": 879674,
+      "relation_count": 4,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
       "id": "a533936333a47e7aa90249f3beef69dc38c2455b00748b207376c62ce5ad56f9i4",
       "title": "assets.brandonmarshall.btc",
       "title_source": "content",
@@ -131023,14 +131031,6 @@
       "title": "Parent (3 children)",
       "title_source": "content",
       "height": 871809,
-      "relation_count": 3,
-      "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "a45adb6e7dbeb23670a94b8c98ed5e9fa396b3147a4f526e6c876a02dd6c24a1i0",
-      "title": "GenArt on BTC by Buitrago Seal",
-      "title_source": "content",
-      "height": 879674,
       "relation_count": 3,
       "content_type": "text/html;charset=utf-8"
     },
