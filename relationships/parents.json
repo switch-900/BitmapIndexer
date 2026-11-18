@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54127,
-  "total_relations": 2563143,
-  "distinct_targets": 2517088,
-  "updatedAt": "2026-11-18T11:50:59.764Z",
+  "total_relations": 2563190,
+  "distinct_targets": 2517135,
+  "updatedAt": "2026-11-18T11:59:32.926Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -3051,6 +3051,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "580a833ec53259f1bcd698a957fa223a9cfd13a56018ca93626e24eeee68779fi0",
+      "title": "Parent (23 children)",
+      "title_source": "content",
+      "height": 975978,
+      "relation_count": 688,
+      "content_type": "application/json"
+    },
+    {
       "id": "351f3ab683cb148034422f5888f9611adff42c100d381d56a183687cfeb3574fi0",
       "title": "Kibodo Kitty Club Collection",
       "title_source": "content",
@@ -3113,14 +3121,6 @@
       "height": 850453,
       "relation_count": 666,
       "content_type": "image/svg+xml"
-    },
-    {
-      "id": "580a833ec53259f1bcd698a957fa223a9cfd13a56018ca93626e24eeee68779fi0",
-      "title": "Parent (23 children)",
-      "title_source": "content",
-      "height": 975978,
-      "relation_count": 657,
-      "content_type": "application/json"
     },
     {
       "id": "1baf1f28591bb4ea03892d899c0ddf14581d53bf9d60bd25356c6135a860d0b8i0",
@@ -5795,6 +5795,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "7ff3521ee4f882e53baa04fe5b588b71cd4528a8280a23650abc952c2a577b63i0",
+      "title": "Parent (20 children)",
+      "title_source": "content",
+      "height": 976258,
+      "relation_count": 222,
+      "content_type": "application/json"
+    },
+    {
       "id": "aefc65530c87c8b49e974bd93967ce5f6b66342645e02dfd01dc3125d44ff4c0i0",
       "title": "<!DOCTYPE html><html><head><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><script src=\"/content/13a5c8e41dfc110514b450b2f15317988c0aaf276d3dbdcca9aa3c7d0b2188a7i0\"></script><script",
       "title_source": "content",
@@ -6033,14 +6041,6 @@
       "height": 880329,
       "relation_count": 208,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "7ff3521ee4f882e53baa04fe5b588b71cd4528a8280a23650abc952c2a577b63i0",
-      "title": "Parent (20 children)",
-      "title_source": "content",
-      "height": 976258,
-      "relation_count": 207,
-      "content_type": "application/json"
     },
     {
       "id": "f583f227f6ee0d9087038b5c417eecb1837455805f4f2fbebbdbc022b362fa0ai0",
@@ -7811,6 +7811,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "aa5c6119c59c595bf09b5eea4bb12599095776ccdb6dc7cb8854c5323eecbff8i0",
+      "title": "Parent (92 children)",
+      "title_source": "content",
+      "height": 959000,
+      "relation_count": 107,
+      "content_type": "image/png"
+    },
+    {
       "id": "bae5a50c1ac2b2378093fa0852af5915744edb04a6656a48a214df5533277050i0",
       "title": "Parent (107 children)",
       "title_source": "content",
@@ -7833,14 +7841,6 @@
       "height": 880675,
       "relation_count": 106,
       "content_type": "image/jpeg"
-    },
-    {
-      "id": "aa5c6119c59c595bf09b5eea4bb12599095776ccdb6dc7cb8854c5323eecbff8i0",
-      "title": "Parent (92 children)",
-      "title_source": "content",
-      "height": 959000,
-      "relation_count": 106,
-      "content_type": "image/png"
     },
     {
       "id": "b708c976134894161dabda73606fde3c11b8dad9b91b199ee03bd3b1d79b45f4i0",
