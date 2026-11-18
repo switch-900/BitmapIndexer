@@ -6,9 +6,9 @@
     "description": "All inscriptions that are used as delegate targets."
   },
   "count": 14753,
-  "total_relations": 2388753,
-  "distinct_targets": 2388753,
-  "updatedAt": "2026-11-18T11:35:58.939Z",
+  "total_relations": 2388754,
+  "distinct_targets": 2388754,
+  "updatedAt": "2026-11-18T11:51:00.161Z",
   "items": [
     {
       "id": "eb025023e3e7efb6b1dc1ab2ba21b41fbd7f5afbcc76b92e1fb74887c19858aai0",
@@ -9043,6 +9043,14 @@
       "content_type": "image/webp"
     },
     {
+      "id": "62b925dd09655a215ff45bb8f71cacd51dd36ac3f8d603ff674ace19ece1dd87i0",
+      "title": "Delegate (42 inscriptions)",
+      "title_source": "content",
+      "height": 927949,
+      "relation_count": 43,
+      "content_type": "image/png"
+    },
+    {
       "id": "6df2970b8c917a41a37233a4c65868428ad98233eb3740c50605efa1f23aea27i0",
       "title": "Deep Stellar Study",
       "title_source": "content",
@@ -9127,14 +9135,6 @@
       "title": "Delegate (42 inscriptions)",
       "title_source": "content",
       "height": 899843,
-      "relation_count": 42,
-      "content_type": "image/png"
-    },
-    {
-      "id": "62b925dd09655a215ff45bb8f71cacd51dd36ac3f8d603ff674ace19ece1dd87i0",
-      "title": "Delegate (42 inscriptions)",
-      "title_source": "content",
-      "height": 927949,
       "relation_count": 42,
       "content_type": "image/png"
     },
