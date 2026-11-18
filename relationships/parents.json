@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54127,
-  "total_relations": 2562969,
-  "distinct_targets": 2516914,
-  "updatedAt": "2026-11-18T06:17:26.872Z",
+  "total_relations": 2562971,
+  "distinct_targets": 2516916,
+  "updatedAt": "2026-11-18T06:30:56.995Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -4211,20 +4211,20 @@
       "content_type": "image/webp"
     },
     {
+      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 972239,
+      "relation_count": 392,
+      "content_type": "image/svg+xml"
+    },
+    {
       "id": "4fa91910f9d582070fec00db9d0562bf9d950efc28f2a0952adf0868eabb05dei0",
       "title": "Pings by BlockMachine",
       "title_source": "content",
       "height": 776382,
       "relation_count": 391,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 972239,
-      "relation_count": 391,
-      "content_type": "image/svg+xml"
     },
     {
       "id": "f0257e09f6d457d9fce349539c66bac49e01cf40752faf8c1d4d390d52d38107i0",
@@ -130971,6 +130971,14 @@
       "content_type": "application/json"
     },
     {
+      "id": "a18aadba186dfa44b7d89a780545a5370c641a82d7efbd5ada17859da3f11396i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 969978,
+      "relation_count": 3,
+      "content_type": "image/tiff"
+    },
+    {
       "id": "a203d28eb92d1147c29fb451bdcb91d86d64575dce0757b1bd80e6ff87e59de0i0",
       "title": "Parent (3 children)",
       "title_source": "content",
@@ -174553,14 +174561,6 @@
       "height": 824029,
       "relation_count": 2,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "a18aadba186dfa44b7d89a780545a5370c641a82d7efbd5ada17859da3f11396i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 969978,
-      "relation_count": 2,
-      "content_type": "image/tiff"
     },
     {
       "id": "a19c490266e933ed0c72996be45a2fc363043173103903a5af94a80fb808e5e4i0",
