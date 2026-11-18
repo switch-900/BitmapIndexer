@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 54125,
-  "total_relations": 2562928,
-  "distinct_targets": 2516873,
-  "updatedAt": "2026-11-18T02:54:20.416Z",
+  "count": 54126,
+  "total_relations": 2562932,
+  "distinct_targets": 2516877,
+  "updatedAt": "2026-11-18T03:05:50.670Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -4315,6 +4315,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 972239,
+      "relation_count": 370,
+      "content_type": "image/svg+xml"
+    },
+    {
       "id": "369369859766fd8db8ef62eca35368efbfad64c05f150faa9c9ae50cdfb9f369i0",
       "title": "Parent (369 children)",
       "title_source": "content",
@@ -4337,14 +4345,6 @@
       "height": 836457,
       "relation_count": 369,
       "content_type": "image/webp"
-    },
-    {
-      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 972239,
-      "relation_count": 367,
-      "content_type": "image/svg+xml"
     },
     {
       "id": "9caefa5fd603670e4cadaeb6db96866ad627aefd204f8429dd3701c354812f48i0",
@@ -406118,6 +406118,14 @@
       "id": "e0767919b5f6bc25216d38875d599818e6bc719acffb28121773b47dd55f11b1i149",
       "title": "Parent (1 children)",
       "title_source": "content",
+      "height": 893112,
+      "relation_count": 1,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
+      "id": "e0767919b5f6bc25216d38875d599818e6bc719acffb28121773b47dd55f11b1i166",
+      "title": "Parent (1 children)",
+      "title_source": "unknown",
       "height": 893112,
       "relation_count": 1,
       "content_type": "text/html;charset=utf-8"
