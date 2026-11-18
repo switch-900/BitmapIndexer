@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54127,
-  "total_relations": 2563085,
-  "distinct_targets": 2517030,
-  "updatedAt": "2026-11-18T10:33:33.067Z",
+  "total_relations": 2563107,
+  "distinct_targets": 2517052,
+  "updatedAt": "2026-11-18T10:41:06.753Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -6035,6 +6035,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "7ff3521ee4f882e53baa04fe5b588b71cd4528a8280a23650abc952c2a577b63i0",
+      "title": "Parent (20 children)",
+      "title_source": "content",
+      "height": 976258,
+      "relation_count": 207,
+      "content_type": "application/json"
+    },
+    {
       "id": "f583f227f6ee0d9087038b5c417eecb1837455805f4f2fbebbdbc022b362fa0ai0",
       "title": "My Gl1tch Composition",
       "title_source": "content",
@@ -6345,14 +6353,6 @@
       "height": 837280,
       "relation_count": 185,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "7ff3521ee4f882e53baa04fe5b588b71cd4528a8280a23650abc952c2a577b63i0",
-      "title": "Parent (20 children)",
-      "title_source": "content",
-      "height": 976258,
-      "relation_count": 185,
-      "content_type": "application/json"
     },
     {
       "id": "b6f26619bc08dba2fdfcd5dde3372ad30f213aff60480bd870628600277c016fi0",
