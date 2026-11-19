@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54129,
-  "total_relations": 2563675,
-  "distinct_targets": 2517620,
-  "updatedAt": "2026-11-19T06:39:03.793Z",
+  "total_relations": 2563699,
+  "distinct_targets": 2517644,
+  "updatedAt": "2026-11-19T06:46:59.223Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -2791,7 +2791,7 @@
       "title": "Parent (23 children)",
       "title_source": "content",
       "height": 975978,
-      "relation_count": 841,
+      "relation_count": 864,
       "content_type": "application/json"
     },
     {
@@ -3795,6 +3795,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 972239,
+      "relation_count": 487,
+      "content_type": "image/svg+xml"
+    },
+    {
       "id": "68b8d5928a4a78897ebd739343270b88f6c9a53e902f8a5637a4367ef229b432i0",
       "title": "Parent (486 children)",
       "title_source": "content",
@@ -3807,14 +3815,6 @@
       "title": "<svg version=\"1.2\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1000 1000\" width=\"300\" height=\"300\"><rect width=\"100%\" height=\"100%\" fill=\"#000000\"/><path id=\"ATLAS\" aria-label=\"ATLAS\" fill=\"#fffff",
       "title_source": "content",
       "height": 871213,
-      "relation_count": 486,
-      "content_type": "image/svg+xml"
-    },
-    {
-      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 972239,
       "relation_count": 486,
       "content_type": "image/svg+xml"
     },
