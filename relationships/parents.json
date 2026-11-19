@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54129,
-  "total_relations": 2563790,
-  "distinct_targets": 2517735,
-  "updatedAt": "2026-11-19T14:57:09.173Z",
+  "total_relations": 2563803,
+  "distinct_targets": 2517748,
+  "updatedAt": "2026-11-19T15:07:38.507Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -3587,6 +3587,14 @@
       "content_type": "text/html;charset=utf-8"
     },
     {
+      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 972239,
+      "relation_count": 511,
+      "content_type": "image/svg+xml"
+    },
+    {
       "id": "8bee0e5a5f747adb9eeb91ca35e64514d77e24343d69b26aeb87492d3a8bf1bai0",
       "title": "Behold",
       "title_source": "content",
@@ -3785,14 +3793,6 @@
       "height": 836558,
       "relation_count": 500,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 972239,
-      "relation_count": 498,
-      "content_type": "image/svg+xml"
     },
     {
       "id": "d23df5d24bacd98ae8eabb049477b8749cd5c37a6bc24cd5cc20d76b2fd6ae8fi0",
