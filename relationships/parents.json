@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54129,
-  "total_relations": 2563505,
-  "distinct_targets": 2517450,
-  "updatedAt": "2026-11-19T03:12:19.096Z",
+  "total_relations": 2563567,
+  "distinct_targets": 2517512,
+  "updatedAt": "2026-11-19T03:20:22.970Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -1975,7 +1975,7 @@
       "title": "Parent (55 children)",
       "title_source": "content",
       "height": 972977,
-      "relation_count": 1901,
+      "relation_count": 1921,
       "content_type": "application/json"
     },
     {
@@ -2907,6 +2907,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "580a833ec53259f1bcd698a957fa223a9cfd13a56018ca93626e24eeee68779fi0",
+      "title": "Parent (23 children)",
+      "title_source": "content",
+      "height": 975978,
+      "relation_count": 778,
+      "content_type": "application/json"
+    },
+    {
       "id": "29552a61fdaec71eeff7dfe40ea2bf1ab94777dc64ab8f330cb6f8d1a3958a27i0",
       "title": "Parent (777 children)",
       "title_source": "content",
@@ -2969,14 +2977,6 @@
       "height": 828832,
       "relation_count": 767,
       "content_type": "image/gif"
-    },
-    {
-      "id": "580a833ec53259f1bcd698a957fa223a9cfd13a56018ca93626e24eeee68779fi0",
-      "title": "Parent (23 children)",
-      "title_source": "content",
-      "height": 975978,
-      "relation_count": 758,
-      "content_type": "application/json"
     },
     {
       "id": "8b1d88bc9922205ca3dc1f25a5b4dd538ef24d9a753940ba3513513d89bc40f2i0",
@@ -5235,20 +5235,20 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "95f22bcc757b2b24679ea80d7ac86f349eddf20feda677d8a100253ee3635048i0",
+      "title": "Parent (7 children)",
+      "title_source": "content",
+      "height": 949302,
+      "relation_count": 276,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "5941719647cdd741b6c657d7dbb037ae6ca0ffcdf4d9c8350810b946e904000di0",
       "title": "Parent (275 children)",
       "title_source": "content",
       "height": 947760,
       "relation_count": 275,
       "content_type": "image/webp"
-    },
-    {
-      "id": "95f22bcc757b2b24679ea80d7ac86f349eddf20feda677d8a100253ee3635048i0",
-      "title": "Parent (7 children)",
-      "title_source": "content",
-      "height": 949302,
-      "relation_count": 275,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "21932903a387c39421d87c0ae103a72c68027eac53a5d704095617c790bf52aei0",
@@ -5313,6 +5313,14 @@
       "height": 921108,
       "relation_count": 264,
       "content_type": "image/avif"
+    },
+    {
+      "id": "7ff3521ee4f882e53baa04fe5b588b71cd4528a8280a23650abc952c2a577b63i0",
+      "title": "Parent (20 children)",
+      "title_source": "content",
+      "height": 976258,
+      "relation_count": 263,
+      "content_type": "application/json"
     },
     {
       "id": "61e00d15526126637eee336c9068e73bb73539af6cf1d1ca535d10ea1d594aaei0",
@@ -5601,14 +5609,6 @@
       "height": 951711,
       "relation_count": 243,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "7ff3521ee4f882e53baa04fe5b588b71cd4528a8280a23650abc952c2a577b63i0",
-      "title": "Parent (20 children)",
-      "title_source": "content",
-      "height": 976258,
-      "relation_count": 243,
-      "content_type": "application/json"
     },
     {
       "id": "02949fce69cd92b1e31ffdbcbeae9124eb922686449e32fe431f2afda4e615adi0",
@@ -91243,6 +91243,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "a18aadba186dfa44b7d89a780545a5370c641a82d7efbd5ada17859da3f11396i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 969978,
+      "relation_count": 6,
+      "content_type": "image/tiff"
+    },
+    {
       "id": "a29f08996ef9c1a6d284d520de89abece14ce5e7d01fbf3fa7def17312202332i0",
       "title": "Liminality by Lemonhaze",
       "title_source": "content",
@@ -99849,14 +99857,6 @@
       "height": 779243,
       "relation_count": 5,
       "content_type": "image/webp"
-    },
-    {
-      "id": "a18aadba186dfa44b7d89a780545a5370c641a82d7efbd5ada17859da3f11396i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 969978,
-      "relation_count": 5,
-      "content_type": "image/tiff"
     },
     {
       "id": "a25203c25da5bc9b776c833f5f96aa86644b0d2ca7fe38ac7287eaeaa15df27ai0",
