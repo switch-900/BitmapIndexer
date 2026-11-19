@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54132,
-  "total_relations": 2563989,
-  "distinct_targets": 2517934,
-  "updatedAt": "2026-11-19T17:00:41.860Z",
+  "total_relations": 2563999,
+  "distinct_targets": 2517944,
+  "updatedAt": "2026-11-19T17:09:17.325Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -1975,7 +1975,7 @@
       "title": "Parent (55 children)",
       "title_source": "content",
       "height": 972977,
-      "relation_count": 1921,
+      "relation_count": 1927,
       "content_type": "application/json"
     },
     {
@@ -2679,7 +2679,7 @@
       "title": "Parent (23 children)",
       "title_source": "content",
       "height": 975978,
-      "relation_count": 960,
+      "relation_count": 962,
       "content_type": "application/json"
     },
     {
@@ -3547,6 +3547,14 @@
       "content_type": "image/svg+xml"
     },
     {
+      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 972239,
+      "relation_count": 512,
+      "content_type": "image/svg+xml"
+    },
+    {
       "id": "f6fd791b8a4755eb52d07d59593eddf038bb99f0d597ee0ba86ef4dca0751469i0",
       "title": "FLARES by FAR is an on-chain art project that engages with the concepts of world-building, immersion, and blockchain as part of the PARALLAX body of work. It comprises 512 unique pieces created from a",
       "title_source": "content",
@@ -3585,14 +3593,6 @@
       "height": 862345,
       "relation_count": 511,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 972239,
-      "relation_count": 511,
-      "content_type": "image/svg+xml"
     },
     {
       "id": "8bee0e5a5f747adb9eeb91ca35e64514d77e24343d69b26aeb87492d3a8bf1bai0",
@@ -63531,6 +63531,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "be73367cb13935c978d46fc575ba7bde69e2e4f1d91972a94fac2922df6c6675i0",
+      "title": "Parent (9 children)",
+      "title_source": "content",
+      "height": 970227,
+      "relation_count": 10,
+      "content_type": "image/webp"
+    },
+    {
       "id": "bf49ccc87028bd0fbf46fd7d8809afb430e1b5c25a612ce0754cdde6bf24ce17i0",
       "title": "<?xml version=\"1.0\" encoding=\"utf-8\"?>",
       "title_source": "content",
@@ -67657,14 +67665,6 @@
       "height": 837097,
       "relation_count": 9,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "be73367cb13935c978d46fc575ba7bde69e2e4f1d91972a94fac2922df6c6675i0",
-      "title": "Parent (9 children)",
-      "title_source": "unknown",
-      "height": 970227,
-      "relation_count": 9,
-      "content_type": "image/webp"
     },
     {
       "id": "bf90629d62d558b8a16e9a33d85ccdfedc473867a89905ce11261c272c2f4ceei0",
