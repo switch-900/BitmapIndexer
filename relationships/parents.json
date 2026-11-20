@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54135,
-  "total_relations": 2564359,
-  "distinct_targets": 2518304,
-  "updatedAt": "2026-11-20T08:40:01.038Z",
+  "total_relations": 2564361,
+  "distinct_targets": 2518306,
+  "updatedAt": "2026-11-20T08:52:46.084Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -3443,20 +3443,20 @@
       "content_type": "image/webp"
     },
     {
+      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 972239,
+      "relation_count": 536,
+      "content_type": "image/svg+xml"
+    },
+    {
       "id": "174bbec380542eea1c50019866ea1bc6adc1bfb6386f580a145bbe4b3ee3dd7fi0",
       "title": "2024 Christmas Pachinko Tree - orDOS",
       "title_source": "content",
       "height": 876395,
       "relation_count": 535,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 972239,
-      "relation_count": 535,
-      "content_type": "image/svg+xml"
     },
     {
       "id": "69382b4c06bb2749a998f22516d6dac73da6c49843592986d5616ce4aedf13e9i0",
@@ -30755,6 +30755,14 @@
       "content_type": "image/avif"
     },
     {
+      "id": "be73367cb13935c978d46fc575ba7bde69e2e4f1d91972a94fac2922df6c6675i0",
+      "title": "Parent (9 children)",
+      "title_source": "content",
+      "height": 970227,
+      "relation_count": 28,
+      "content_type": "image/webp"
+    },
+    {
       "id": "c3abbb41d34fafd0a9b67701d6d0fe515684e9a90dac0abb2d966fcac86e6014i100",
       "title": "Parent (28 children)",
       "title_source": "content",
@@ -31681,14 +31689,6 @@
       "height": 874388,
       "relation_count": 27,
       "content_type": null
-    },
-    {
-      "id": "be73367cb13935c978d46fc575ba7bde69e2e4f1d91972a94fac2922df6c6675i0",
-      "title": "Parent (9 children)",
-      "title_source": "content",
-      "height": 970227,
-      "relation_count": 27,
-      "content_type": "image/webp"
     },
     {
       "id": "c3abbb41d34fafd0a9b67701d6d0fe515684e9a90dac0abb2d966fcac86e6014i750",
