@@ -6,9 +6,9 @@
     "description": "All detected gallery inscriptions with best-effort extracted titles."
   },
   "count": 1182,
-  "total_relations": 1168533,
-  "distinct_targets": 892496,
-  "updatedAt": "2026-11-20T05:25:26.846Z",
+  "total_relations": 1168933,
+  "distinct_targets": 892896,
+  "updatedAt": "2026-11-20T05:34:41.381Z",
   "items": [
     {
       "id": "4d31400adc9b817ad5f0bb7cbae622257ccee1a3c7319b3155a2b8b0cd8fc34fi0",
@@ -9447,7 +9447,7 @@
     {
       "id": "5f401b2db3356314061c21fa45658191d24a813a93bb4f20731cb39d2114de7bi0",
       "title": "Visible Violets Vol. 1 #7",
-      "title_source": "item-title",
+      "title_source": "content",
       "height": 976689,
       "item_count": 400,
       "content_type": "image/avif"
@@ -9455,7 +9455,7 @@
     {
       "id": "f5743e3661baceabc039ddfd0ecbf7ff27da2e2627e9b8b32d01616a7950c5cfi0",
       "title": "Visible Violets Vol. 2 #1",
-      "title_source": "item-title",
+      "title_source": "content",
       "height": 976690,
       "item_count": 400,
       "content_type": "image/avif"
