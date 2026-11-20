@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54135,
-  "total_relations": 2564535,
-  "distinct_targets": 2518480,
-  "updatedAt": "2026-11-20T15:30:21.922Z",
+  "total_relations": 2564556,
+  "distinct_targets": 2518501,
+  "updatedAt": "2026-11-20T15:38:31.052Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -2259,20 +2259,20 @@
       "content_type": "image/webp"
     },
     {
+      "id": "580a833ec53259f1bcd698a957fa223a9cfd13a56018ca93626e24eeee68779fi0",
+      "title": "Parent (23 children)",
+      "title_source": "content",
+      "height": 975978,
+      "relation_count": 1107,
+      "content_type": "application/json"
+    },
+    {
       "id": "bd3859f18cbb2794179fb4c59c19e5bcaa2fefe88eb0fbebd981a16414a0daf2i0",
       "title": "Parent (877 children)",
       "title_source": "content",
       "height": 814730,
       "relation_count": 1103,
       "content_type": "image/png"
-    },
-    {
-      "id": "580a833ec53259f1bcd698a957fa223a9cfd13a56018ca93626e24eeee68779fi0",
-      "title": "Parent (23 children)",
-      "title_source": "content",
-      "height": 975978,
-      "relation_count": 1087,
-      "content_type": "application/json"
     },
     {
       "id": "75210629b69981042d3c693b2dd90f7fcbf1dd1d54b22580692fb1890e7f36b6i0",
@@ -5327,7 +5327,7 @@
       "title": "Parent (1 children)",
       "title_source": "content",
       "height": 945174,
-      "relation_count": 261,
+      "relation_count": 262,
       "content_type": "text/plain;charset=utf-8"
     },
     {
