@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54139,
-  "total_relations": 2564986,
-  "distinct_targets": 2518931,
-  "updatedAt": "2026-11-21T16:36:30.659Z",
+  "total_relations": 2564994,
+  "distinct_targets": 2518939,
+  "updatedAt": "2026-11-21T16:44:32.983Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -2147,20 +2147,20 @@
       "content_type": "image/webp"
     },
     {
+      "id": "580a833ec53259f1bcd698a957fa223a9cfd13a56018ca93626e24eeee68779fi0",
+      "title": "Parent (23 children)",
+      "title_source": "content",
+      "height": 975978,
+      "relation_count": 1274,
+      "content_type": "application/json"
+    },
+    {
       "id": "c9cf9d599c02f80fc4994bb5397610c8dd0a755f7023b881eac5ec8ad9ce4581i0",
       "title": "Ordibots 3D - Parent",
       "title_source": "content",
       "height": 817630,
       "relation_count": 1272,
       "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "580a833ec53259f1bcd698a957fa223a9cfd13a56018ca93626e24eeee68779fi0",
-      "title": "Parent (23 children)",
-      "title_source": "content",
-      "height": 975978,
-      "relation_count": 1266,
-      "content_type": "application/json"
     },
     {
       "id": "b9f0337c6738f0087fcf2f5787ac6965db386c65ddee6eef3764a5a8813a3ea9i0",
