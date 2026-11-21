@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54139,
-  "total_relations": 2564976,
-  "distinct_targets": 2518921,
-  "updatedAt": "2026-11-21T16:01:35.052Z",
+  "total_relations": 2564983,
+  "distinct_targets": 2518928,
+  "updatedAt": "2026-11-21T16:15:52.758Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -3323,6 +3323,14 @@
       "content_type": null
     },
     {
+      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 972239,
+      "relation_count": 592,
+      "content_type": "image/svg+xml"
+    },
+    {
       "id": "8ed6ae68ddb680b0dcc5594ce275d1229682a9672f5f71307c59b3b00b087316i0",
       "title": "The Unassembled",
       "title_source": "content",
@@ -3343,14 +3351,6 @@
       "title": "Parent (585 children)",
       "title_source": "content",
       "height": 902485,
-      "relation_count": 585,
-      "content_type": "image/svg+xml"
-    },
-    {
-      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 972239,
       "relation_count": 585,
       "content_type": "image/svg+xml"
     },
