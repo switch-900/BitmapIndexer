@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 54136,
-  "total_relations": 2564807,
-  "distinct_targets": 2518752,
-  "updatedAt": "2026-11-21T02:23:26.671Z",
+  "count": 54137,
+  "total_relations": 2564818,
+  "distinct_targets": 2518763,
+  "updatedAt": "2026-11-21T02:40:47.638Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -4715,6 +4715,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "a5bfc0aad1d2c69b8abd3c7b4112c59a764f002df6c5257f86aa9a0ef408a5a7i0",
+      "title": "Parent (71 children)",
+      "title_source": "content",
+      "height": 906695,
+      "relation_count": 321,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "ad5af5a6b9c53249e0983850e1fcf7720e7b08f76c9d43d3760adce4841d15e0i0",
       "title": "Parent (321 children)",
       "title_source": "content",
@@ -4783,14 +4791,6 @@
       "title": "Parent (317 children)",
       "title_source": "content",
       "height": 837175,
-      "relation_count": 317,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "a5bfc0aad1d2c69b8abd3c7b4112c59a764f002df6c5257f86aa9a0ef408a5a7i0",
-      "title": "Parent (71 children)",
-      "title_source": "content",
-      "height": 906695,
       "relation_count": 317,
       "content_type": "text/plain;charset=utf-8"
     },
@@ -80921,6 +80921,14 @@
       "height": 874143,
       "relation_count": 7,
       "content_type": null
+    },
+    {
+      "id": "454236909e78f2f9dcb15ae20150c757ad19765509d4ce1ecf69586789cc92d1i0",
+      "title": "Ego by Buitrago",
+      "title_source": "content",
+      "height": 976798,
+      "relation_count": 7,
+      "content_type": "text/html"
     },
     {
       "id": "45b3ad19f723c530ef7986b320f5bc36064072e5b50634e950e1c8ddb135cccdi15",
