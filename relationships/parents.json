@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54136,
-  "total_relations": 2564765,
-  "distinct_targets": 2518710,
-  "updatedAt": "2026-11-21T00:52:05.218Z",
+  "total_relations": 2564773,
+  "distinct_targets": 2518718,
+  "updatedAt": "2026-11-21T00:59:44.383Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -4219,6 +4219,14 @@
       "content_type": "image/webp"
     },
     {
+      "id": "7ff3521ee4f882e53baa04fe5b588b71cd4528a8280a23650abc952c2a577b63i0",
+      "title": "Parent (20 children)",
+      "title_source": "content",
+      "height": 976258,
+      "relation_count": 393,
+      "content_type": "application/json"
+    },
+    {
       "id": "4fa91910f9d582070fec00db9d0562bf9d950efc28f2a0952adf0868eabb05dei0",
       "title": "Pings by BlockMachine",
       "title_source": "content",
@@ -4249,14 +4257,6 @@
       "height": 808344,
       "relation_count": 388,
       "content_type": "image/webp"
-    },
-    {
-      "id": "7ff3521ee4f882e53baa04fe5b588b71cd4528a8280a23650abc952c2a577b63i0",
-      "title": "Parent (20 children)",
-      "title_source": "content",
-      "height": 976258,
-      "relation_count": 388,
-      "content_type": "application/json"
     },
     {
       "id": "d78961c2f6758db14f8e41b76e378bb38bf153537e0170b8e5263cdb957a0f38i0",
@@ -9587,6 +9587,14 @@
       "content_type": null
     },
     {
+      "id": "2285c1b488110d2cc16455e458bcec1f071fe40525299df9a606dc69a55a771bi0",
+      "title": "Parent (12 children)",
+      "title_source": "content",
+      "height": 976601,
+      "relation_count": 94,
+      "content_type": "application/json"
+    },
+    {
       "id": "2780a94f74af29fe143446d64d2e05c397db54f3efdb3e4c04c15aad60911f44i0",
       "title": "Parent (94 children)",
       "title_source": "content",
@@ -9753,14 +9761,6 @@
       "height": 878895,
       "relation_count": 91,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "2285c1b488110d2cc16455e458bcec1f071fe40525299df9a606dc69a55a771bi0",
-      "title": "Parent (12 children)",
-      "title_source": "content",
-      "height": 976601,
-      "relation_count": 91,
-      "content_type": "application/json"
     },
     {
       "id": "254f6795995f0a485447834fb8257cf22b7b22b8c2c61101a6ec3fee6c41f4aci0",
