@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54136,
-  "total_relations": 2564753,
-  "distinct_targets": 2518698,
-  "updatedAt": "2026-11-21T00:43:30.431Z",
+  "total_relations": 2564765,
+  "distinct_targets": 2518710,
+  "updatedAt": "2026-11-21T00:52:05.218Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -4251,6 +4251,14 @@
       "content_type": "image/webp"
     },
     {
+      "id": "7ff3521ee4f882e53baa04fe5b588b71cd4528a8280a23650abc952c2a577b63i0",
+      "title": "Parent (20 children)",
+      "title_source": "content",
+      "height": 976258,
+      "relation_count": 388,
+      "content_type": "application/json"
+    },
+    {
       "id": "d78961c2f6758db14f8e41b76e378bb38bf153537e0170b8e5263cdb957a0f38i0",
       "title": "Parent (388 children)",
       "title_source": "content",
@@ -4281,14 +4289,6 @@
       "height": 878772,
       "relation_count": 381,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "7ff3521ee4f882e53baa04fe5b588b71cd4528a8280a23650abc952c2a577b63i0",
-      "title": "Parent (20 children)",
-      "title_source": "content",
-      "height": 976258,
-      "relation_count": 379,
-      "content_type": "application/json"
     },
     {
       "id": "35324546c76d3d6cfb5fc62c69286abfc68b0de262743471e213057273304da6i0",
@@ -24435,6 +24435,14 @@
       "content_type": null
     },
     {
+      "id": "be73367cb13935c978d46fc575ba7bde69e2e4f1d91972a94fac2922df6c6675i0",
+      "title": "Parent (9 children)",
+      "title_source": "content",
+      "height": 970227,
+      "relation_count": 36,
+      "content_type": "image/webp"
+    },
+    {
       "id": "c3abbb41d34fafd0a9b67701d6d0fe515684e9a90dac0abb2d966fcac86e6014i1098",
       "title": "Parent (36 children)",
       "title_source": "content",
@@ -26281,14 +26289,6 @@
       "height": 885524,
       "relation_count": 33,
       "content_type": "image/avif"
-    },
-    {
-      "id": "be73367cb13935c978d46fc575ba7bde69e2e4f1d91972a94fac2922df6c6675i0",
-      "title": "Parent (9 children)",
-      "title_source": "content",
-      "height": 970227,
-      "relation_count": 33,
-      "content_type": "image/webp"
     },
     {
       "id": "c1ce0a5e139645169c58a2fbc56dff63882ce948d4f80bbaeb3984eed7ec2308i0",
