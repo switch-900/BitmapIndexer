@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54144,
-  "total_relations": 2565335,
-  "distinct_targets": 2519280,
-  "updatedAt": "2026-11-22T09:51:33.826Z",
+  "total_relations": 2565358,
+  "distinct_targets": 2519303,
+  "updatedAt": "2026-11-22T10:13:29.442Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -2039,7 +2039,7 @@
       "title": "Parent (23 children)",
       "title_source": "content",
       "height": 975978,
-      "relation_count": 1546,
+      "relation_count": 1566,
       "content_type": "application/json"
     },
     {
@@ -15979,6 +15979,14 @@
       "content_type": "image/webp"
     },
     {
+      "id": "be73367cb13935c978d46fc575ba7bde69e2e4f1d91972a94fac2922df6c6675i0",
+      "title": "Parent (9 children)",
+      "title_source": "content",
+      "height": 970227,
+      "relation_count": 52,
+      "content_type": "image/webp"
+    },
+    {
       "id": "c07cbd11f72873dd22081f0a8fa90ae6f9b85fc879a3a7568a9081699cd521a5i0",
       "title": "let td='';function fflateCallback(){var A=document.createElement('script');A.innerHTML=fflate.strFromU8(fflate.gunzipSync(new Uint8Array([...atob(td)].map(char=>char.charCodeAt(0)))))+\";fflateCallback",
       "title_source": "content",
@@ -17575,14 +17583,6 @@
       "title": "Parent (50 children)",
       "title_source": "content",
       "height": 911930,
-      "relation_count": 50,
-      "content_type": "image/webp"
-    },
-    {
-      "id": "be73367cb13935c978d46fc575ba7bde69e2e4f1d91972a94fac2922df6c6675i0",
-      "title": "Parent (9 children)",
-      "title_source": "content",
-      "height": 970227,
       "relation_count": 50,
       "content_type": "image/webp"
     },
@@ -99091,6 +99091,14 @@
       "content_type": null
     },
     {
+      "id": "86276dd0622d20befc77299a145ba33f25a527b0ae43fbb1db043418c14e3d24i0",
+      "title": "MYO: NEON NIGHTS — Play",
+      "title_source": "content",
+      "height": 975312,
+      "relation_count": 5,
+      "content_type": "text/html"
+    },
+    {
       "id": "86539aff946c437af8088955827b7e6ff48fc6192836d4071b697b5359b7a732i0",
       "title": "0.bitmap",
       "title_source": "content",
@@ -110553,14 +110561,6 @@
       "height": 874311,
       "relation_count": 4,
       "content_type": null
-    },
-    {
-      "id": "86276dd0622d20befc77299a145ba33f25a527b0ae43fbb1db043418c14e3d24i0",
-      "title": "MYO: NEON NIGHTS — Play",
-      "title_source": "content",
-      "height": 975312,
-      "relation_count": 4,
-      "content_type": "text/html"
     },
     {
       "id": "8655c9a0a52dd892b9e6f9125d06a5b369df772dc5beb5f3f6b54c84e0e717d4i0",
