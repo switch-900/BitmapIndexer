@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54144,
-  "total_relations": 2565549,
-  "distinct_targets": 2519494,
-  "updatedAt": "2026-11-22T17:26:43.132Z",
+  "total_relations": 2565550,
+  "distinct_targets": 2519495,
+  "updatedAt": "2026-11-22T17:36:32.956Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -159083,6 +159083,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "5c5f161c44bc40e06e7c4726c4fc0f42cc77d8ce452144dc91aac969fd1c6585i0",
+      "title": "BAS Test Collection — Parent",
+      "title_source": "content",
+      "height": 976480,
+      "relation_count": 2,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
       "id": "5c6d2b0c944c085227ff69a50682fb8f2527552df9d3efdf6b4774b9ca3ac404i1000",
       "title": "Parent (2 children)",
       "title_source": "content",
@@ -278081,14 +278089,6 @@
       "height": 858078,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "5c5f161c44bc40e06e7c4726c4fc0f42cc77d8ce452144dc91aac969fd1c6585i0",
-      "title": "BAS Test Collection — Parent",
-      "title_source": "content",
-      "height": 976480,
-      "relation_count": 1,
-      "content_type": "text/html;charset=utf-8"
     },
     {
       "id": "5c5fe636ea91e48503f5be46fed455b3fe2c2cc8aa85aaf78e9a468d3b1627aci0",
