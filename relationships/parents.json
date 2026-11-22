@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54144,
-  "total_relations": 2565427,
-  "distinct_targets": 2519372,
-  "updatedAt": "2026-11-22T13:40:51.194Z",
+  "total_relations": 2565438,
+  "distinct_targets": 2519383,
+  "updatedAt": "2026-11-22T13:50:29.135Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -3271,7 +3271,7 @@
       "title": "Parent (449 children)",
       "title_source": "content",
       "height": 837179,
-      "relation_count": 605,
+      "relation_count": 606,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -3503,7 +3503,7 @@
       "title": "Parent (285 children)",
       "title_source": "content",
       "height": 929411,
-      "relation_count": 515,
+      "relation_count": 516,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -3799,7 +3799,7 @@
       "title": "Parent (322 children)",
       "title_source": "content",
       "height": 906049,
-      "relation_count": 494,
+      "relation_count": 495,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -3919,7 +3919,7 @@
       "title": "Parent (280 children)",
       "title_source": "content",
       "height": 837151,
-      "relation_count": 442,
+      "relation_count": 443,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -4135,7 +4135,7 @@
       "title": "Parent (234 children)",
       "title_source": "content",
       "height": 928704,
-      "relation_count": 412,
+      "relation_count": 413,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -4407,7 +4407,7 @@
       "title": "Parent (53 children)",
       "title_source": "content",
       "height": 837204,
-      "relation_count": 356,
+      "relation_count": 357,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -4699,6 +4699,14 @@
       "content_type": "model/gltf-binary"
     },
     {
+      "id": "cb04b13412ed9513a5866d2da49b6eff5792e97e8311063eb37786c6fb33b767i0",
+      "title": "Parent (41 children)",
+      "title_source": "content",
+      "height": 940999,
+      "relation_count": 323,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "e4f6f03cfc2052eb38276c554b49d713897c289b68ac10cab4fac5296c8d51d9i0",
       "title": "Parent (323 children)",
       "title_source": "content",
@@ -4719,14 +4727,6 @@
       "title": "Parent (71 children)",
       "title_source": "content",
       "height": 906695,
-      "relation_count": 322,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "cb04b13412ed9513a5866d2da49b6eff5792e97e8311063eb37786c6fb33b767i0",
-      "title": "Parent (41 children)",
-      "title_source": "content",
-      "height": 940999,
       "relation_count": 322,
       "content_type": "text/plain;charset=utf-8"
     },
@@ -5183,7 +5183,7 @@
       "title": "Parent (18 children)",
       "title_source": "content",
       "height": 974841,
-      "relation_count": 290,
+      "relation_count": 291,
       "content_type": "application/json"
     },
     {
@@ -5303,7 +5303,7 @@
       "title": "Parent (16 children)",
       "title_source": "content",
       "height": 941148,
-      "relation_count": 266,
+      "relation_count": 267,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -6087,7 +6087,7 @@
       "title": "Parent (17 children)",
       "title_source": "content",
       "height": 939379,
-      "relation_count": 202,
+      "relation_count": 203,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -6443,6 +6443,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "0020703fcefde853ba730e3785767b0f01d41c3d5bdf5c38049b95d3e824c493i0",
+      "title": "Parent (158 children)",
+      "title_source": "content",
+      "height": 939710,
+      "relation_count": 178,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "33333333639df259af12d51511c9f118df474a08b06b0b19b157b8b2d14c0bb0i0",
       "title": "Parent (178 children)",
       "title_source": "content",
@@ -6457,14 +6465,6 @@
       "height": 899923,
       "relation_count": 178,
       "content_type": null
-    },
-    {
-      "id": "0020703fcefde853ba730e3785767b0f01d41c3d5bdf5c38049b95d3e824c493i0",
-      "title": "Parent (158 children)",
-      "title_source": "content",
-      "height": 939710,
-      "relation_count": 177,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "478d6ed0338ec884ecb5cfe6e9e2a4f25faf6680b73fdb7defda660cc96650fai0",
@@ -7211,6 +7211,14 @@
       "content_type": null
     },
     {
+      "id": "dcb5969497f4d2f9bc0bf20b6cb9cd1f4e2dca910e300976d2507e2f858b0601i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 906413,
+      "relation_count": 125,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "e1e4953b2c6076e9c5a46287e74b663c5b621237c24e9da93d2b32dc227853e9i0",
       "title": "Parent (125 children)",
       "title_source": "content",
@@ -7233,14 +7241,6 @@
       "height": 866162,
       "relation_count": 124,
       "content_type": "image/webp"
-    },
-    {
-      "id": "dcb5969497f4d2f9bc0bf20b6cb9cd1f4e2dca910e300976d2507e2f858b0601i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 906413,
-      "relation_count": 124,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "385ff4040c01c7fed336118ebdf1e7be6216463b352a08cd60c6f36da20b2356i0",
