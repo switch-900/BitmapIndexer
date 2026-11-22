@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-22T17:04:47.630Z",
+  "generated_at": "2026-11-22T17:12:40.430Z",
   "scan_complete": true,
-  "total_bitmaps": 977078,
-  "total_scanned": 977072,
-  "reinscribed_sat_count": 520,
-  "reinscribed_bitmap_count": 604,
-  "reinscription_count": 3363,
+  "total_bitmaps": 977080,
+  "total_scanned": 977074,
+  "reinscribed_sat_count": 521,
+  "reinscribed_bitmap_count": 605,
+  "reinscription_count": 3365,
   "bitmaps": [
     {
       "bitmap_number": 609,
@@ -20621,6 +20621,22 @@
           "inscription_id": "eeb8e5af8b422573e1a9ae1ba820997a7aacc6dc9e7c37153498b6469b1a86a8i1",
           "block_height": 927740,
           "metadata": null
+        }
+      ]
+    },
+    {
+      "bitmap_number": 977079,
+      "bitmap_inscription_id": "98ac21aae5748add75a43e815124be35e5f847f67d4589f02dd1b09e0c4af283i0",
+      "reinscriptions": [
+        {
+          "inscription_id": "eeb8e5af8b422573e1a9ae1ba820997a7aacc6dc9e7c37153498b6469b1a86a8i4",
+          "block_height": 927740,
+          "metadata": null
+        },
+        {
+          "inscription_id": "6073fd0b666e0b3471e071f5a42642048f776c33a08fe1627bc81d27de094da1i0",
+          "block_height": 957652,
+          "metadata": "Bitmap holds the curse and the blessing to save or destroy your children.\nAny species can survive outside of the ark."
         }
       ]
     }
