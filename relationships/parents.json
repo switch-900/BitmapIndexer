@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54144,
-  "total_relations": 2565647,
-  "distinct_targets": 2519592,
-  "updatedAt": "2026-11-23T02:37:53.850Z",
+  "total_relations": 2565672,
+  "distinct_targets": 2519617,
+  "updatedAt": "2026-11-23T02:47:18.751Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -2015,7 +2015,7 @@
       "title": "Parent (23 children)",
       "title_source": "content",
       "height": 975978,
-      "relation_count": 1742,
+      "relation_count": 1745,
       "content_type": "application/json"
     },
     {
@@ -2271,7 +2271,7 @@
       "title": "Parent (877 children)",
       "title_source": "content",
       "height": 814730,
-      "relation_count": 1105,
+      "relation_count": 1106,
       "content_type": "image/png"
     },
     {
@@ -3167,7 +3167,7 @@
       "title": "Parent (1 children)",
       "title_source": "content",
       "height": 972239,
-      "relation_count": 634,
+      "relation_count": 635,
       "content_type": "image/svg+xml"
     },
     {
@@ -4499,6 +4499,14 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
+      "id": "a5bfc0aad1d2c69b8abd3c7b4112c59a764f002df6c5257f86aa9a0ef408a5a7i0",
+      "title": "Parent (71 children)",
+      "title_source": "content",
+      "height": 906695,
+      "relation_count": 342,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
       "id": "90b81f44fc55c93da5b047ecac5adbde24696c88ebc8b8cdd8739b8551090f6bi0",
       "title": "Parent (341 children)",
       "title_source": "content",
@@ -4719,14 +4727,6 @@
       "title": "Parent (322 children)",
       "title_source": "content",
       "height": 879787,
-      "relation_count": 322,
-      "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "a5bfc0aad1d2c69b8abd3c7b4112c59a764f002df6c5257f86aa9a0ef408a5a7i0",
-      "title": "Parent (71 children)",
-      "title_source": "content",
-      "height": 906695,
       "relation_count": 322,
       "content_type": "text/plain;charset=utf-8"
     },
