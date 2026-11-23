@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54144,
-  "total_relations": 2565942,
-  "distinct_targets": 2519887,
-  "updatedAt": "2026-11-23T15:49:55.262Z",
+  "total_relations": 2566042,
+  "distinct_targets": 2519987,
+  "updatedAt": "2026-11-23T16:00:14.533Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -5027,6 +5027,14 @@
       "content_type": "image/gif"
     },
     {
+      "id": "46907366a31ab5aee84b22ee6f264397db4c54aa33cd37be52a364124acc2564i0",
+      "title": "Satling Register",
+      "title_source": "content",
+      "height": 976602,
+      "relation_count": 300,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
       "id": "4799479ecdc3f5e23904a4db240310490248aae09c1b449cc8978fb56594d8a5i0",
       "title": "Parent (300 children)",
       "title_source": "content",
@@ -6183,14 +6191,6 @@
       "title": "<script src=\"/content/858a9c0b8b90431330a0d7155f1731333878c88ba7355fd11cee832b6e9e7644i0\"></script>",
       "title_source": "content",
       "height": 870652,
-      "relation_count": 200,
-      "content_type": "text/html;charset=utf-8"
-    },
-    {
-      "id": "46907366a31ab5aee84b22ee6f264397db4c54aa33cd37be52a364124acc2564i0",
-      "title": "Satling Register",
-      "title_source": "content",
-      "height": 976602,
       "relation_count": 200,
       "content_type": "text/html;charset=utf-8"
     },
