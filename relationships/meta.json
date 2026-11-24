@@ -1,7 +1,7 @@
 {
   "totalRelationTypes": 4,
-  "totalRelations": 6127586,
-  "updatedAt": "2026-11-24T03:53:41.425Z",
+  "totalRelations": 6127587,
+  "updatedAt": "2026-11-24T04:04:06.469Z",
   "relationTypes": [
     {
       "id": "parents",
@@ -14,9 +14,9 @@
     {
       "id": "delegates",
       "relation_type": "delegate",
-      "total_relations": 2388925,
+      "total_relations": 2388926,
       "distinct_sources": 14758,
-      "distinct_targets": 2388925,
+      "distinct_targets": 2388926,
       "file": "relationships/delegates.json"
     },
     {
