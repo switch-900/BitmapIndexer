@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54147,
-  "total_relations": 2566480,
-  "distinct_targets": 2520425,
-  "updatedAt": "2026-11-24T20:05:28.961Z",
+  "total_relations": 2566493,
+  "distinct_targets": 2520438,
+  "updatedAt": "2026-11-24T20:14:40.486Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -10979,6 +10979,14 @@
       "content_type": "model/gltf-binary"
     },
     {
+      "id": "fcf1bf9bb14d7f92c9d6309f82f0c02976d668d6058e00400d33a58d600bab34i0",
+      "title": "Parent (15 children)",
+      "title_source": "content",
+      "height": 976382,
+      "relation_count": 77,
+      "content_type": "image/png"
+    },
+    {
       "id": "3ea5471982f35aa854b162f666e3134fe9403e910b7c25e52397da6a9c6d6fe7i647",
       "title": "Parent (76 children)",
       "title_source": "content",
@@ -12499,6 +12507,14 @@
       "content_type": null
     },
     {
+      "id": "be73367cb13935c978d46fc575ba7bde69e2e4f1d91972a94fac2922df6c6675i0",
+      "title": "Parent (9 children)",
+      "title_source": "content",
+      "height": 970227,
+      "relation_count": 66,
+      "content_type": "image/webp"
+    },
+    {
       "id": "c3abbb41d34fafd0a9b67701d6d0fe515684e9a90dac0abb2d966fcac86e6014i1113",
       "title": "Parent (66 children)",
       "title_source": "content",
@@ -12643,14 +12659,6 @@
       "content_type": null
     },
     {
-      "id": "be73367cb13935c978d46fc575ba7bde69e2e4f1d91972a94fac2922df6c6675i0",
-      "title": "Parent (9 children)",
-      "title_source": "content",
-      "height": 970227,
-      "relation_count": 65,
-      "content_type": "image/webp"
-    },
-    {
       "id": "c4b9eb8ac602e65d30e539d0ccdb6072ca4691e2c43d440afe2b442a66f9f7b9i225",
       "title": "Parent (65 children)",
       "title_source": "content",
@@ -12681,14 +12689,6 @@
       "height": 899116,
       "relation_count": 65,
       "content_type": "image/jpeg"
-    },
-    {
-      "id": "fcf1bf9bb14d7f92c9d6309f82f0c02976d668d6058e00400d33a58d600bab34i0",
-      "title": "Parent (15 children)",
-      "title_source": "content",
-      "height": 976382,
-      "relation_count": 65,
-      "content_type": "image/png"
     },
     {
       "id": "047a38200aacbf9f4d7d90bae0e673abb623735fe34ff390e231bf5c2628d9a3i0",
