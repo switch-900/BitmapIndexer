@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 54148,
-  "total_relations": 2566496,
-  "distinct_targets": 2520441,
-  "updatedAt": "2026-11-24T21:29:07.292Z",
+  "count": 54149,
+  "total_relations": 2566497,
+  "distinct_targets": 2520442,
+  "updatedAt": "2026-11-24T21:37:35.437Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -249929,6 +249929,14 @@
       "height": 795244,
       "relation_count": 1,
       "content_type": "text/plain"
+    },
+    {
+      "id": "430e6a44559742ae051beb0957ff73ff75018bd41ecd32405db00054a71709bai0",
+      "title": "Shielded Wizards",
+      "title_source": "content",
+      "height": 977406,
+      "relation_count": 1,
+      "content_type": "application/json"
     },
     {
       "id": "43143c4cab03b5ed19440a1687535abc94f7d2834daad8daa2ca7dde3ec71feci0",
