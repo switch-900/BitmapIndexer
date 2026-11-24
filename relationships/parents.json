@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54145,
-  "total_relations": 2566284,
-  "distinct_targets": 2520229,
-  "updatedAt": "2026-11-23T23:53:52.420Z",
+  "total_relations": 2566294,
+  "distinct_targets": 2520239,
+  "updatedAt": "2026-11-24T00:02:29.636Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -3059,20 +3059,20 @@
       "content_type": "text/html"
     },
     {
+      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
+      "title": "Parent (1 children)",
+      "title_source": "content",
+      "height": 972239,
+      "relation_count": 690,
+      "content_type": "image/svg+xml"
+    },
+    {
       "id": "351f3ab683cb148034422f5888f9611adff42c100d381d56a183687cfeb3574fi0",
       "title": "Kibodo Kitty Club Collection",
       "title_source": "content",
       "height": 838571,
       "relation_count": 686,
       "content_type": "text/plain;charset=utf-8"
-    },
-    {
-      "id": "d7dc12d0df773e1cbf9605ae8b1e09f38f7cde5f9fb797651fb698aa7964e794i0",
-      "title": "Parent (1 children)",
-      "title_source": "content",
-      "height": 972239,
-      "relation_count": 680,
-      "content_type": "image/svg+xml"
     },
     {
       "id": "e125295124851efb1ab2f5ef62c730eb46a02178a06f73bff257fa1d4ae5658ci0",
