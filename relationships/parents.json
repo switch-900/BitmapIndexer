@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54149,
-  "total_relations": 2566499,
-  "distinct_targets": 2520444,
-  "updatedAt": "2026-11-24T23:06:32.562Z",
+  "total_relations": 2566500,
+  "distinct_targets": 2520445,
+  "updatedAt": "2026-11-24T23:15:00.186Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -150339,6 +150339,14 @@
       "content_type": "image/png"
     },
     {
+      "id": "430e6a44559742ae051beb0957ff73ff75018bd41ecd32405db00054a71709bai0",
+      "title": "Shielded Wizards",
+      "title_source": "content",
+      "height": 977406,
+      "relation_count": 2,
+      "content_type": "application/json"
+    },
+    {
       "id": "431546ac87a8acf30c73c75665fee5b0b586c10fdab9b018d18f96ac5620bf40i0",
       "title": "Parent (2 children)",
       "title_source": "content",
@@ -249929,14 +249937,6 @@
       "height": 795244,
       "relation_count": 1,
       "content_type": "text/plain"
-    },
-    {
-      "id": "430e6a44559742ae051beb0957ff73ff75018bd41ecd32405db00054a71709bai0",
-      "title": "Shielded Wizards",
-      "title_source": "content",
-      "height": 977406,
-      "relation_count": 1,
-      "content_type": "application/json"
     },
     {
       "id": "43143c4cab03b5ed19440a1687535abc94f7d2834daad8daa2ca7dde3ec71feci0",
