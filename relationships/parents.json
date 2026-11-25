@@ -5,10 +5,10 @@
     "title": "Parents",
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
-  "count": 54150,
-  "total_relations": 2566539,
-  "distinct_targets": 2520484,
-  "updatedAt": "2026-11-25T10:00:31.603Z",
+  "count": 54151,
+  "total_relations": 2566540,
+  "distinct_targets": 2520485,
+  "updatedAt": "2026-11-25T10:13:49.338Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -403375,6 +403375,14 @@
       "title": "Parent (1 children)",
       "title_source": "content",
       "height": 866710,
+      "relation_count": 1,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
+      "id": "dd93d67905937409658f86329b6247aaf3b038f860f445b61fbfbee89fa37c30i0",
+      "title": "INSCRIBOORS: a rehearsal of the Codex, the parent of the line to block 1,000,000. Its child proves the Codex's children bind.",
+      "title_source": "content",
+      "height": 977496,
       "relation_count": 1,
       "content_type": "text/plain;charset=utf-8"
     },
