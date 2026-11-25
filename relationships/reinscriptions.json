@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-25T18:29:18.977Z",
+  "generated_at": "2026-11-25T18:39:22.428Z",
   "scan_complete": true,
-  "total_bitmaps": 977548,
-  "total_scanned": 977542,
-  "reinscribed_sat_count": 521,
-  "reinscribed_bitmap_count": 605,
-  "reinscription_count": 3365,
+  "total_bitmaps": 977552,
+  "total_scanned": 977546,
+  "reinscribed_sat_count": 522,
+  "reinscribed_bitmap_count": 606,
+  "reinscription_count": 3368,
   "bitmaps": [
     {
       "bitmap_number": 609,
@@ -20637,6 +20637,27 @@
           "inscription_id": "6073fd0b666e0b3471e071f5a42642048f776c33a08fe1627bc81d27de094da1i0",
           "block_height": 957652,
           "metadata": "Bitmap holds the curse and the blessing to save or destroy your children.\nAny species can survive outside of the ark."
+        }
+      ]
+    },
+    {
+      "bitmap_number": 977549,
+      "bitmap_inscription_id": "339d32d8e8be9cea7db31c52bcc1938e9b1536a4f6f1e18d3b81fe889e462124i0",
+      "reinscriptions": [
+        {
+          "inscription_id": "eeb8e5af8b422573e1a9ae1ba820997a7aacc6dc9e7c37153498b6469b1a86a8i0",
+          "block_height": 927740,
+          "metadata": null
+        },
+        {
+          "inscription_id": "8b97977a5f7e53fc7b76937080bfbb8fc87fb9c121680718a7eb835c3bb9734fi0",
+          "block_height": 957550,
+          "metadata": null
+        },
+        {
+          "inscription_id": "dd077264c77788f82003972d61ad65647782c5baad3041c3b9d130b91d290bf8i0",
+          "block_height": 957646,
+          "metadata": "Working with Fable 5 at Ultacode felt like being 5 years old again, playing with your dad — it reminded me that anything is possible if you want it badly enough."
         }
       ]
     }

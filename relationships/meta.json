@@ -1,14 +1,14 @@
 {
   "totalRelationTypes": 4,
-  "totalRelations": 6127945,
-  "updatedAt": "2026-11-25T18:29:18.986Z",
+  "totalRelations": 6127949,
+  "updatedAt": "2026-11-25T18:39:22.464Z",
   "relationTypes": [
     {
       "id": "parents",
       "relation_type": "child",
-      "total_relations": 2566719,
+      "total_relations": 2566720,
       "distinct_sources": 54151,
-      "distinct_targets": 2520664,
+      "distinct_targets": 2520665,
       "file": "relationships/parents.json"
     },
     {
@@ -30,9 +30,9 @@
     {
       "id": "reinscriptions",
       "relation_type": "reinscription",
-      "total_relations": 3365,
-      "distinct_sources": 605,
-      "distinct_targets": 3365,
+      "total_relations": 3368,
+      "distinct_sources": 606,
+      "distinct_targets": 3368,
       "file": "relationships/reinscriptions.json"
     }
   ]
