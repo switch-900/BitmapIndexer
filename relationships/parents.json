@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54152,
-  "total_relations": 2566800,
-  "distinct_targets": 2520745,
-  "updatedAt": "2026-11-26T14:30:57.102Z",
+  "total_relations": 2566823,
+  "distinct_targets": 2520768,
+  "updatedAt": "2026-11-26T14:42:51.717Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -3271,7 +3271,7 @@
       "title": "Parent (449 children)",
       "title_source": "content",
       "height": 837179,
-      "relation_count": 608,
+      "relation_count": 609,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -3459,6 +3459,14 @@
       "content_type": "image/webp"
     },
     {
+      "id": "7ff3521ee4f882e53baa04fe5b588b71cd4528a8280a23650abc952c2a577b63i0",
+      "title": "Parent (20 children)",
+      "title_source": "content",
+      "height": 976258,
+      "relation_count": 537,
+      "content_type": "application/json"
+    },
+    {
       "id": "174bbec380542eea1c50019866ea1bc6adc1bfb6386f580a145bbe4b3ee3dd7fi0",
       "title": "2024 Christmas Pachinko Tree - orDOS",
       "title_source": "content",
@@ -3499,19 +3507,11 @@
       "content_type": "text/plain;charset=utf-8"
     },
     {
-      "id": "7ff3521ee4f882e53baa04fe5b588b71cd4528a8280a23650abc952c2a577b63i0",
-      "title": "Parent (20 children)",
-      "title_source": "content",
-      "height": 976258,
-      "relation_count": 519,
-      "content_type": "application/json"
-    },
-    {
       "id": "2125ef67c2e3398d7e2227bac3d7c7f410d2cc545807616a76ee8027d3666ddci0",
       "title": "Parent (285 children)",
       "title_source": "content",
       "height": 929411,
-      "relation_count": 518,
+      "relation_count": 519,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -3927,7 +3927,7 @@
       "title": "Parent (280 children)",
       "title_source": "content",
       "height": 837151,
-      "relation_count": 445,
+      "relation_count": 446,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -4143,7 +4143,7 @@
       "title": "Parent (234 children)",
       "title_source": "content",
       "height": 928704,
-      "relation_count": 415,
+      "relation_count": 416,
       "content_type": "text/plain;charset=utf-8"
     },
     {
@@ -4687,7 +4687,7 @@
       "title": "Parent (41 children)",
       "title_source": "content",
       "height": 940999,
-      "relation_count": 326,
+      "relation_count": 327,
       "content_type": "text/plain;charset=utf-8"
     },
     {
