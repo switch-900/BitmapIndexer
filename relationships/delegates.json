@@ -6,9 +6,9 @@
     "description": "All inscriptions that are used as delegate targets."
   },
   "count": 14758,
-  "total_relations": 2388932,
-  "distinct_targets": 2388932,
-  "updatedAt": "2026-11-26T18:34:24.258Z",
+  "total_relations": 2388933,
+  "distinct_targets": 2388933,
+  "updatedAt": "2026-11-26T19:41:20.577Z",
   "items": [
     {
       "id": "eb025023e3e7efb6b1dc1ab2ba21b41fbd7f5afbcc76b92e1fb74887c19858aai0",
@@ -19315,6 +19315,14 @@
       "content_type": "image/gif"
     },
     {
+      "id": "ae0af2358c4ece4cdedd703a2348dd92cfb1ea8568def2c41a2e85dfcf1457c4i0",
+      "title": "Ossuary",
+      "title_source": "content",
+      "height": 974033,
+      "relation_count": 6,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
       "id": "b345936ca682e25cc55ee8785855bde2c754c026af012d297855cd53e225544ei0",
       "title": "Delegate (6 inscriptions)",
       "title_source": "content",
@@ -20225,14 +20233,6 @@
       "height": 865764,
       "relation_count": 5,
       "content_type": "image/webp"
-    },
-    {
-      "id": "ae0af2358c4ece4cdedd703a2348dd92cfb1ea8568def2c41a2e85dfcf1457c4i0",
-      "title": "Ossuary",
-      "title_source": "content",
-      "height": 974033,
-      "relation_count": 5,
-      "content_type": "text/html;charset=utf-8"
     },
     {
       "id": "b213febaeef71d681f6606cc5138e6d67be05774ec42fefacb5213ba6ad91ea7i0",
