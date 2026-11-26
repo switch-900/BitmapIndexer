@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54152,
-  "total_relations": 2566830,
-  "distinct_targets": 2520775,
-  "updatedAt": "2026-11-26T15:14:10.446Z",
+  "total_relations": 2566838,
+  "distinct_targets": 2520783,
+  "updatedAt": "2026-11-26T15:23:35.608Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -1623,7 +1623,7 @@
       "title": "Parent (23 children)",
       "title_source": "content",
       "height": 975978,
-      "relation_count": 2122,
+      "relation_count": 2123,
       "content_type": "application/json"
     },
     {
@@ -1843,20 +1843,20 @@
       "content_type": "image/webp"
     },
     {
+      "id": "12511a5a1b4b0ae76ecb8d1db9d681f6c1f259d5d5ce642dccce4795929c4de4i0",
+      "title": "Parent (55 children)",
+      "title_source": "content",
+      "height": 972977,
+      "relation_count": 2011,
+      "content_type": "application/json"
+    },
+    {
       "id": "1f6f447a6abb8556024bb446fd3ed88b134d1f30cd2599278a7ab5a3abe995e2i0",
       "title": "Parent (2011 children)",
       "title_source": "content",
       "height": 778809,
       "relation_count": 2011,
       "content_type": "image/jpeg"
-    },
-    {
-      "id": "12511a5a1b4b0ae76ecb8d1db9d681f6c1f259d5d5ce642dccce4795929c4de4i0",
-      "title": "Parent (55 children)",
-      "title_source": "content",
-      "height": 972977,
-      "relation_count": 2010,
-      "content_type": "application/json"
     },
     {
       "id": "dec80e60a939e8385f8bd50d23c7fbb8b295f6a725b0d8bfd840e68b3a4c6afei0",
@@ -2983,7 +2983,7 @@
       "title": "Parent (1 children)",
       "title_source": "content",
       "height": 972239,
-      "relation_count": 760,
+      "relation_count": 765,
       "content_type": "image/svg+xml"
     },
     {
@@ -3463,7 +3463,7 @@
       "title": "Parent (20 children)",
       "title_source": "content",
       "height": 976258,
-      "relation_count": 537,
+      "relation_count": 538,
       "content_type": "application/json"
     },
     {
