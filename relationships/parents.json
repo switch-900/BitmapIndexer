@@ -6,9 +6,9 @@
     "description": "All inscriptions that currently act as parents in parent/child relationships."
   },
   "count": 54155,
-  "total_relations": 2567180,
-  "distinct_targets": 2521125,
-  "updatedAt": "2026-11-27T08:36:47.666Z",
+  "total_relations": 2567218,
+  "distinct_targets": 2521163,
+  "updatedAt": "2026-11-27T08:45:16.938Z",
   "items": [
     {
       "id": "7a65684b24f4d3c63f17f2754e2c4d0c25446b76212f5891b2c680f546051bf9i0",
@@ -3435,6 +3435,14 @@
       "content_type": "image/png"
     },
     {
+      "id": "7ff3521ee4f882e53baa04fe5b588b71cd4528a8280a23650abc952c2a577b63i0",
+      "title": "Parent (20 children)",
+      "title_source": "content",
+      "height": 976258,
+      "relation_count": 556,
+      "content_type": "application/json"
+    },
+    {
       "id": "8ddee9b786a115d5cbbbb9306a998f5e8e10b95c296cde348d5f091a53c920c5i0",
       "title": "Sssss — Parent Inscription",
       "title_source": "content",
@@ -3467,14 +3475,6 @@
       "content_type": "image/webp"
     },
     {
-      "id": "7ff3521ee4f882e53baa04fe5b588b71cd4528a8280a23650abc952c2a577b63i0",
-      "title": "Parent (20 children)",
-      "title_source": "content",
-      "height": 976258,
-      "relation_count": 538,
-      "content_type": "application/json"
-    },
-    {
       "id": "174bbec380542eea1c50019866ea1bc6adc1bfb6386f580a145bbe4b3ee3dd7fi0",
       "title": "2024 Christmas Pachinko Tree - orDOS",
       "title_source": "content",
@@ -3503,6 +3503,14 @@
       "title": "Parent (523 children)",
       "title_source": "content",
       "height": 882291,
+      "relation_count": 523,
+      "content_type": "text/plain;charset=utf-8"
+    },
+    {
+      "id": "a5bfc0aad1d2c69b8abd3c7b4112c59a764f002df6c5257f86aa9a0ef408a5a7i0",
+      "title": "Parent (71 children)",
+      "title_source": "content",
+      "height": 906695,
       "relation_count": 523,
       "content_type": "text/plain;charset=utf-8"
     },
@@ -3689,14 +3697,6 @@
       "height": 852554,
       "relation_count": 503,
       "content_type": "video/mp4"
-    },
-    {
-      "id": "a5bfc0aad1d2c69b8abd3c7b4112c59a764f002df6c5257f86aa9a0ef408a5a7i0",
-      "title": "Parent (71 children)",
-      "title_source": "content",
-      "height": 906695,
-      "relation_count": 503,
-      "content_type": "text/plain;charset=utf-8"
     },
     {
       "id": "0b36475b8148e22e09e8404ac894ec3a99edf94ea621697b3be180ca20a45a98i0",
