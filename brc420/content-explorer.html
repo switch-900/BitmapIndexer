@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="referrer" content="no-referrer">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'unsafe-inline'; connect-src 'self' https://ordinals.com; frame-src https://ordinals.com; base-uri 'none'; form-action 'none'">
+<title>BRC-420 Content Explorer · Bitmap420</title>
+<style>
+:root{color-scheme:dark;font:16px system-ui,sans-serif;background:#060d16;color:#d9eaf3}
+*{box-sizing:border-box}body{margin:0}main{max-width:1280px;margin:auto;padding:clamp(12px,3vw,32px)}a{color:#67e8f9;overflow-wrap:anywhere}h1{font-size:clamp(1.6rem,4vw,2.5rem);margin:.6em 0 .2em}h2{font-size:1.05rem;margin:0;overflow-wrap:anywhere}p{margin:.55em 0;overflow-wrap:anywhere}.muted,dt{color:#a3b8c9;font-size:.85rem}.type{color:#67e8f9;font-weight:600}.controls,.actions,.paging{display:flex;flex-wrap:wrap;align-items:center;gap:10px}.controls{margin:20px 0 10px}.controls label{display:grid;gap:5px;flex:1 1 180px;min-width:0;font-size:.85rem}.controls label:first-child{flex-basis:280px}input,select,button{font:inherit;background:#0e1d2b;border:1px solid #36576a;color:#e1f4fc;border-radius:7px;padding:10px;min-height:44px;max-width:100%;min-width:0}button{cursor:pointer}button:disabled{opacity:.45;cursor:default}:focus-visible{outline:2px solid #67e8f9;outline-offset:3px}.assets{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:12px;margin:16px 0}.asset{min-width:0;border:1px solid #254653;background:#0a1723;border-radius:10px;padding:15px}dl{margin:12px 0}dd{margin:3px 0 9px;overflow-wrap:anywhere;font:12px ui-monospace,monospace}.actions a{font-size:.86rem}.actions button{font-size:.85rem}iframe{display:block;width:100%;height:240px;border:1px solid #254653;margin-top:12px;background:#07101a}.paging{justify-content:center;margin:16px 0}.notice{border-left:3px solid #67e8f9;padding:8px 12px;background:#0a1723}
+</style>
+</head>
+<body>
+<main>
+<a href="../index.html">← Bitmap420 explorer</a>
+<h1>BRC-420 Content Explorer</h1>
+<p>Discover the source inscriptions behind active and minted-out deployments. Native Ord delegates are followed before the content type is classified.</p>
+<div class="notice">The catalogue classifies the declared MIME type of the resolved inscription, not the visual assets embedded inside HTML or SVG. Previews are opt-in and isolated; some recursive assets may need the external Ord preview.</div>
+<div class="controls">
+<label>Search name or inscription ID<input id="search" type="search" placeholder="Search all deployments"></label>
+<label>Content category<select id="category"><option value="">All content categories</option></select></label>
+<label>Exact MIME type<select id="mime"><option value="">All MIME types</option></select></label>
+<label>Collection status<select id="collection"><option value="">All collections</option><option value="active">Active</option><option value="minted-out">Minted out</option></select></label>
+</div>
+<div class="actions"><button id="scan" disabled>Scan / retry unknown sources</button><button id="stop" disabled>Stop scan</button><button id="export" disabled>Export matching JSON</button></div>
+<p id="summary" aria-live="polite">Loading index…</p><p id="progress" class="muted" role="status">Uses a prebuilt catalogue when available; otherwise start a scan.</p>
+<section id="results" class="assets" aria-label="Matching deployments"></section>
+<nav class="paging" aria-label="Results pages"><button id="prev" disabled>Previous</button><span id="page"></span><button id="next" disabled>Next</button></nav>
+</main>
+<script type="module" src="./content-explorer.mjs"></script>
+</body>
+</html>
