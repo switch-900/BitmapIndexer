@@ -1,0 +1,52 @@
+name: BRC-420 content catalogue
+on:
+  push:
+    branches: [brc420-content-explorer]
+    paths:
+      - '.github/workflows/brc420-content.yml'
+      - 'brc420/content-explorer.mjs'
+      - 'brc420/content-explorer.test.mjs'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: brc420-content-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  build:
+    if: github.ref == 'refs/heads/brc420-content-explorer'
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          ref: brc420-content-explorer
+          fetch-depth: 1
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /brc420/deploys.json
+            /brc420/content-explorer.mjs
+            /brc420/content-explorer.test.mjs
+            /brc420/content-types.json
+      - name: Run offline tests
+        run: node --test brc420/content-explorer.test.mjs
+      - name: Build catalogue
+        id: scan
+        continue-on-error: true
+        run: node brc420/content-explorer.mjs
+      - name: Save catalogue to the feature branch
+        if: ${{ !cancelled() && steps.scan.outcome != 'skipped' }}
+        run: |
+          test -s brc420/content-types.json
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- brc420/content-types.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Build BRC-420 source content catalogue'
+            git push origin HEAD:refs/heads/brc420-content-explorer
+          fi
+      - name: Report incomplete scan
+        if: steps.scan.outcome == 'failure'
+        run: |
+          echo 'Catalogue is incomplete. Check logs and rerun to resume.'
+          exit 1
