@@ -33,7 +33,7 @@ jobs:
       - name: Build catalogue
         id: scan
         continue-on-error: true
-        run: node brc420/content-explorer.mjs
+        run: node brc420/content-explorer.mjs --ord https://a.0rdinals.com
       - name: Save catalogue to the feature branch
         if: ${{ !cancelled() && steps.scan.outcome != 'skipped' }}
         run: |
